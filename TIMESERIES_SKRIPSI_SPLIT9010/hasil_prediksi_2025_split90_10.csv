@@ -1,0 +1,349 @@
+pintu_masuk,tanggal,jumlah_kunjungan,grup_pintu
+Adi Sucipto,2025-01-01,5743,Udara
+Adi Sucipto,2025-02-01,6080,Udara
+Adi Sucipto,2025-03-01,6790,Udara
+Adi Sucipto,2025-04-01,6177,Udara
+Adi Sucipto,2025-05-01,6680,Udara
+Adi Sucipto,2025-06-01,6611,Udara
+Adi Sucipto,2025-07-01,6304,Udara
+Adi Sucipto,2025-08-01,7105,Udara
+Adi Sucipto,2025-09-01,7227,Udara
+Adi Sucipto,2025-10-01,7152,Udara
+Adi Sucipto,2025-11-01,7353,Udara
+Adi Sucipto,2025-12-01,7390,Udara
+Tanjung Uban,2025-01-01,18661,Laut
+Tanjung Uban,2025-02-01,17452,Laut
+Tanjung Uban,2025-03-01,19364,Laut
+Tanjung Uban,2025-04-01,18675,Laut
+Tanjung Uban,2025-05-01,18334,Laut
+Tanjung Uban,2025-06-01,20345,Laut
+Tanjung Uban,2025-07-01,20153,Laut
+Tanjung Uban,2025-08-01,19788,Laut
+Tanjung Uban,2025-09-01,20965,Laut
+Tanjung Uban,2025-10-01,21701,Laut
+Tanjung Uban,2025-11-01,21500,Laut
+Tanjung Uban,2025-12-01,23053,Laut
+Bandara Int. Lombok,2025-01-01,6275,Udara
+Bandara Int. Lombok,2025-02-01,5425,Udara
+Bandara Int. Lombok,2025-03-01,6014,Udara
+Bandara Int. Lombok,2025-04-01,5890,Udara
+Bandara Int. Lombok,2025-05-01,5482,Udara
+Bandara Int. Lombok,2025-06-01,5346,Udara
+Bandara Int. Lombok,2025-07-01,5823,Udara
+Bandara Int. Lombok,2025-08-01,5953,Udara
+Bandara Int. Lombok,2025-09-01,5565,Udara
+Bandara Int. Lombok,2025-10-01,5455,Udara
+Bandara Int. Lombok,2025-11-01,5753,Udara
+Bandara Int. Lombok,2025-12-01,5893,Udara
+Ngurah Rai,2025-01-01,531726,Udara
+Ngurah Rai,2025-02-01,530319,Udara
+Ngurah Rai,2025-03-01,549525,Udara
+Ngurah Rai,2025-04-01,551089,Udara
+Ngurah Rai,2025-05-01,563808,Udara
+Ngurah Rai,2025-06-01,564853,Udara
+Ngurah Rai,2025-07-01,580473,Udara
+Ngurah Rai,2025-08-01,581227,Udara
+Ngurah Rai,2025-09-01,562716,Udara
+Ngurah Rai,2025-10-01,545680,Udara
+Ngurah Rai,2025-11-01,543461,Udara
+Ngurah Rai,2025-12-01,529773,Udara
+Tanjung Balai Karimun,2025-01-01,5530,Laut
+Tanjung Balai Karimun,2025-02-01,5300,Laut
+Tanjung Balai Karimun,2025-03-01,5281,Laut
+Tanjung Balai Karimun,2025-04-01,5044,Laut
+Tanjung Balai Karimun,2025-05-01,4958,Laut
+Tanjung Balai Karimun,2025-06-01,4980,Laut
+Tanjung Balai Karimun,2025-07-01,4971,Laut
+Tanjung Balai Karimun,2025-08-01,4996,Laut
+Tanjung Balai Karimun,2025-09-01,4998,Laut
+Tanjung Balai Karimun,2025-10-01,4991,Laut
+Tanjung Balai Karimun,2025-11-01,4995,Laut
+Tanjung Balai Karimun,2025-12-01,5042,Laut
+Supadio,2025-01-01,0,Udara
+Supadio,2025-02-01,0,Udara
+Supadio,2025-03-01,0,Udara
+Supadio,2025-04-01,0,Udara
+Supadio,2025-05-01,0,Udara
+Supadio,2025-06-01,0,Udara
+Supadio,2025-07-01,0,Udara
+Supadio,2025-08-01,0,Udara
+Supadio,2025-09-01,0,Udara
+Supadio,2025-10-01,0,Udara
+Supadio,2025-11-01,0,Udara
+Supadio,2025-12-01,0,Udara
+Entikong,2025-01-01,2634,Darat
+Entikong,2025-02-01,2742,Darat
+Entikong,2025-03-01,3071,Darat
+Entikong,2025-04-01,2737,Darat
+Entikong,2025-05-01,2796,Darat
+Entikong,2025-06-01,2832,Darat
+Entikong,2025-07-01,2724,Darat
+Entikong,2025-08-01,2850,Darat
+Entikong,2025-09-01,2798,Darat
+Entikong,2025-10-01,2757,Darat
+Entikong,2025-11-01,2856,Darat
+Entikong,2025-12-01,3252,Darat
+Nanga Badau,2025-01-01,853,Darat
+Nanga Badau,2025-02-01,763,Darat
+Nanga Badau,2025-03-01,973,Darat
+Nanga Badau,2025-04-01,802,Darat
+Nanga Badau,2025-05-01,823,Darat
+Nanga Badau,2025-06-01,878,Darat
+Nanga Badau,2025-07-01,861,Darat
+Nanga Badau,2025-08-01,839,Darat
+Nanga Badau,2025-09-01,845,Darat
+Nanga Badau,2025-10-01,880,Darat
+Nanga Badau,2025-11-01,885,Darat
+Nanga Badau,2025-12-01,925,Darat
+Tanjung Pinang,2025-01-01,4895,Laut
+Tanjung Pinang,2025-02-01,4550,Laut
+Tanjung Pinang,2025-03-01,4790,Laut
+Tanjung Pinang,2025-04-01,4187,Laut
+Tanjung Pinang,2025-05-01,4502,Laut
+Tanjung Pinang,2025-06-01,4494,Laut
+Tanjung Pinang,2025-07-01,4592,Laut
+Tanjung Pinang,2025-08-01,4397,Laut
+Tanjung Pinang,2025-09-01,4685,Laut
+Tanjung Pinang,2025-10-01,4299,Laut
+Tanjung Pinang,2025-11-01,4701,Laut
+Tanjung Pinang,2025-12-01,4455,Laut
+Aruk,2025-01-01,2812,Darat
+Aruk,2025-02-01,2861,Darat
+Aruk,2025-03-01,2966,Darat
+Aruk,2025-04-01,2964,Darat
+Aruk,2025-05-01,2953,Darat
+Aruk,2025-06-01,2902,Darat
+Aruk,2025-07-01,2844,Darat
+Aruk,2025-08-01,2832,Darat
+Aruk,2025-09-01,2812,Darat
+Aruk,2025-10-01,2801,Darat
+Aruk,2025-11-01,2801,Darat
+Aruk,2025-12-01,2801,Darat
+Batam,2025-01-01,116029,Laut
+Batam,2025-02-01,106478,Laut
+Batam,2025-03-01,126749,Laut
+Batam,2025-04-01,114109,Laut
+Batam,2025-05-01,111260,Laut
+Batam,2025-06-01,115921,Laut
+Batam,2025-07-01,113991,Laut
+Batam,2025-08-01,109968,Laut
+Batam,2025-09-01,113603,Laut
+Batam,2025-10-01,114747,Laut
+Batam,2025-11-01,111624,Laut
+Batam,2025-12-01,127378,Laut
+Sultan Badaruddin II,2025-01-01,0,Udara
+Sultan Badaruddin II,2025-02-01,0,Udara
+Sultan Badaruddin II,2025-03-01,0,Udara
+Sultan Badaruddin II,2025-04-01,0,Udara
+Sultan Badaruddin II,2025-05-01,0,Udara
+Sultan Badaruddin II,2025-06-01,0,Udara
+Sultan Badaruddin II,2025-07-01,0,Udara
+Sultan Badaruddin II,2025-08-01,0,Udara
+Sultan Badaruddin II,2025-09-01,0,Udara
+Sultan Badaruddin II,2025-10-01,0,Udara
+Sultan Badaruddin II,2025-11-01,0,Udara
+Sultan Badaruddin II,2025-12-01,0,Udara
+Jayapura,2025-01-01,11397,Darat
+Jayapura,2025-02-01,11226,Darat
+Jayapura,2025-03-01,10920,Darat
+Jayapura,2025-04-01,11001,Darat
+Jayapura,2025-05-01,10887,Darat
+Jayapura,2025-06-01,10196,Darat
+Jayapura,2025-07-01,10237,Darat
+Jayapura,2025-08-01,9949,Darat
+Jayapura,2025-09-01,9730,Darat
+Jayapura,2025-10-01,9454,Darat
+Jayapura,2025-11-01,9026,Darat
+Jayapura,2025-12-01,8521,Darat
+Kualanamu,2025-01-01,18593,Udara
+Kualanamu,2025-02-01,17485,Udara
+Kualanamu,2025-03-01,20107,Udara
+Kualanamu,2025-04-01,19472,Udara
+Kualanamu,2025-05-01,17810,Udara
+Kualanamu,2025-06-01,19101,Udara
+Kualanamu,2025-07-01,20021,Udara
+Kualanamu,2025-08-01,19327,Udara
+Kualanamu,2025-09-01,19108,Udara
+Kualanamu,2025-10-01,19834,Udara
+Kualanamu,2025-11-01,20548,Udara
+Kualanamu,2025-12-01,21237,Udara
+Sam Ratulangi,2025-01-01,4702,Udara
+Sam Ratulangi,2025-02-01,4510,Udara
+Sam Ratulangi,2025-03-01,4595,Udara
+Sam Ratulangi,2025-04-01,4660,Udara
+Sam Ratulangi,2025-05-01,4645,Udara
+Sam Ratulangi,2025-06-01,4638,Udara
+Sam Ratulangi,2025-07-01,4764,Udara
+Sam Ratulangi,2025-08-01,4826,Udara
+Sam Ratulangi,2025-09-01,4834,Udara
+Sam Ratulangi,2025-10-01,4863,Udara
+Sam Ratulangi,2025-11-01,4853,Udara
+Sam Ratulangi,2025-12-01,4860,Udara
+Pintu Darat Lainnya,2025-01-01,83345,Darat
+Pintu Darat Lainnya,2025-02-01,74091,Darat
+Pintu Darat Lainnya,2025-03-01,78028,Darat
+Pintu Darat Lainnya,2025-04-01,79614,Darat
+Pintu Darat Lainnya,2025-05-01,80211,Darat
+Pintu Darat Lainnya,2025-06-01,80973,Darat
+Pintu Darat Lainnya,2025-07-01,81914,Darat
+Pintu Darat Lainnya,2025-08-01,82309,Darat
+Pintu Darat Lainnya,2025-09-01,82245,Darat
+Pintu Darat Lainnya,2025-10-01,82146,Darat
+Pintu Darat Lainnya,2025-11-01,82119,Darat
+Pintu Darat Lainnya,2025-12-01,82170,Darat
+Pintu Laut Lainnya,2025-01-01,96331,Laut
+Pintu Laut Lainnya,2025-02-01,101137,Laut
+Pintu Laut Lainnya,2025-03-01,101996,Laut
+Pintu Laut Lainnya,2025-04-01,103849,Laut
+Pintu Laut Lainnya,2025-05-01,104909,Laut
+Pintu Laut Lainnya,2025-06-01,104849,Laut
+Pintu Laut Lainnya,2025-07-01,103791,Laut
+Pintu Laut Lainnya,2025-08-01,101805,Laut
+Pintu Laut Lainnya,2025-09-01,101269,Laut
+Pintu Laut Lainnya,2025-10-01,102332,Laut
+Pintu Laut Lainnya,2025-11-01,102970,Laut
+Pintu Laut Lainnya,2025-12-01,102802,Laut
+Juanda,2025-01-01,21523,Udara
+Juanda,2025-02-01,19066,Udara
+Juanda,2025-03-01,18695,Udara
+Juanda,2025-04-01,20122,Udara
+Juanda,2025-05-01,19507,Udara
+Juanda,2025-06-01,19479,Udara
+Juanda,2025-07-01,20414,Udara
+Juanda,2025-08-01,20255,Udara
+Juanda,2025-09-01,20123,Udara
+Juanda,2025-10-01,20115,Udara
+Juanda,2025-11-01,20332,Udara
+Juanda,2025-12-01,20304,Udara
+Tanjung Benoa,2025-01-01,2708,Laut
+Tanjung Benoa,2025-02-01,1504,Laut
+Tanjung Benoa,2025-03-01,1001,Laut
+Tanjung Benoa,2025-04-01,1666,Laut
+Tanjung Benoa,2025-05-01,1181,Laut
+Tanjung Benoa,2025-06-01,1129,Laut
+Tanjung Benoa,2025-07-01,1148,Laut
+Tanjung Benoa,2025-08-01,1307,Laut
+Tanjung Benoa,2025-09-01,1326,Laut
+Tanjung Benoa,2025-10-01,1398,Laut
+Tanjung Benoa,2025-11-01,1484,Laut
+Tanjung Benoa,2025-12-01,1618,Laut
+Atambua,2025-01-01,8806,Darat
+Atambua,2025-02-01,9407,Darat
+Atambua,2025-03-01,10704,Darat
+Atambua,2025-04-01,9400,Darat
+Atambua,2025-05-01,8941,Darat
+Atambua,2025-06-01,10154,Darat
+Atambua,2025-07-01,10009,Darat
+Atambua,2025-08-01,9204,Darat
+Atambua,2025-09-01,9360,Darat
+Atambua,2025-10-01,9999,Darat
+Atambua,2025-11-01,10142,Darat
+Atambua,2025-12-01,10176,Darat
+Sultan Iskandar Muda,2025-01-01,3035,Udara
+Sultan Iskandar Muda,2025-02-01,2919,Udara
+Sultan Iskandar Muda,2025-03-01,2874,Udara
+Sultan Iskandar Muda,2025-04-01,2609,Udara
+Sultan Iskandar Muda,2025-05-01,2454,Udara
+Sultan Iskandar Muda,2025-06-01,2152,Udara
+Sultan Iskandar Muda,2025-07-01,2487,Udara
+Sultan Iskandar Muda,2025-08-01,2800,Udara
+Sultan Iskandar Muda,2025-09-01,2511,Udara
+Sultan Iskandar Muda,2025-10-01,2544,Udara
+Sultan Iskandar Muda,2025-11-01,2521,Udara
+Sultan Iskandar Muda,2025-12-01,2735,Udara
+Husein Sastranegara,2025-01-01,6,Udara
+Husein Sastranegara,2025-02-01,6,Udara
+Husein Sastranegara,2025-03-01,7,Udara
+Husein Sastranegara,2025-04-01,7,Udara
+Husein Sastranegara,2025-05-01,10,Udara
+Husein Sastranegara,2025-06-01,12,Udara
+Husein Sastranegara,2025-07-01,10,Udara
+Husein Sastranegara,2025-08-01,4,Udara
+Husein Sastranegara,2025-09-01,54,Udara
+Husein Sastranegara,2025-10-01,90,Udara
+Husein Sastranegara,2025-11-01,122,Udara
+Husein Sastranegara,2025-12-01,118,Udara
+Ahmad Yani,2025-01-01,8,Udara
+Ahmad Yani,2025-02-01,5,Udara
+Ahmad Yani,2025-03-01,5,Udara
+Ahmad Yani,2025-04-01,5,Udara
+Ahmad Yani,2025-05-01,5,Udara
+Ahmad Yani,2025-06-01,5,Udara
+Ahmad Yani,2025-07-01,5,Udara
+Ahmad Yani,2025-08-01,5,Udara
+Ahmad Yani,2025-09-01,5,Udara
+Ahmad Yani,2025-10-01,5,Udara
+Ahmad Yani,2025-11-01,5,Udara
+Ahmad Yani,2025-12-01,5,Udara
+Sultan Syarif Kasim II,2025-01-01,2261,Udara
+Sultan Syarif Kasim II,2025-02-01,2181,Udara
+Sultan Syarif Kasim II,2025-03-01,2380,Udara
+Sultan Syarif Kasim II,2025-04-01,2218,Udara
+Sultan Syarif Kasim II,2025-05-01,2214,Udara
+Sultan Syarif Kasim II,2025-06-01,2238,Udara
+Sultan Syarif Kasim II,2025-07-01,2252,Udara
+Sultan Syarif Kasim II,2025-08-01,2261,Udara
+Sultan Syarif Kasim II,2025-09-01,2261,Udara
+Sultan Syarif Kasim II,2025-10-01,2301,Udara
+Sultan Syarif Kasim II,2025-11-01,2410,Udara
+Sultan Syarif Kasim II,2025-12-01,2582,Udara
+Minangkabau,2025-01-01,6286,Udara
+Minangkabau,2025-02-01,6493,Udara
+Minangkabau,2025-03-01,6706,Udara
+Minangkabau,2025-04-01,6702,Udara
+Minangkabau,2025-05-01,6693,Udara
+Minangkabau,2025-06-01,6773,Udara
+Minangkabau,2025-07-01,6808,Udara
+Minangkabau,2025-08-01,6889,Udara
+Minangkabau,2025-09-01,6818,Udara
+Minangkabau,2025-10-01,6814,Udara
+Minangkabau,2025-11-01,6832,Udara
+Minangkabau,2025-12-01,6950,Udara
+Pintu Udara Lainnya,2025-01-01,1554,Udara
+Pintu Udara Lainnya,2025-02-01,1735,Udara
+Pintu Udara Lainnya,2025-03-01,2496,Udara
+Pintu Udara Lainnya,2025-04-01,1514,Udara
+Pintu Udara Lainnya,2025-05-01,1563,Udara
+Pintu Udara Lainnya,2025-06-01,1711,Udara
+Pintu Udara Lainnya,2025-07-01,1785,Udara
+Pintu Udara Lainnya,2025-08-01,1763,Udara
+Pintu Udara Lainnya,2025-09-01,1790,Udara
+Pintu Udara Lainnya,2025-10-01,1830,Udara
+Pintu Udara Lainnya,2025-11-01,1846,Udara
+Pintu Udara Lainnya,2025-12-01,1851,Udara
+Tanjung Mas,2025-01-01,2024,Laut
+Tanjung Mas,2025-02-01,2206,Laut
+Tanjung Mas,2025-03-01,1949,Laut
+Tanjung Mas,2025-04-01,1975,Laut
+Tanjung Mas,2025-05-01,2153,Laut
+Tanjung Mas,2025-06-01,1937,Laut
+Tanjung Mas,2025-07-01,1695,Laut
+Tanjung Mas,2025-08-01,1782,Laut
+Tanjung Mas,2025-09-01,2521,Laut
+Tanjung Mas,2025-10-01,2117,Laut
+Tanjung Mas,2025-11-01,2485,Laut
+Tanjung Mas,2025-12-01,2278,Laut
+Hasanuddin,2025-01-01,958,Udara
+Hasanuddin,2025-02-01,965,Udara
+Hasanuddin,2025-03-01,1044,Udara
+Hasanuddin,2025-04-01,1018,Udara
+Hasanuddin,2025-05-01,1034,Udara
+Hasanuddin,2025-06-01,1042,Udara
+Hasanuddin,2025-07-01,1042,Udara
+Hasanuddin,2025-08-01,1058,Udara
+Hasanuddin,2025-09-01,1066,Udara
+Hasanuddin,2025-10-01,1072,Udara
+Hasanuddin,2025-11-01,1083,Udara
+Hasanuddin,2025-12-01,1090,Udara
+Soekarno-Hatta,2025-01-01,212900,Udara
+Soekarno-Hatta,2025-02-01,209997,Udara
+Soekarno-Hatta,2025-03-01,211092,Udara
+Soekarno-Hatta,2025-04-01,212017,Udara
+Soekarno-Hatta,2025-05-01,208607,Udara
+Soekarno-Hatta,2025-06-01,209349,Udara
+Soekarno-Hatta,2025-07-01,209654,Udara
+Soekarno-Hatta,2025-08-01,209947,Udara
+Soekarno-Hatta,2025-09-01,208828,Udara
+Soekarno-Hatta,2025-10-01,208592,Udara
+Soekarno-Hatta,2025-11-01,208828,Udara
+Soekarno-Hatta,2025-12-01,208126,Udara

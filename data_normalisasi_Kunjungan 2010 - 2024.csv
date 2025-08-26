@@ -1,0 +1,4177 @@
+tanggal,pintu_masuk,jumlah_kunjungan,grup_pintu
+2010-01-01,Adi Sucipto,3672.0,Udara
+2010-02-01,Adi Sucipto,4006.0,Udara
+2010-03-01,Adi Sucipto,4467.0,Udara
+2010-04-01,Adi Sucipto,3733.0,Udara
+2010-05-01,Adi Sucipto,5170.0,Udara
+2010-06-01,Adi Sucipto,4747.0,Udara
+2010-07-01,Adi Sucipto,4576.0,Udara
+2010-08-01,Adi Sucipto,4188.0,Udara
+2010-09-01,Adi Sucipto,3488.0,Udara
+2010-10-01,Adi Sucipto,4419.0,Udara
+2010-11-01,Adi Sucipto,1254.0,Udara
+2010-12-01,Adi Sucipto,3267.0,Udara
+2011-01-01,Adi Sucipto,2990.0,Udara
+2011-02-01,Adi Sucipto,3344.0,Udara
+2011-03-01,Adi Sucipto,5187.0,Udara
+2011-04-01,Adi Sucipto,4651.0,Udara
+2011-05-01,Adi Sucipto,5106.0,Udara
+2011-06-01,Adi Sucipto,3700.0,Udara
+2011-07-01,Adi Sucipto,4519.0,Udara
+2011-08-01,Adi Sucipto,3826.0,Udara
+2011-09-01,Adi Sucipto,2672.0,Udara
+2011-10-01,Adi Sucipto,3417.0,Udara
+2011-11-01,Adi Sucipto,4851.0,Udara
+2011-12-01,Adi Sucipto,3897.0,Udara
+2012-01-01,Adi Sucipto,3795.0,Udara
+2012-02-01,Adi Sucipto,3447.0,Udara
+2012-03-01,Adi Sucipto,4253.0,Udara
+2012-04-01,Adi Sucipto,4505.0,Udara
+2012-05-01,Adi Sucipto,4925.0,Udara
+2012-06-01,Adi Sucipto,4444.0,Udara
+2012-07-01,Adi Sucipto,4520.0,Udara
+2012-08-01,Adi Sucipto,4910.0,Udara
+2012-09-01,Adi Sucipto,4386.0,Udara
+2012-10-01,Adi Sucipto,6205.0,Udara
+2012-11-01,Adi Sucipto,6598.0,Udara
+2012-12-01,Adi Sucipto,6938.0,Udara
+2013-01-01,Adi Sucipto,4251.0,Udara
+2013-02-01,Adi Sucipto,5558.0,Udara
+2013-03-01,Adi Sucipto,6309.0,Udara
+2013-04-01,Adi Sucipto,6595.0,Udara
+2013-05-01,Adi Sucipto,7044.0,Udara
+2013-06-01,Adi Sucipto,6538.0,Udara
+2013-07-01,Adi Sucipto,6697.0,Udara
+2013-08-01,Adi Sucipto,8219.0,Udara
+2013-09-01,Adi Sucipto,6556.0,Udara
+2013-10-01,Adi Sucipto,7916.0,Udara
+2013-11-01,Adi Sucipto,9482.0,Udara
+2013-12-01,Adi Sucipto,10855.0,Udara
+2014-01-01,Adi Sucipto,8855.0,Udara
+2014-02-01,Adi Sucipto,6132.0,Udara
+2014-03-01,Adi Sucipto,8234.0,Udara
+2014-04-01,Adi Sucipto,7569.0,Udara
+2014-05-01,Adi Sucipto,8679.0,Udara
+2014-06-01,Adi Sucipto,7061.0,Udara
+2014-07-01,Adi Sucipto,5394.0,Udara
+2014-08-01,Adi Sucipto,8488.0,Udara
+2014-09-01,Adi Sucipto,5221.0,Udara
+2014-10-01,Adi Sucipto,7932.0,Udara
+2014-11-01,Adi Sucipto,7172.0,Udara
+2014-12-01,Adi Sucipto,8419.0,Udara
+2015-01-01,Adi Sucipto,4614.0,Udara
+2015-02-01,Adi Sucipto,5379.0,Udara
+2015-03-01,Adi Sucipto,5799.0,Udara
+2015-04-01,Adi Sucipto,5871.0,Udara
+2015-05-01,Adi Sucipto,8152.0,Udara
+2015-06-01,Adi Sucipto,5710.0,Udara
+2015-07-01,Adi Sucipto,4852.0,Udara
+2015-08-01,Adi Sucipto,6502.0,Udara
+2015-09-01,Adi Sucipto,8479.0,Udara
+2015-10-01,Adi Sucipto,7442.0,Udara
+2015-11-01,Adi Sucipto,8568.0,Udara
+2015-12-01,Adi Sucipto,9910.0,Udara
+2016-01-01,Adi Sucipto,6415.0,Udara
+2016-02-01,Adi Sucipto,7899.0,Udara
+2016-03-01,Adi Sucipto,6805.0,Udara
+2016-04-01,Adi Sucipto,7223.0,Udara
+2016-05-01,Adi Sucipto,10919.0,Udara
+2016-06-01,Adi Sucipto,6853.0,Udara
+2016-07-01,Adi Sucipto,11177.0,Udara
+2016-08-01,Adi Sucipto,11718.0,Udara
+2016-09-01,Adi Sucipto,10696.0,Udara
+2016-10-01,Adi Sucipto,11267.0,Udara
+2016-11-01,Adi Sucipto,10209.0,Udara
+2016-12-01,Adi Sucipto,10877.0,Udara
+2017-01-01,Adi Sucipto,9192.0,Udara
+2017-02-01,Adi Sucipto,8963.0,Udara
+2017-03-01,Adi Sucipto,11807.0,Udara
+2017-04-01,Adi Sucipto,13224.0,Udara
+2017-05-01,Adi Sucipto,11608.0,Udara
+2017-06-01,Adi Sucipto,7559.0,Udara
+2017-07-01,Adi Sucipto,14181.0,Udara
+2017-08-01,Adi Sucipto,15786.0,Udara
+2017-09-01,Adi Sucipto,13834.0,Udara
+2017-10-01,Adi Sucipto,13535.0,Udara
+2017-11-01,Adi Sucipto,11781.0,Udara
+2017-12-01,Adi Sucipto,14203.0,Udara
+2018-01-01,Adi Sucipto,10849.0,Udara
+2018-02-01,Adi Sucipto,12602.0,Udara
+2018-03-01,Adi Sucipto,14055.0,Udara
+2018-04-01,Adi Sucipto,11435.0,Udara
+2018-05-01,Adi Sucipto,9584.0,Udara
+2018-06-01,Adi Sucipto,7547.0,Udara
+2018-07-01,Adi Sucipto,13642.0,Udara
+2018-08-01,Adi Sucipto,13468.0,Udara
+2018-09-01,Adi Sucipto,12553.0,Udara
+2018-10-01,Adi Sucipto,11613.0,Udara
+2018-11-01,Adi Sucipto,10661.0,Udara
+2018-12-01,Adi Sucipto,10813.0,Udara
+2019-01-01,Adi Sucipto,8055.0,Udara
+2019-02-01,Adi Sucipto,9604.0,Udara
+2019-03-01,Adi Sucipto,10550.0,Udara
+2019-04-01,Adi Sucipto,9922.0,Udara
+2019-05-01,Adi Sucipto,6664.0,Udara
+2019-06-01,Adi Sucipto,6583.0,Udara
+2019-07-01,Adi Sucipto,10480.0,Udara
+2019-08-01,Adi Sucipto,12013.0,Udara
+2019-09-01,Adi Sucipto,10609.0,Udara
+2019-10-01,Adi Sucipto,9535.0,Udara
+2019-11-01,Adi Sucipto,9218.0,Udara
+2019-12-01,Adi Sucipto,9795.0,Udara
+2023-01-01,Adi Sucipto,3878.0,Udara
+2023-02-01,Adi Sucipto,4839.0,Udara
+2023-03-01,Adi Sucipto,5007.0,Udara
+2023-04-01,Adi Sucipto,5592.0,Udara
+2023-05-01,Adi Sucipto,8160.0,Udara
+2023-06-01,Adi Sucipto,11188.0,Udara
+2023-07-01,Adi Sucipto,12444.0,Udara
+2023-08-01,Adi Sucipto,12974.0,Udara
+2023-09-01,Adi Sucipto,11855.0,Udara
+2023-10-01,Adi Sucipto,8536.0,Udara
+2023-11-01,Adi Sucipto,9675.0,Udara
+2023-12-01,Adi Sucipto,11338.0,Udara
+2024-01-01,Adi Sucipto,6879.0,Udara
+2024-02-01,Adi Sucipto,9813.0,Udara
+2024-03-01,Adi Sucipto,6258.0,Udara
+2024-04-01,Adi Sucipto,8790.0,Udara
+2024-05-01,Adi Sucipto,11323.0,Udara
+2024-06-01,Adi Sucipto,8134.0,Udara
+2024-07-01,Adi Sucipto,11120.0,Udara
+2024-08-01,Adi Sucipto,10136.0,Udara
+2024-09-01,Adi Sucipto,9621.0,Udara
+2024-10-01,Adi Sucipto,7828.0,Udara
+2024-11-01,Adi Sucipto,6728.0,Udara
+2024-12-01,Adi Sucipto,7167.0,Udara
+2010-01-01,Ahmad Yani,0.0,Udara
+2010-02-01,Ahmad Yani,0.0,Udara
+2010-03-01,Ahmad Yani,0.0,Udara
+2010-04-01,Ahmad Yani,0.0,Udara
+2010-05-01,Ahmad Yani,0.0,Udara
+2010-06-01,Ahmad Yani,0.0,Udara
+2010-07-01,Ahmad Yani,0.0,Udara
+2010-08-01,Ahmad Yani,0.0,Udara
+2010-09-01,Ahmad Yani,0.0,Udara
+2010-10-01,Ahmad Yani,0.0,Udara
+2010-11-01,Ahmad Yani,0.0,Udara
+2010-12-01,Ahmad Yani,0.0,Udara
+2011-01-01,Ahmad Yani,0.0,Udara
+2011-02-01,Ahmad Yani,0.0,Udara
+2011-03-01,Ahmad Yani,0.0,Udara
+2011-04-01,Ahmad Yani,0.0,Udara
+2011-05-01,Ahmad Yani,0.0,Udara
+2011-06-01,Ahmad Yani,0.0,Udara
+2011-07-01,Ahmad Yani,0.0,Udara
+2011-08-01,Ahmad Yani,0.0,Udara
+2011-09-01,Ahmad Yani,0.0,Udara
+2011-10-01,Ahmad Yani,0.0,Udara
+2011-11-01,Ahmad Yani,0.0,Udara
+2011-12-01,Ahmad Yani,0.0,Udara
+2012-01-01,Ahmad Yani,0.0,Udara
+2012-02-01,Ahmad Yani,0.0,Udara
+2012-03-01,Ahmad Yani,0.0,Udara
+2012-04-01,Ahmad Yani,0.0,Udara
+2012-05-01,Ahmad Yani,0.0,Udara
+2012-06-01,Ahmad Yani,0.0,Udara
+2012-07-01,Ahmad Yani,0.0,Udara
+2012-08-01,Ahmad Yani,0.0,Udara
+2012-09-01,Ahmad Yani,0.0,Udara
+2012-10-01,Ahmad Yani,0.0,Udara
+2012-11-01,Ahmad Yani,0.0,Udara
+2012-12-01,Ahmad Yani,0.0,Udara
+2013-01-01,Ahmad Yani,0.0,Udara
+2013-02-01,Ahmad Yani,0.0,Udara
+2013-03-01,Ahmad Yani,0.0,Udara
+2013-04-01,Ahmad Yani,0.0,Udara
+2013-05-01,Ahmad Yani,0.0,Udara
+2013-06-01,Ahmad Yani,0.0,Udara
+2013-07-01,Ahmad Yani,0.0,Udara
+2013-08-01,Ahmad Yani,0.0,Udara
+2013-09-01,Ahmad Yani,0.0,Udara
+2013-10-01,Ahmad Yani,0.0,Udara
+2013-11-01,Ahmad Yani,0.0,Udara
+2013-12-01,Ahmad Yani,0.0,Udara
+2014-01-01,Ahmad Yani,0.0,Udara
+2014-02-01,Ahmad Yani,0.0,Udara
+2014-03-01,Ahmad Yani,0.0,Udara
+2014-04-01,Ahmad Yani,0.0,Udara
+2014-05-01,Ahmad Yani,0.0,Udara
+2014-06-01,Ahmad Yani,0.0,Udara
+2014-07-01,Ahmad Yani,0.0,Udara
+2014-08-01,Ahmad Yani,0.0,Udara
+2014-09-01,Ahmad Yani,0.0,Udara
+2014-10-01,Ahmad Yani,0.0,Udara
+2014-11-01,Ahmad Yani,0.0,Udara
+2014-12-01,Ahmad Yani,0.0,Udara
+2015-01-01,Ahmad Yani,0.0,Udara
+2015-02-01,Ahmad Yani,0.0,Udara
+2015-03-01,Ahmad Yani,0.0,Udara
+2015-04-01,Ahmad Yani,0.0,Udara
+2015-05-01,Ahmad Yani,0.0,Udara
+2015-06-01,Ahmad Yani,0.0,Udara
+2015-07-01,Ahmad Yani,0.0,Udara
+2015-08-01,Ahmad Yani,0.0,Udara
+2015-09-01,Ahmad Yani,0.0,Udara
+2015-10-01,Ahmad Yani,0.0,Udara
+2015-11-01,Ahmad Yani,0.0,Udara
+2015-12-01,Ahmad Yani,0.0,Udara
+2016-01-01,Ahmad Yani,0.0,Udara
+2016-02-01,Ahmad Yani,0.0,Udara
+2016-03-01,Ahmad Yani,0.0,Udara
+2016-04-01,Ahmad Yani,0.0,Udara
+2016-05-01,Ahmad Yani,0.0,Udara
+2016-06-01,Ahmad Yani,0.0,Udara
+2016-07-01,Ahmad Yani,0.0,Udara
+2016-08-01,Ahmad Yani,0.0,Udara
+2016-09-01,Ahmad Yani,0.0,Udara
+2016-10-01,Ahmad Yani,0.0,Udara
+2016-11-01,Ahmad Yani,0.0,Udara
+2016-12-01,Ahmad Yani,0.0,Udara
+2017-01-01,Ahmad Yani,1548.0,Udara
+2017-02-01,Ahmad Yani,1354.0,Udara
+2017-03-01,Ahmad Yani,1815.0,Udara
+2017-04-01,Ahmad Yani,1647.0,Udara
+2017-05-01,Ahmad Yani,1891.0,Udara
+2017-06-01,Ahmad Yani,1541.0,Udara
+2017-07-01,Ahmad Yani,2294.0,Udara
+2017-08-01,Ahmad Yani,2625.0,Udara
+2017-09-01,Ahmad Yani,2088.0,Udara
+2017-10-01,Ahmad Yani,2079.0,Udara
+2017-11-01,Ahmad Yani,2361.0,Udara
+2017-12-01,Ahmad Yani,2354.0,Udara
+2018-01-01,Ahmad Yani,1680.0,Udara
+2018-02-01,Ahmad Yani,1724.0,Udara
+2018-03-01,Ahmad Yani,2020.0,Udara
+2018-04-01,Ahmad Yani,2232.0,Udara
+2018-05-01,Ahmad Yani,1612.0,Udara
+2018-06-01,Ahmad Yani,1647.0,Udara
+2018-07-01,Ahmad Yani,2114.0,Udara
+2018-08-01,Ahmad Yani,2650.0,Udara
+2018-09-01,Ahmad Yani,2117.0,Udara
+2018-10-01,Ahmad Yani,2022.0,Udara
+2018-11-01,Ahmad Yani,1844.0,Udara
+2018-12-01,Ahmad Yani,1930.0,Udara
+2019-01-01,Ahmad Yani,2165.0,Udara
+2019-02-01,Ahmad Yani,2033.0,Udara
+2019-03-01,Ahmad Yani,2296.0,Udara
+2019-04-01,Ahmad Yani,1635.0,Udara
+2019-05-01,Ahmad Yani,996.0,Udara
+2019-06-01,Ahmad Yani,1872.0,Udara
+2019-07-01,Ahmad Yani,1851.0,Udara
+2019-08-01,Ahmad Yani,2035.0,Udara
+2019-09-01,Ahmad Yani,1946.0,Udara
+2019-10-01,Ahmad Yani,2225.0,Udara
+2019-11-01,Ahmad Yani,2296.0,Udara
+2019-12-01,Ahmad Yani,2627.0,Udara
+2023-01-01,Ahmad Yani,1.0,Udara
+2023-02-01,Ahmad Yani,1.0,Udara
+2023-03-01,Ahmad Yani,1.0,Udara
+2023-04-01,Ahmad Yani,0.0,Udara
+2023-05-01,Ahmad Yani,0.0,Udara
+2023-06-01,Ahmad Yani,0.0,Udara
+2023-07-01,Ahmad Yani,0.0,Udara
+2023-08-01,Ahmad Yani,0.0,Udara
+2023-09-01,Ahmad Yani,8.0,Udara
+2023-10-01,Ahmad Yani,0.0,Udara
+2023-11-01,Ahmad Yani,0.0,Udara
+2023-12-01,Ahmad Yani,0.0,Udara
+2024-01-01,Ahmad Yani,0.0,Udara
+2024-02-01,Ahmad Yani,2.0,Udara
+2024-03-01,Ahmad Yani,0.0,Udara
+2024-04-01,Ahmad Yani,0.0,Udara
+2024-05-01,Ahmad Yani,0.0,Udara
+2024-06-01,Ahmad Yani,0.0,Udara
+2024-07-01,Ahmad Yani,0.0,Udara
+2024-08-01,Ahmad Yani,0.0,Udara
+2024-09-01,Ahmad Yani,0.0,Udara
+2024-10-01,Ahmad Yani,0.0,Udara
+2024-11-01,Ahmad Yani,0.0,Udara
+2024-12-01,Ahmad Yani,0.0,Udara
+2010-01-01,Aruk,0.0,Darat
+2010-02-01,Aruk,0.0,Darat
+2010-03-01,Aruk,0.0,Darat
+2010-04-01,Aruk,0.0,Darat
+2010-05-01,Aruk,0.0,Darat
+2010-06-01,Aruk,0.0,Darat
+2010-07-01,Aruk,0.0,Darat
+2010-08-01,Aruk,0.0,Darat
+2010-09-01,Aruk,0.0,Darat
+2010-10-01,Aruk,0.0,Darat
+2010-11-01,Aruk,0.0,Darat
+2010-12-01,Aruk,0.0,Darat
+2011-01-01,Aruk,0.0,Darat
+2011-02-01,Aruk,0.0,Darat
+2011-03-01,Aruk,0.0,Darat
+2011-04-01,Aruk,0.0,Darat
+2011-05-01,Aruk,0.0,Darat
+2011-06-01,Aruk,0.0,Darat
+2011-07-01,Aruk,0.0,Darat
+2011-08-01,Aruk,0.0,Darat
+2011-09-01,Aruk,0.0,Darat
+2011-10-01,Aruk,0.0,Darat
+2011-11-01,Aruk,0.0,Darat
+2011-12-01,Aruk,0.0,Darat
+2012-01-01,Aruk,0.0,Darat
+2012-02-01,Aruk,0.0,Darat
+2012-03-01,Aruk,0.0,Darat
+2012-04-01,Aruk,0.0,Darat
+2012-05-01,Aruk,0.0,Darat
+2012-06-01,Aruk,0.0,Darat
+2012-07-01,Aruk,0.0,Darat
+2012-08-01,Aruk,0.0,Darat
+2012-09-01,Aruk,0.0,Darat
+2012-10-01,Aruk,0.0,Darat
+2012-11-01,Aruk,0.0,Darat
+2012-12-01,Aruk,0.0,Darat
+2013-01-01,Aruk,0.0,Darat
+2013-02-01,Aruk,0.0,Darat
+2013-03-01,Aruk,0.0,Darat
+2013-04-01,Aruk,0.0,Darat
+2013-05-01,Aruk,0.0,Darat
+2013-06-01,Aruk,0.0,Darat
+2013-07-01,Aruk,0.0,Darat
+2013-08-01,Aruk,0.0,Darat
+2013-09-01,Aruk,0.0,Darat
+2013-10-01,Aruk,0.0,Darat
+2013-11-01,Aruk,0.0,Darat
+2013-12-01,Aruk,0.0,Darat
+2014-01-01,Aruk,0.0,Darat
+2014-02-01,Aruk,0.0,Darat
+2014-03-01,Aruk,0.0,Darat
+2014-04-01,Aruk,0.0,Darat
+2014-05-01,Aruk,0.0,Darat
+2014-06-01,Aruk,0.0,Darat
+2014-07-01,Aruk,0.0,Darat
+2014-08-01,Aruk,0.0,Darat
+2014-09-01,Aruk,0.0,Darat
+2014-10-01,Aruk,0.0,Darat
+2014-11-01,Aruk,0.0,Darat
+2014-12-01,Aruk,0.0,Darat
+2015-01-01,Aruk,0.0,Darat
+2015-02-01,Aruk,0.0,Darat
+2015-03-01,Aruk,0.0,Darat
+2015-04-01,Aruk,0.0,Darat
+2015-05-01,Aruk,0.0,Darat
+2015-06-01,Aruk,0.0,Darat
+2015-07-01,Aruk,0.0,Darat
+2015-08-01,Aruk,0.0,Darat
+2015-09-01,Aruk,0.0,Darat
+2015-10-01,Aruk,0.0,Darat
+2015-11-01,Aruk,0.0,Darat
+2015-12-01,Aruk,0.0,Darat
+2016-01-01,Aruk,0.0,Darat
+2016-02-01,Aruk,0.0,Darat
+2016-03-01,Aruk,0.0,Darat
+2016-04-01,Aruk,0.0,Darat
+2016-05-01,Aruk,0.0,Darat
+2016-06-01,Aruk,0.0,Darat
+2016-07-01,Aruk,0.0,Darat
+2016-08-01,Aruk,0.0,Darat
+2016-09-01,Aruk,0.0,Darat
+2016-10-01,Aruk,0.0,Darat
+2016-11-01,Aruk,0.0,Darat
+2016-12-01,Aruk,0.0,Darat
+2017-01-01,Aruk,414.0,Darat
+2017-02-01,Aruk,511.0,Darat
+2017-03-01,Aruk,433.0,Darat
+2017-04-01,Aruk,539.0,Darat
+2017-05-01,Aruk,438.0,Darat
+2017-06-01,Aruk,1460.0,Darat
+2017-07-01,Aruk,1087.0,Darat
+2017-08-01,Aruk,814.0,Darat
+2017-09-01,Aruk,802.0,Darat
+2017-10-01,Aruk,870.0,Darat
+2017-11-01,Aruk,809.0,Darat
+2017-12-01,Aruk,1919.0,Darat
+2018-01-01,Aruk,377.0,Darat
+2018-02-01,Aruk,928.0,Darat
+2018-03-01,Aruk,766.0,Darat
+2018-04-01,Aruk,587.0,Darat
+2018-05-01,Aruk,1051.0,Darat
+2018-06-01,Aruk,2200.0,Darat
+2018-07-01,Aruk,825.0,Darat
+2018-08-01,Aruk,1516.0,Darat
+2018-09-01,Aruk,1143.0,Darat
+2018-10-01,Aruk,745.0,Darat
+2018-11-01,Aruk,1066.0,Darat
+2018-12-01,Aruk,1125.0,Darat
+2019-01-01,Aruk,804.0,Darat
+2019-02-01,Aruk,1989.0,Darat
+2019-03-01,Aruk,2171.0,Darat
+2019-04-01,Aruk,836.0,Darat
+2019-05-01,Aruk,939.0,Darat
+2019-06-01,Aruk,2081.0,Darat
+2019-07-01,Aruk,1061.0,Darat
+2019-08-01,Aruk,2081.0,Darat
+2019-09-01,Aruk,1066.0,Darat
+2019-10-01,Aruk,763.0,Darat
+2019-11-01,Aruk,1009.0,Darat
+2019-12-01,Aruk,1708.0,Darat
+2023-01-01,Aruk,2542.0,Darat
+2023-02-01,Aruk,2503.0,Darat
+2023-03-01,Aruk,2169.0,Darat
+2023-04-01,Aruk,3592.0,Darat
+2023-05-01,Aruk,2057.0,Darat
+2023-06-01,Aruk,2755.0,Darat
+2023-07-01,Aruk,1832.0,Darat
+2023-08-01,Aruk,2653.0,Darat
+2023-09-01,Aruk,1878.0,Darat
+2023-10-01,Aruk,1721.0,Darat
+2023-11-01,Aruk,1790.0,Darat
+2023-12-01,Aruk,3605.0,Darat
+2024-01-01,Aruk,1733.0,Darat
+2024-02-01,Aruk,4433.0,Darat
+2024-03-01,Aruk,2400.0,Darat
+2024-04-01,Aruk,3521.0,Darat
+2024-05-01,Aruk,2225.0,Darat
+2024-06-01,Aruk,2878.0,Darat
+2024-07-01,Aruk,2926.0,Darat
+2024-08-01,Aruk,2819.0,Darat
+2024-09-01,Aruk,3680.0,Darat
+2024-10-01,Aruk,2376.0,Darat
+2024-11-01,Aruk,2208.0,Darat
+2024-12-01,Aruk,3787.0,Darat
+2010-01-01,Atambua,0.0,Darat
+2010-02-01,Atambua,0.0,Darat
+2010-03-01,Atambua,0.0,Darat
+2010-04-01,Atambua,0.0,Darat
+2010-05-01,Atambua,0.0,Darat
+2010-06-01,Atambua,0.0,Darat
+2010-07-01,Atambua,0.0,Darat
+2010-08-01,Atambua,0.0,Darat
+2010-09-01,Atambua,0.0,Darat
+2010-10-01,Atambua,0.0,Darat
+2010-11-01,Atambua,0.0,Darat
+2010-12-01,Atambua,0.0,Darat
+2011-01-01,Atambua,0.0,Darat
+2011-02-01,Atambua,0.0,Darat
+2011-03-01,Atambua,0.0,Darat
+2011-04-01,Atambua,0.0,Darat
+2011-05-01,Atambua,0.0,Darat
+2011-06-01,Atambua,0.0,Darat
+2011-07-01,Atambua,0.0,Darat
+2011-08-01,Atambua,0.0,Darat
+2011-09-01,Atambua,0.0,Darat
+2011-10-01,Atambua,0.0,Darat
+2011-11-01,Atambua,0.0,Darat
+2011-12-01,Atambua,0.0,Darat
+2012-01-01,Atambua,0.0,Darat
+2012-02-01,Atambua,0.0,Darat
+2012-03-01,Atambua,0.0,Darat
+2012-04-01,Atambua,0.0,Darat
+2012-05-01,Atambua,0.0,Darat
+2012-06-01,Atambua,0.0,Darat
+2012-07-01,Atambua,0.0,Darat
+2012-08-01,Atambua,0.0,Darat
+2012-09-01,Atambua,0.0,Darat
+2012-10-01,Atambua,0.0,Darat
+2012-11-01,Atambua,0.0,Darat
+2012-12-01,Atambua,0.0,Darat
+2013-01-01,Atambua,0.0,Darat
+2013-02-01,Atambua,0.0,Darat
+2013-03-01,Atambua,0.0,Darat
+2013-04-01,Atambua,0.0,Darat
+2013-05-01,Atambua,0.0,Darat
+2013-06-01,Atambua,0.0,Darat
+2013-07-01,Atambua,0.0,Darat
+2013-08-01,Atambua,0.0,Darat
+2013-09-01,Atambua,0.0,Darat
+2013-10-01,Atambua,0.0,Darat
+2013-11-01,Atambua,0.0,Darat
+2013-12-01,Atambua,0.0,Darat
+2014-01-01,Atambua,0.0,Darat
+2014-02-01,Atambua,0.0,Darat
+2014-03-01,Atambua,0.0,Darat
+2014-04-01,Atambua,0.0,Darat
+2014-05-01,Atambua,0.0,Darat
+2014-06-01,Atambua,0.0,Darat
+2014-07-01,Atambua,0.0,Darat
+2014-08-01,Atambua,0.0,Darat
+2014-09-01,Atambua,0.0,Darat
+2014-10-01,Atambua,0.0,Darat
+2014-11-01,Atambua,0.0,Darat
+2014-12-01,Atambua,0.0,Darat
+2015-01-01,Atambua,0.0,Darat
+2015-02-01,Atambua,0.0,Darat
+2015-03-01,Atambua,0.0,Darat
+2015-04-01,Atambua,0.0,Darat
+2015-05-01,Atambua,0.0,Darat
+2015-06-01,Atambua,0.0,Darat
+2015-07-01,Atambua,0.0,Darat
+2015-08-01,Atambua,0.0,Darat
+2015-09-01,Atambua,0.0,Darat
+2015-10-01,Atambua,0.0,Darat
+2015-11-01,Atambua,0.0,Darat
+2015-12-01,Atambua,0.0,Darat
+2016-01-01,Atambua,0.0,Darat
+2016-02-01,Atambua,0.0,Darat
+2016-03-01,Atambua,0.0,Darat
+2016-04-01,Atambua,0.0,Darat
+2016-05-01,Atambua,0.0,Darat
+2016-06-01,Atambua,0.0,Darat
+2016-07-01,Atambua,0.0,Darat
+2016-08-01,Atambua,0.0,Darat
+2016-09-01,Atambua,0.0,Darat
+2016-10-01,Atambua,0.0,Darat
+2016-11-01,Atambua,0.0,Darat
+2016-12-01,Atambua,0.0,Darat
+2017-01-01,Atambua,4740.0,Darat
+2017-02-01,Atambua,4017.0,Darat
+2017-03-01,Atambua,3768.0,Darat
+2017-04-01,Atambua,5843.0,Darat
+2017-05-01,Atambua,2096.0,Darat
+2017-06-01,Atambua,6238.0,Darat
+2017-07-01,Atambua,5476.0,Darat
+2017-08-01,Atambua,6120.0,Darat
+2017-09-01,Atambua,6455.0,Darat
+2017-10-01,Atambua,6167.0,Darat
+2017-11-01,Atambua,5976.0,Darat
+2017-12-01,Atambua,7081.0,Darat
+2018-01-01,Atambua,4601.0,Darat
+2018-02-01,Atambua,3799.0,Darat
+2018-03-01,Atambua,5250.0,Darat
+2018-04-01,Atambua,5571.0,Darat
+2018-05-01,Atambua,6283.0,Darat
+2018-06-01,Atambua,7047.0,Darat
+2018-07-01,Atambua,6508.0,Darat
+2018-08-01,Atambua,7912.0,Darat
+2018-09-01,Atambua,8575.0,Darat
+2018-10-01,Atambua,8246.0,Darat
+2018-11-01,Atambua,8207.0,Darat
+2018-12-01,Atambua,13915.0,Darat
+2019-01-01,Atambua,7835.0,Darat
+2019-02-01,Atambua,5973.0,Darat
+2019-03-01,Atambua,6741.0,Darat
+2019-04-01,Atambua,9618.0,Darat
+2019-05-01,Atambua,7457.0,Darat
+2019-06-01,Atambua,8718.0,Darat
+2019-07-01,Atambua,8961.0,Darat
+2019-08-01,Atambua,9492.0,Darat
+2019-09-01,Atambua,7731.0,Darat
+2019-10-01,Atambua,8994.0,Darat
+2019-11-01,Atambua,9824.0,Darat
+2019-12-01,Atambua,12561.0,Darat
+2023-01-01,Atambua,2514.0,Darat
+2023-02-01,Atambua,4212.0,Darat
+2023-03-01,Atambua,7016.0,Darat
+2023-04-01,Atambua,7322.0,Darat
+2023-05-01,Atambua,6651.0,Darat
+2023-06-01,Atambua,8267.0,Darat
+2023-07-01,Atambua,8198.0,Darat
+2023-08-01,Atambua,11895.0,Darat
+2023-09-01,Atambua,8942.0,Darat
+2023-10-01,Atambua,9700.0,Darat
+2023-11-01,Atambua,8838.0,Darat
+2023-12-01,Atambua,12678.0,Darat
+2024-01-01,Atambua,8426.0,Darat
+2024-02-01,Atambua,7423.0,Darat
+2024-03-01,Atambua,8958.0,Darat
+2024-04-01,Atambua,9209.0,Darat
+2024-05-01,Atambua,9670.0,Darat
+2024-06-01,Atambua,11141.0,Darat
+2024-07-01,Atambua,11847.0,Darat
+2024-08-01,Atambua,10029.0,Darat
+2024-09-01,Atambua,8384.0,Darat
+2024-10-01,Atambua,13025.0,Darat
+2024-11-01,Atambua,16360.0,Darat
+2024-12-01,Atambua,18751.0,Darat
+2010-01-01,Bandara Int. Lombok,727.0,Udara
+2010-02-01,Bandara Int. Lombok,974.0,Udara
+2010-03-01,Bandara Int. Lombok,1293.0,Udara
+2010-04-01,Bandara Int. Lombok,1319.0,Udara
+2010-05-01,Bandara Int. Lombok,1170.0,Udara
+2010-06-01,Bandara Int. Lombok,1585.0,Udara
+2010-07-01,Bandara Int. Lombok,2134.0,Udara
+2010-08-01,Bandara Int. Lombok,2171.0,Udara
+2010-09-01,Bandara Int. Lombok,1340.0,Udara
+2010-10-01,Bandara Int. Lombok,1459.0,Udara
+2010-11-01,Bandara Int. Lombok,1253.0,Udara
+2010-12-01,Bandara Int. Lombok,1863.0,Udara
+2011-01-01,Bandara Int. Lombok,1164.0,Udara
+2011-02-01,Bandara Int. Lombok,835.0,Udara
+2011-03-01,Bandara Int. Lombok,1315.0,Udara
+2011-04-01,Bandara Int. Lombok,1639.0,Udara
+2011-05-01,Bandara Int. Lombok,1698.0,Udara
+2011-06-01,Bandara Int. Lombok,1683.0,Udara
+2011-07-01,Bandara Int. Lombok,2182.0,Udara
+2011-08-01,Bandara Int. Lombok,1506.0,Udara
+2011-09-01,Bandara Int. Lombok,1216.0,Udara
+2011-10-01,Bandara Int. Lombok,1629.0,Udara
+2011-11-01,Bandara Int. Lombok,1368.0,Udara
+2011-12-01,Bandara Int. Lombok,1703.0,Udara
+2012-01-01,Bandara Int. Lombok,1230.0,Udara
+2012-02-01,Bandara Int. Lombok,871.0,Udara
+2012-03-01,Bandara Int. Lombok,1348.0,Udara
+2012-04-01,Bandara Int. Lombok,1482.0,Udara
+2012-05-01,Bandara Int. Lombok,942.0,Udara
+2012-06-01,Bandara Int. Lombok,1384.0,Udara
+2012-07-01,Bandara Int. Lombok,1219.0,Udara
+2012-08-01,Bandara Int. Lombok,996.0,Udara
+2012-09-01,Bandara Int. Lombok,1037.0,Udara
+2012-10-01,Bandara Int. Lombok,2251.0,Udara
+2012-11-01,Bandara Int. Lombok,1745.0,Udara
+2012-12-01,Bandara Int. Lombok,2527.0,Udara
+2013-01-01,Bandara Int. Lombok,1077.0,Udara
+2013-02-01,Bandara Int. Lombok,1734.0,Udara
+2013-03-01,Bandara Int. Lombok,2258.0,Udara
+2013-04-01,Bandara Int. Lombok,2284.0,Udara
+2013-05-01,Bandara Int. Lombok,2434.0,Udara
+2013-06-01,Bandara Int. Lombok,2711.0,Udara
+2013-07-01,Bandara Int. Lombok,2444.0,Udara
+2013-08-01,Bandara Int. Lombok,3246.0,Udara
+2013-09-01,Bandara Int. Lombok,3829.0,Udara
+2013-10-01,Bandara Int. Lombok,5294.0,Udara
+2013-11-01,Bandara Int. Lombok,5386.0,Udara
+2013-12-01,Bandara Int. Lombok,7683.0,Udara
+2014-01-01,Bandara Int. Lombok,5105.0,Udara
+2014-02-01,Bandara Int. Lombok,4862.0,Udara
+2014-03-01,Bandara Int. Lombok,5987.0,Udara
+2014-04-01,Bandara Int. Lombok,5413.0,Udara
+2014-05-01,Bandara Int. Lombok,6499.0,Udara
+2014-06-01,Bandara Int. Lombok,6071.0,Udara
+2014-07-01,Bandara Int. Lombok,6582.0,Udara
+2014-08-01,Bandara Int. Lombok,7259.0,Udara
+2014-09-01,Bandara Int. Lombok,6532.0,Udara
+2014-10-01,Bandara Int. Lombok,5438.0,Udara
+2014-11-01,Bandara Int. Lombok,3748.0,Udara
+2014-12-01,Bandara Int. Lombok,6385.0,Udara
+2015-01-01,Bandara Int. Lombok,2793.0,Udara
+2015-02-01,Bandara Int. Lombok,4348.0,Udara
+2015-03-01,Bandara Int. Lombok,6004.0,Udara
+2015-04-01,Bandara Int. Lombok,5725.0,Udara
+2015-05-01,Bandara Int. Lombok,5713.0,Udara
+2015-06-01,Bandara Int. Lombok,4410.0,Udara
+2015-07-01,Bandara Int. Lombok,5316.0,Udara
+2015-08-01,Bandara Int. Lombok,8089.0,Udara
+2015-09-01,Bandara Int. Lombok,7440.0,Udara
+2015-10-01,Bandara Int. Lombok,7419.0,Udara
+2015-11-01,Bandara Int. Lombok,4477.0,Udara
+2015-12-01,Bandara Int. Lombok,8483.0,Udara
+2016-01-01,Bandara Int. Lombok,5162.0,Udara
+2016-02-01,Bandara Int. Lombok,6184.0,Udara
+2016-03-01,Bandara Int. Lombok,7356.0,Udara
+2016-04-01,Bandara Int. Lombok,5407.0,Udara
+2016-05-01,Bandara Int. Lombok,7634.0,Udara
+2016-06-01,Bandara Int. Lombok,4452.0,Udara
+2016-07-01,Bandara Int. Lombok,9653.0,Udara
+2016-08-01,Bandara Int. Lombok,9127.0,Udara
+2016-09-01,Bandara Int. Lombok,8756.0,Udara
+2016-10-01,Bandara Int. Lombok,9500.0,Udara
+2016-11-01,Bandara Int. Lombok,7813.0,Udara
+2016-12-01,Bandara Int. Lombok,9694.0,Udara
+2017-01-01,Bandara Int. Lombok,9394.0,Udara
+2017-02-01,Bandara Int. Lombok,8775.0,Udara
+2017-03-01,Bandara Int. Lombok,11305.0,Udara
+2017-04-01,Bandara Int. Lombok,13204.0,Udara
+2017-05-01,Bandara Int. Lombok,11792.0,Udara
+2017-06-01,Bandara Int. Lombok,9201.0,Udara
+2017-07-01,Bandara Int. Lombok,12468.0,Udara
+2017-08-01,Bandara Int. Lombok,12207.0,Udara
+2017-09-01,Bandara Int. Lombok,10032.0,Udara
+2017-10-01,Bandara Int. Lombok,10070.0,Udara
+2017-11-01,Bandara Int. Lombok,7704.0,Udara
+2017-12-01,Bandara Int. Lombok,7236.0,Udara
+2018-01-01,Bandara Int. Lombok,5986.0,Udara
+2018-02-01,Bandara Int. Lombok,5800.0,Udara
+2018-03-01,Bandara Int. Lombok,9880.0,Udara
+2018-04-01,Bandara Int. Lombok,10644.0,Udara
+2018-05-01,Bandara Int. Lombok,7512.0,Udara
+2018-06-01,Bandara Int. Lombok,8859.0,Udara
+2018-07-01,Bandara Int. Lombok,13980.0,Udara
+2018-08-01,Bandara Int. Lombok,4308.0,Udara
+2018-09-01,Bandara Int. Lombok,3866.0,Udara
+2018-10-01,Bandara Int. Lombok,3515.0,Udara
+2018-11-01,Bandara Int. Lombok,2306.0,Udara
+2018-12-01,Bandara Int. Lombok,3151.0,Udara
+2019-01-01,Bandara Int. Lombok,2126.0,Udara
+2019-02-01,Bandara Int. Lombok,3590.0,Udara
+2019-03-01,Bandara Int. Lombok,3568.0,Udara
+2019-04-01,Bandara Int. Lombok,5143.0,Udara
+2019-05-01,Bandara Int. Lombok,2884.0,Udara
+2019-06-01,Bandara Int. Lombok,6127.0,Udara
+2019-07-01,Bandara Int. Lombok,5306.0,Udara
+2019-08-01,Bandara Int. Lombok,6622.0,Udara
+2019-09-01,Bandara Int. Lombok,6552.0,Udara
+2019-10-01,Bandara Int. Lombok,5711.0,Udara
+2019-11-01,Bandara Int. Lombok,4635.0,Udara
+2019-12-01,Bandara Int. Lombok,5499.0,Udara
+2023-01-01,Bandara Int. Lombok,2202.0,Udara
+2023-02-01,Bandara Int. Lombok,2355.0,Udara
+2023-03-01,Bandara Int. Lombok,2099.0,Udara
+2023-04-01,Bandara Int. Lombok,2903.0,Udara
+2023-05-01,Bandara Int. Lombok,4848.0,Udara
+2023-06-01,Bandara Int. Lombok,5721.0,Udara
+2023-07-01,Bandara Int. Lombok,6433.0,Udara
+2023-08-01,Bandara Int. Lombok,6245.0,Udara
+2023-09-01,Bandara Int. Lombok,6294.0,Udara
+2023-10-01,Bandara Int. Lombok,5904.0,Udara
+2023-11-01,Bandara Int. Lombok,5278.0,Udara
+2023-12-01,Bandara Int. Lombok,7304.0,Udara
+2024-01-01,Bandara Int. Lombok,4958.0,Udara
+2024-02-01,Bandara Int. Lombok,7748.0,Udara
+2024-03-01,Bandara Int. Lombok,5208.0,Udara
+2024-04-01,Bandara Int. Lombok,6536.0,Udara
+2024-05-01,Bandara Int. Lombok,7742.0,Udara
+2024-06-01,Bandara Int. Lombok,6893.0,Udara
+2024-07-01,Bandara Int. Lombok,8652.0,Udara
+2024-08-01,Bandara Int. Lombok,8122.0,Udara
+2024-09-01,Bandara Int. Lombok,7461.0,Udara
+2024-10-01,Bandara Int. Lombok,7169.0,Udara
+2024-11-01,Bandara Int. Lombok,4947.0,Udara
+2024-12-01,Bandara Int. Lombok,6108.0,Udara
+2010-01-01,Batam,79560.0,Laut
+2010-02-01,Batam,80966.0,Laut
+2010-03-01,Batam,81732.0,Laut
+2010-04-01,Batam,77178.0,Laut
+2010-05-01,Batam,84617.0,Laut
+2010-06-01,Batam,92719.0,Laut
+2010-07-01,Batam,86716.0,Laut
+2010-08-01,Batam,76809.0,Laut
+2010-09-01,Batam,74511.0,Laut
+2010-10-01,Batam,77183.0,Laut
+2010-11-01,Batam,85307.0,Laut
+2010-12-01,Batam,110148.0,Laut
+2011-01-01,Batam,77925.0,Laut
+2011-02-01,Batam,86318.0,Laut
+2011-03-01,Batam,87776.0,Laut
+2011-04-01,Batam,92055.0,Laut
+2011-05-01,Batam,96206.0,Laut
+2011-06-01,Batam,111619.0,Laut
+2011-07-01,Batam,108383.0,Laut
+2011-08-01,Batam,84918.0,Laut
+2011-09-01,Batam,90569.0,Laut
+2011-10-01,Batam,95250.0,Laut
+2011-11-01,Batam,100404.0,Laut
+2011-12-01,Batam,130158.0,Laut
+2012-01-01,Batam,102630.0,Laut
+2012-02-01,Batam,83089.0,Laut
+2012-03-01,Batam,103626.0,Laut
+2012-04-01,Batam,93813.0,Laut
+2012-05-01,Batam,94117.0,Laut
+2012-06-01,Batam,117049.0,Laut
+2012-07-01,Batam,92636.0,Laut
+2012-08-01,Batam,95725.0,Laut
+2012-09-01,Batam,95423.0,Laut
+2012-10-01,Batam,102251.0,Laut
+2012-11-01,Batam,101881.0,Laut
+2012-12-01,Batam,137368.0,Laut
+2013-01-01,Batam,89250.0,Laut
+2013-02-01,Batam,105380.0,Laut
+2013-03-01,Batam,120271.0,Laut
+2013-04-01,Batam,93163.0,Laut
+2013-05-01,Batam,109335.0,Laut
+2013-06-01,Batam,126277.0,Laut
+2013-07-01,Batam,91056.0,Laut
+2013-08-01,Batam,112340.0,Laut
+2013-09-01,Batam,108215.0,Laut
+2013-10-01,Batam,103511.0,Laut
+2013-11-01,Batam,123835.0,Laut
+2013-12-01,Batam,153797.0,Laut
+2014-01-01,Batam,119054.0,Laut
+2014-02-01,Batam,97445.0,Laut
+2014-03-01,Batam,122019.0,Laut
+2014-04-01,Batam,111929.0,Laut
+2014-05-01,Batam,115323.0,Laut
+2014-06-01,Batam,140218.0,Laut
+2014-07-01,Batam,101996.0,Laut
+2014-08-01,Batam,111455.0,Laut
+2014-09-01,Batam,113090.0,Laut
+2014-10-01,Batam,126169.0,Laut
+2014-11-01,Batam,123505.0,Laut
+2014-12-01,Batam,171907.0,Laut
+2015-01-01,Batam,114478.0,Laut
+2015-02-01,Batam,119642.0,Laut
+2015-03-01,Batam,124019.0,Laut
+2015-04-01,Batam,125816.0,Laut
+2015-05-01,Batam,148920.0,Laut
+2015-06-01,Batam,132569.0,Laut
+2015-07-01,Batam,109931.0,Laut
+2015-08-01,Batam,134540.0,Laut
+2015-09-01,Batam,117089.0,Laut
+2015-10-01,Batam,123750.0,Laut
+2015-11-01,Batam,124983.0,Laut
+2015-12-01,Batam,170081.0,Laut
+2016-01-01,Batam,108888.0,Laut
+2016-02-01,Batam,120351.0,Laut
+2016-03-01,Batam,125324.0,Laut
+2016-04-01,Batam,125573.0,Laut
+2016-05-01,Batam,132410.0,Laut
+2016-06-01,Batam,121253.0,Laut
+2016-07-01,Batam,103647.0,Laut
+2016-08-01,Batam,99724.0,Laut
+2016-09-01,Batam,115052.0,Laut
+2016-10-01,Batam,114020.0,Laut
+2016-11-01,Batam,106953.0,Laut
+2016-12-01,Batam,159277.0,Laut
+2017-01-01,Batam,135046.0,Laut
+2017-02-01,Batam,100329.0,Laut
+2017-03-01,Batam,132551.0,Laut
+2017-04-01,Batam,139361.0,Laut
+2017-05-01,Batam,117372.0,Laut
+2017-06-01,Batam,130541.0,Laut
+2017-07-01,Batam,122869.0,Laut
+2017-08-01,Batam,124044.0,Laut
+2017-09-01,Batam,122835.0,Laut
+2017-10-01,Batam,117589.0,Laut
+2017-11-01,Batam,124833.0,Laut
+2017-12-01,Batam,197347.0,Laut
+2018-01-01,Batam,115590.0,Laut
+2018-02-01,Batam,155671.0,Laut
+2018-03-01,Batam,175194.0,Laut
+2018-04-01,Batam,144104.0,Laut
+2018-05-01,Batam,142157.0,Laut
+2018-06-01,Batam,167398.0,Laut
+2018-07-01,Batam,144235.0,Laut
+2018-08-01,Batam,159218.0,Laut
+2018-09-01,Batam,153944.0,Laut
+2018-10-01,Batam,141337.0,Laut
+2018-11-01,Batam,155283.0,Laut
+2018-12-01,Batam,233153.0,Laut
+2019-01-01,Batam,134415.0,Laut
+2019-02-01,Batam,159248.0,Laut
+2019-03-01,Batam,172461.0,Laut
+2019-04-01,Batam,154810.0,Laut
+2019-05-01,Batam,145447.0,Laut
+2019-06-01,Batam,175001.0,Laut
+2019-07-01,Batam,147690.0,Laut
+2019-08-01,Batam,183401.0,Laut
+2019-09-01,Batam,159331.0,Laut
+2019-10-01,Batam,158619.0,Laut
+2019-11-01,Batam,167288.0,Laut
+2019-12-01,Batam,190232.0,Laut
+2023-01-01,Batam,93781.0,Laut
+2023-02-01,Batam,73090.0,Laut
+2023-03-01,Batam,97040.0,Laut
+2023-04-01,Batam,88776.0,Laut
+2023-05-01,Batam,76577.0,Laut
+2023-06-01,Batam,133616.0,Laut
+2023-07-01,Batam,94373.0,Laut
+2023-08-01,Batam,94601.0,Laut
+2023-09-01,Batam,101470.0,Laut
+2023-10-01,Batam,79646.0,Laut
+2023-11-01,Batam,103497.0,Laut
+2023-12-01,Batam,149218.0,Laut
+2024-01-01,Batam,77836.0,Laut
+2024-02-01,Batam,111758.0,Laut
+2024-03-01,Batam,104191.0,Laut
+2024-04-01,Batam,78674.0,Laut
+2024-05-01,Batam,99404.0,Laut
+2024-06-01,Batam,130714.0,Laut
+2024-07-01,Batam,100295.0,Laut
+2024-08-01,Batam,119550.0,Laut
+2024-09-01,Batam,114682.0,Laut
+2024-10-01,Batam,109864.0,Laut
+2024-11-01,Batam,111306.0,Laut
+2024-12-01,Batam,157945.0,Laut
+2010-01-01,Entikong,1262.0,Darat
+2010-02-01,Entikong,2432.0,Darat
+2010-03-01,Entikong,1873.0,Darat
+2010-04-01,Entikong,1538.0,Darat
+2010-05-01,Entikong,2073.0,Darat
+2010-06-01,Entikong,2099.0,Darat
+2010-07-01,Entikong,2134.0,Darat
+2010-08-01,Entikong,1874.0,Darat
+2010-09-01,Entikong,1816.0,Darat
+2010-10-01,Entikong,1139.0,Darat
+2010-11-01,Entikong,1915.0,Darat
+2010-12-01,Entikong,3281.0,Darat
+2011-01-01,Entikong,1647.0,Darat
+2011-02-01,Entikong,2297.0,Darat
+2011-03-01,Entikong,2044.0,Darat
+2011-04-01,Entikong,1831.0,Darat
+2011-05-01,Entikong,2201.0,Darat
+2011-06-01,Entikong,2118.0,Darat
+2011-07-01,Entikong,1559.0,Darat
+2011-08-01,Entikong,2643.0,Darat
+2011-09-01,Entikong,1759.0,Darat
+2011-10-01,Entikong,1506.0,Darat
+2011-11-01,Entikong,2269.0,Darat
+2011-12-01,Entikong,3380.0,Darat
+2012-01-01,Entikong,2324.0,Darat
+2012-02-01,Entikong,1787.0,Darat
+2012-03-01,Entikong,2121.0,Darat
+2012-04-01,Entikong,1503.0,Darat
+2012-05-01,Entikong,1973.0,Darat
+2012-06-01,Entikong,2514.0,Darat
+2012-07-01,Entikong,1741.0,Darat
+2012-08-01,Entikong,3036.0,Darat
+2012-09-01,Entikong,1371.0,Darat
+2012-10-01,Entikong,1665.0,Darat
+2012-11-01,Entikong,2761.0,Darat
+2012-12-01,Entikong,3101.0,Darat
+2013-01-01,Entikong,1368.0,Darat
+2013-02-01,Entikong,2291.0,Darat
+2013-03-01,Entikong,2291.0,Darat
+2013-04-01,Entikong,1408.0,Darat
+2013-05-01,Entikong,2009.0,Darat
+2013-06-01,Entikong,2581.0,Darat
+2013-07-01,Entikong,1559.0,Darat
+2013-08-01,Entikong,3038.0,Darat
+2013-09-01,Entikong,1474.0,Darat
+2013-10-01,Entikong,1559.0,Darat
+2013-11-01,Entikong,2330.0,Darat
+2013-12-01,Entikong,2948.0,Darat
+2014-01-01,Entikong,1535.0,Darat
+2014-02-01,Entikong,1609.0,Darat
+2014-03-01,Entikong,1699.0,Darat
+2014-04-01,Entikong,1430.0,Darat
+2014-05-01,Entikong,1785.0,Darat
+2014-06-01,Entikong,1703.0,Darat
+2014-07-01,Entikong,2488.0,Darat
+2014-08-01,Entikong,1568.0,Darat
+2014-09-01,Entikong,1445.0,Darat
+2014-10-01,Entikong,1731.0,Darat
+2014-11-01,Entikong,1936.0,Darat
+2014-12-01,Entikong,3535.0,Darat
+2015-01-01,Entikong,1265.0,Darat
+2015-02-01,Entikong,1873.0,Darat
+2015-03-01,Entikong,2440.0,Darat
+2015-04-01,Entikong,1491.0,Darat
+2015-05-01,Entikong,2424.0,Darat
+2015-06-01,Entikong,1662.0,Darat
+2015-07-01,Entikong,2573.0,Darat
+2015-08-01,Entikong,1710.0,Darat
+2015-09-01,Entikong,1693.0,Darat
+2015-10-01,Entikong,1455.0,Darat
+2015-11-01,Entikong,2513.0,Darat
+2015-12-01,Entikong,3753.0,Darat
+2016-01-01,Entikong,1050.0,Darat
+2016-02-01,Entikong,2307.0,Darat
+2016-03-01,Entikong,1937.0,Darat
+2016-04-01,Entikong,1426.0,Darat
+2016-05-01,Entikong,2046.0,Darat
+2016-06-01,Entikong,1515.0,Darat
+2016-07-01,Entikong,2360.0,Darat
+2016-08-01,Entikong,2319.0,Darat
+2016-09-01,Entikong,2148.0,Darat
+2016-10-01,Entikong,1494.0,Darat
+2016-11-01,Entikong,1610.0,Darat
+2016-12-01,Entikong,3433.0,Darat
+2017-01-01,Entikong,2091.0,Darat
+2017-02-01,Entikong,1354.0,Darat
+2017-03-01,Entikong,2209.0,Darat
+2017-04-01,Entikong,1720.0,Darat
+2017-05-01,Entikong,1935.0,Darat
+2017-06-01,Entikong,2157.0,Darat
+2017-07-01,Entikong,1117.0,Darat
+2017-08-01,Entikong,1255.0,Darat
+2017-09-01,Entikong,2042.0,Darat
+2017-10-01,Entikong,1095.0,Darat
+2017-11-01,Entikong,1092.0,Darat
+2017-12-01,Entikong,2818.0,Darat
+2018-01-01,Entikong,1534.0,Darat
+2018-02-01,Entikong,2100.0,Darat
+2018-03-01,Entikong,2376.0,Darat
+2018-04-01,Entikong,1277.0,Darat
+2018-05-01,Entikong,1827.0,Darat
+2018-06-01,Entikong,2756.0,Darat
+2018-07-01,Entikong,1453.0,Darat
+2018-08-01,Entikong,1821.0,Darat
+2018-09-01,Entikong,1608.0,Darat
+2018-10-01,Entikong,1235.0,Darat
+2018-11-01,Entikong,1585.0,Darat
+2018-12-01,Entikong,3641.0,Darat
+2019-01-01,Entikong,1563.0,Darat
+2019-02-01,Entikong,2158.0,Darat
+2019-03-01,Entikong,2366.0,Darat
+2019-04-01,Entikong,1333.0,Darat
+2019-05-01,Entikong,1290.0,Darat
+2019-06-01,Entikong,2312.0,Darat
+2019-07-01,Entikong,1720.0,Darat
+2019-08-01,Entikong,2265.0,Darat
+2019-09-01,Entikong,1704.0,Darat
+2019-10-01,Entikong,1705.0,Darat
+2019-11-01,Entikong,1691.0,Darat
+2019-12-01,Entikong,3177.0,Darat
+2023-01-01,Entikong,2508.0,Darat
+2023-02-01,Entikong,2725.0,Darat
+2023-03-01,Entikong,2905.0,Darat
+2023-04-01,Entikong,2929.0,Darat
+2023-05-01,Entikong,2856.0,Darat
+2023-06-01,Entikong,2819.0,Darat
+2023-07-01,Entikong,2639.0,Darat
+2023-08-01,Entikong,3488.0,Darat
+2023-09-01,Entikong,2418.0,Darat
+2023-10-01,Entikong,2274.0,Darat
+2023-11-01,Entikong,2364.0,Darat
+2023-12-01,Entikong,4522.0,Darat
+2024-01-01,Entikong,2366.0,Darat
+2024-02-01,Entikong,4380.0,Darat
+2024-03-01,Entikong,2540.0,Darat
+2024-04-01,Entikong,4042.0,Darat
+2024-05-01,Entikong,3737.0,Darat
+2024-06-01,Entikong,2819.0,Darat
+2024-07-01,Entikong,3204.0,Darat
+2024-08-01,Entikong,3191.0,Darat
+2024-09-01,Entikong,4256.0,Darat
+2024-10-01,Entikong,3331.0,Darat
+2024-11-01,Entikong,2797.0,Darat
+2024-12-01,Entikong,5017.0,Darat
+2010-01-01,Hasanuddin,1913.0,Udara
+2010-02-01,Hasanuddin,2045.0,Udara
+2010-03-01,Hasanuddin,1080.0,Udara
+2010-04-01,Hasanuddin,925.0,Udara
+2010-05-01,Hasanuddin,913.0,Udara
+2010-06-01,Hasanuddin,1093.0,Udara
+2010-07-01,Hasanuddin,935.0,Udara
+2010-08-01,Hasanuddin,1026.0,Udara
+2010-09-01,Hasanuddin,946.0,Udara
+2010-10-01,Hasanuddin,950.0,Udara
+2010-11-01,Hasanuddin,3059.0,Udara
+2010-12-01,Hasanuddin,1326.0,Udara
+2011-01-01,Hasanuddin,906.0,Udara
+2011-02-01,Hasanuddin,1083.0,Udara
+2011-03-01,Hasanuddin,939.0,Udara
+2011-04-01,Hasanuddin,1146.0,Udara
+2011-05-01,Hasanuddin,1090.0,Udara
+2011-06-01,Hasanuddin,1289.0,Udara
+2011-07-01,Hasanuddin,1277.0,Udara
+2011-08-01,Hasanuddin,1295.0,Udara
+2011-09-01,Hasanuddin,964.0,Udara
+2011-10-01,Hasanuddin,1178.0,Udara
+2011-11-01,Hasanuddin,1615.0,Udara
+2011-12-01,Hasanuddin,1513.0,Udara
+2012-01-01,Hasanuddin,1064.0,Udara
+2012-02-01,Hasanuddin,1048.0,Udara
+2012-03-01,Hasanuddin,1277.0,Udara
+2012-04-01,Hasanuddin,1192.0,Udara
+2012-05-01,Hasanuddin,1039.0,Udara
+2012-06-01,Hasanuddin,1041.0,Udara
+2012-07-01,Hasanuddin,1073.0,Udara
+2012-08-01,Hasanuddin,1168.0,Udara
+2012-09-01,Hasanuddin,1004.0,Udara
+2012-10-01,Hasanuddin,1130.0,Udara
+2012-11-01,Hasanuddin,1440.0,Udara
+2012-12-01,Hasanuddin,1405.0,Udara
+2013-01-01,Hasanuddin,808.0,Udara
+2013-02-01,Hasanuddin,972.0,Udara
+2013-03-01,Hasanuddin,1455.0,Udara
+2013-04-01,Hasanuddin,1311.0,Udara
+2013-05-01,Hasanuddin,1655.0,Udara
+2013-06-01,Hasanuddin,2009.0,Udara
+2013-07-01,Hasanuddin,1582.0,Udara
+2013-08-01,Hasanuddin,1579.0,Udara
+2013-09-01,Hasanuddin,1864.0,Udara
+2013-10-01,Hasanuddin,1422.0,Udara
+2013-11-01,Hasanuddin,1554.0,Udara
+2013-12-01,Hasanuddin,1519.0,Udara
+2014-01-01,Hasanuddin,1707.0,Udara
+2014-02-01,Hasanuddin,1213.0,Udara
+2014-03-01,Hasanuddin,1159.0,Udara
+2014-04-01,Hasanuddin,1241.0,Udara
+2014-05-01,Hasanuddin,1124.0,Udara
+2014-06-01,Hasanuddin,1134.0,Udara
+2014-07-01,Hasanuddin,1106.0,Udara
+2014-08-01,Hasanuddin,1625.0,Udara
+2014-09-01,Hasanuddin,1389.0,Udara
+2014-10-01,Hasanuddin,1279.0,Udara
+2014-11-01,Hasanuddin,1337.0,Udara
+2014-12-01,Hasanuddin,1399.0,Udara
+2015-01-01,Hasanuddin,906.0,Udara
+2015-02-01,Hasanuddin,931.0,Udara
+2015-03-01,Hasanuddin,1178.0,Udara
+2015-04-01,Hasanuddin,929.0,Udara
+2015-05-01,Hasanuddin,900.0,Udara
+2015-06-01,Hasanuddin,906.0,Udara
+2015-07-01,Hasanuddin,1194.0,Udara
+2015-08-01,Hasanuddin,1115.0,Udara
+2015-09-01,Hasanuddin,1343.0,Udara
+2015-10-01,Hasanuddin,961.0,Udara
+2015-11-01,Hasanuddin,1465.0,Udara
+2015-12-01,Hasanuddin,1263.0,Udara
+2016-01-01,Hasanuddin,755.0,Udara
+2016-02-01,Hasanuddin,876.0,Udara
+2016-03-01,Hasanuddin,1180.0,Udara
+2016-04-01,Hasanuddin,1056.0,Udara
+2016-05-01,Hasanuddin,1196.0,Udara
+2016-06-01,Hasanuddin,869.0,Udara
+2016-07-01,Hasanuddin,1370.0,Udara
+2016-08-01,Hasanuddin,1287.0,Udara
+2016-09-01,Hasanuddin,1511.0,Udara
+2016-10-01,Hasanuddin,2593.0,Udara
+2016-11-01,Hasanuddin,2263.0,Udara
+2016-12-01,Hasanuddin,1941.0,Udara
+2017-01-01,Hasanuddin,1812.0,Udara
+2017-02-01,Hasanuddin,1263.0,Udara
+2017-03-01,Hasanuddin,1530.0,Udara
+2017-04-01,Hasanuddin,1179.0,Udara
+2017-05-01,Hasanuddin,1131.0,Udara
+2017-06-01,Hasanuddin,1240.0,Udara
+2017-07-01,Hasanuddin,2132.0,Udara
+2017-08-01,Hasanuddin,1743.0,Udara
+2017-09-01,Hasanuddin,1604.0,Udara
+2017-10-01,Hasanuddin,1448.0,Udara
+2017-11-01,Hasanuddin,1538.0,Udara
+2017-12-01,Hasanuddin,1715.0,Udara
+2018-01-01,Hasanuddin,832.0,Udara
+2018-02-01,Hasanuddin,1004.0,Udara
+2018-03-01,Hasanuddin,1099.0,Udara
+2018-04-01,Hasanuddin,1077.0,Udara
+2018-05-01,Hasanuddin,661.0,Udara
+2018-06-01,Hasanuddin,1216.0,Udara
+2018-07-01,Hasanuddin,1566.0,Udara
+2018-08-01,Hasanuddin,1626.0,Udara
+2018-09-01,Hasanuddin,1281.0,Udara
+2018-10-01,Hasanuddin,1187.0,Udara
+2018-11-01,Hasanuddin,1171.0,Udara
+2018-12-01,Hasanuddin,1406.0,Udara
+2019-01-01,Hasanuddin,951.0,Udara
+2019-02-01,Hasanuddin,1379.0,Udara
+2019-03-01,Hasanuddin,1825.0,Udara
+2019-04-01,Hasanuddin,1312.0,Udara
+2019-05-01,Hasanuddin,1105.0,Udara
+2019-06-01,Hasanuddin,1385.0,Udara
+2019-07-01,Hasanuddin,1473.0,Udara
+2019-08-01,Hasanuddin,1983.0,Udara
+2019-09-01,Hasanuddin,1503.0,Udara
+2019-10-01,Hasanuddin,1439.0,Udara
+2019-11-01,Hasanuddin,1595.0,Udara
+2019-12-01,Hasanuddin,1821.0,Udara
+2023-01-01,Hasanuddin,1066.0,Udara
+2023-02-01,Hasanuddin,1469.0,Udara
+2023-03-01,Hasanuddin,921.0,Udara
+2023-04-01,Hasanuddin,1564.0,Udara
+2023-05-01,Hasanuddin,1432.0,Udara
+2023-06-01,Hasanuddin,1888.0,Udara
+2023-07-01,Hasanuddin,1755.0,Udara
+2023-08-01,Hasanuddin,1609.0,Udara
+2023-09-01,Hasanuddin,1787.0,Udara
+2023-10-01,Hasanuddin,1175.0,Udara
+2023-11-01,Hasanuddin,1194.0,Udara
+2023-12-01,Hasanuddin,1500.0,Udara
+2024-01-01,Hasanuddin,742.0,Udara
+2024-02-01,Hasanuddin,1408.0,Udara
+2024-03-01,Hasanuddin,579.0,Udara
+2024-04-01,Hasanuddin,1402.0,Udara
+2024-05-01,Hasanuddin,1066.0,Udara
+2024-06-01,Hasanuddin,1092.0,Udara
+2024-07-01,Hasanuddin,1532.0,Udara
+2024-08-01,Hasanuddin,1427.0,Udara
+2024-09-01,Hasanuddin,1326.0,Udara
+2024-10-01,Hasanuddin,1091.0,Udara
+2024-11-01,Hasanuddin,947.0,Udara
+2024-12-01,Hasanuddin,1085.0,Udara
+2010-01-01,Husein Sastranegara,6444.0,Udara
+2010-02-01,Husein Sastranegara,6809.0,Udara
+2010-03-01,Husein Sastranegara,7155.0,Udara
+2010-04-01,Husein Sastranegara,6885.0,Udara
+2010-05-01,Husein Sastranegara,8156.0,Udara
+2010-06-01,Husein Sastranegara,7680.0,Udara
+2010-07-01,Husein Sastranegara,8409.0,Udara
+2010-08-01,Husein Sastranegara,7218.0,Udara
+2010-09-01,Husein Sastranegara,5227.0,Udara
+2010-10-01,Husein Sastranegara,9570.0,Udara
+2010-11-01,Husein Sastranegara,6321.0,Udara
+2010-12-01,Husein Sastranegara,10404.0,Udara
+2011-01-01,Husein Sastranegara,9383.0,Udara
+2011-02-01,Husein Sastranegara,8747.0,Udara
+2011-03-01,Husein Sastranegara,9057.0,Udara
+2011-04-01,Husein Sastranegara,9732.0,Udara
+2011-05-01,Husein Sastranegara,9397.0,Udara
+2011-06-01,Husein Sastranegara,11079.0,Udara
+2011-07-01,Husein Sastranegara,11806.0,Udara
+2011-08-01,Husein Sastranegara,6507.0,Udara
+2011-09-01,Husein Sastranegara,6916.0,Udara
+2011-10-01,Husein Sastranegara,9126.0,Udara
+2011-11-01,Husein Sastranegara,11155.0,Udara
+2011-12-01,Husein Sastranegara,12380.0,Udara
+2012-01-01,Husein Sastranegara,9600.0,Udara
+2012-02-01,Husein Sastranegara,10667.0,Udara
+2012-03-01,Husein Sastranegara,13101.0,Udara
+2012-04-01,Husein Sastranegara,12639.0,Udara
+2012-05-01,Husein Sastranegara,12597.0,Udara
+2012-06-01,Husein Sastranegara,15417.0,Udara
+2012-07-01,Husein Sastranegara,11642.0,Udara
+2012-08-01,Husein Sastranegara,7084.0,Udara
+2012-09-01,Husein Sastranegara,13577.0,Udara
+2012-10-01,Husein Sastranegara,7366.0,Udara
+2012-11-01,Husein Sastranegara,14901.0,Udara
+2012-12-01,Husein Sastranegara,18145.0,Udara
+2013-01-01,Husein Sastranegara,13782.0,Udara
+2013-02-01,Husein Sastranegara,11966.0,Udara
+2013-03-01,Husein Sastranegara,16745.0,Udara
+2013-04-01,Husein Sastranegara,13921.0,Udara
+2013-05-01,Husein Sastranegara,17968.0,Udara
+2013-06-01,Husein Sastranegara,16498.0,Udara
+2013-07-01,Husein Sastranegara,7667.0,Udara
+2013-08-01,Husein Sastranegara,8720.0,Udara
+2013-09-01,Husein Sastranegara,14658.0,Udara
+2013-10-01,Husein Sastranegara,12072.0,Udara
+2013-11-01,Husein Sastranegara,18116.0,Udara
+2013-12-01,Husein Sastranegara,24205.0,Udara
+2014-01-01,Husein Sastranegara,16257.0,Udara
+2014-02-01,Husein Sastranegara,14560.0,Udara
+2014-03-01,Husein Sastranegara,21463.0,Udara
+2014-04-01,Husein Sastranegara,13490.0,Udara
+2014-05-01,Husein Sastranegara,14588.0,Udara
+2014-06-01,Husein Sastranegara,16899.0,Udara
+2014-07-01,Husein Sastranegara,6166.0,Udara
+2014-08-01,Husein Sastranegara,10545.0,Udara
+2014-09-01,Husein Sastranegara,14068.0,Udara
+2014-10-01,Husein Sastranegara,15018.0,Udara
+2014-11-01,Husein Sastranegara,16539.0,Udara
+2014-12-01,Husein Sastranegara,20799.0,Udara
+2015-01-01,Husein Sastranegara,10373.0,Udara
+2015-02-01,Husein Sastranegara,13008.0,Udara
+2015-03-01,Husein Sastranegara,15130.0,Udara
+2015-04-01,Husein Sastranegara,16884.0,Udara
+2015-05-01,Husein Sastranegara,18902.0,Udara
+2015-06-01,Husein Sastranegara,15314.0,Udara
+2015-07-01,Husein Sastranegara,6619.0,Udara
+2015-08-01,Husein Sastranegara,10323.0,Udara
+2015-09-01,Husein Sastranegara,10531.0,Udara
+2015-10-01,Husein Sastranegara,10722.0,Udara
+2015-11-01,Husein Sastranegara,14858.0,Udara
+2015-12-01,Husein Sastranegara,16983.0,Udara
+2016-01-01,Husein Sastranegara,10964.0,Udara
+2016-02-01,Husein Sastranegara,8402.0,Udara
+2016-03-01,Husein Sastranegara,15828.0,Udara
+2016-04-01,Husein Sastranegara,30806.0,Udara
+2016-05-01,Husein Sastranegara,16699.0,Udara
+2016-06-01,Husein Sastranegara,8881.0,Udara
+2016-07-01,Husein Sastranegara,9453.0,Udara
+2016-08-01,Husein Sastranegara,12500.0,Udara
+2016-09-01,Husein Sastranegara,14995.0,Udara
+2016-10-01,Husein Sastranegara,17340.0,Udara
+2016-11-01,Husein Sastranegara,12755.0,Udara
+2016-12-01,Husein Sastranegara,22410.0,Udara
+2017-01-01,Husein Sastranegara,8518.0,Udara
+2017-02-01,Husein Sastranegara,13257.0,Udara
+2017-03-01,Husein Sastranegara,17256.0,Udara
+2017-04-01,Husein Sastranegara,16029.0,Udara
+2017-05-01,Husein Sastranegara,15275.0,Udara
+2017-06-01,Husein Sastranegara,8174.0,Udara
+2017-07-01,Husein Sastranegara,11967.0,Udara
+2017-08-01,Husein Sastranegara,15063.0,Udara
+2017-09-01,Husein Sastranegara,13971.0,Udara
+2017-10-01,Husein Sastranegara,14002.0,Udara
+2017-11-01,Husein Sastranegara,15387.0,Udara
+2017-12-01,Husein Sastranegara,17958.0,Udara
+2018-01-01,Husein Sastranegara,11463.0,Udara
+2018-02-01,Husein Sastranegara,12212.0,Udara
+2018-03-01,Husein Sastranegara,15657.0,Udara
+2018-04-01,Husein Sastranegara,14163.0,Udara
+2018-05-01,Husein Sastranegara,10453.0,Udara
+2018-06-01,Husein Sastranegara,6401.0,Udara
+2018-07-01,Husein Sastranegara,12751.0,Udara
+2018-08-01,Husein Sastranegara,13697.0,Udara
+2018-09-01,Husein Sastranegara,13328.0,Udara
+2018-10-01,Husein Sastranegara,13850.0,Udara
+2018-11-01,Husein Sastranegara,14280.0,Udara
+2018-12-01,Husein Sastranegara,17311.0,Udara
+2019-01-01,Husein Sastranegara,12524.0,Udara
+2019-02-01,Husein Sastranegara,15127.0,Udara
+2019-03-01,Husein Sastranegara,16342.0,Udara
+2019-04-01,Husein Sastranegara,14738.0,Udara
+2019-05-01,Husein Sastranegara,8029.0,Udara
+2019-06-01,Husein Sastranegara,8652.0,Udara
+2019-07-01,Husein Sastranegara,12581.0,Udara
+2019-08-01,Husein Sastranegara,13984.0,Udara
+2019-09-01,Husein Sastranegara,12869.0,Udara
+2019-10-01,Husein Sastranegara,13420.0,Udara
+2019-11-01,Husein Sastranegara,14616.0,Udara
+2019-12-01,Husein Sastranegara,14951.0,Udara
+2023-01-01,Husein Sastranegara,0.0,Udara
+2023-02-01,Husein Sastranegara,0.0,Udara
+2023-03-01,Husein Sastranegara,0.0,Udara
+2023-04-01,Husein Sastranegara,0.0,Udara
+2023-05-01,Husein Sastranegara,17.0,Udara
+2023-06-01,Husein Sastranegara,24.0,Udara
+2023-07-01,Husein Sastranegara,3.0,Udara
+2023-08-01,Husein Sastranegara,0.0,Udara
+2023-09-01,Husein Sastranegara,0.0,Udara
+2023-10-01,Husein Sastranegara,0.0,Udara
+2023-11-01,Husein Sastranegara,0.0,Udara
+2023-12-01,Husein Sastranegara,0.0,Udara
+2024-01-01,Husein Sastranegara,0.0,Udara
+2024-02-01,Husein Sastranegara,0.0,Udara
+2024-03-01,Husein Sastranegara,0.0,Udara
+2024-04-01,Husein Sastranegara,0.0,Udara
+2024-05-01,Husein Sastranegara,0.0,Udara
+2024-06-01,Husein Sastranegara,0.0,Udara
+2024-07-01,Husein Sastranegara,22.0,Udara
+2024-08-01,Husein Sastranegara,0.0,Udara
+2024-09-01,Husein Sastranegara,0.0,Udara
+2024-10-01,Husein Sastranegara,0.0,Udara
+2024-11-01,Husein Sastranegara,0.0,Udara
+2024-12-01,Husein Sastranegara,0.0,Udara
+2010-01-01,Jayapura,0.0,Darat
+2010-02-01,Jayapura,0.0,Darat
+2010-03-01,Jayapura,0.0,Darat
+2010-04-01,Jayapura,0.0,Darat
+2010-05-01,Jayapura,0.0,Darat
+2010-06-01,Jayapura,0.0,Darat
+2010-07-01,Jayapura,0.0,Darat
+2010-08-01,Jayapura,0.0,Darat
+2010-09-01,Jayapura,0.0,Darat
+2010-10-01,Jayapura,0.0,Darat
+2010-11-01,Jayapura,0.0,Darat
+2010-12-01,Jayapura,0.0,Darat
+2011-01-01,Jayapura,0.0,Darat
+2011-02-01,Jayapura,0.0,Darat
+2011-03-01,Jayapura,0.0,Darat
+2011-04-01,Jayapura,0.0,Darat
+2011-05-01,Jayapura,0.0,Darat
+2011-06-01,Jayapura,0.0,Darat
+2011-07-01,Jayapura,0.0,Darat
+2011-08-01,Jayapura,0.0,Darat
+2011-09-01,Jayapura,0.0,Darat
+2011-10-01,Jayapura,0.0,Darat
+2011-11-01,Jayapura,0.0,Darat
+2011-12-01,Jayapura,0.0,Darat
+2012-01-01,Jayapura,0.0,Darat
+2012-02-01,Jayapura,0.0,Darat
+2012-03-01,Jayapura,0.0,Darat
+2012-04-01,Jayapura,0.0,Darat
+2012-05-01,Jayapura,0.0,Darat
+2012-06-01,Jayapura,0.0,Darat
+2012-07-01,Jayapura,0.0,Darat
+2012-08-01,Jayapura,0.0,Darat
+2012-09-01,Jayapura,0.0,Darat
+2012-10-01,Jayapura,0.0,Darat
+2012-11-01,Jayapura,0.0,Darat
+2012-12-01,Jayapura,0.0,Darat
+2013-01-01,Jayapura,0.0,Darat
+2013-02-01,Jayapura,0.0,Darat
+2013-03-01,Jayapura,0.0,Darat
+2013-04-01,Jayapura,0.0,Darat
+2013-05-01,Jayapura,0.0,Darat
+2013-06-01,Jayapura,0.0,Darat
+2013-07-01,Jayapura,0.0,Darat
+2013-08-01,Jayapura,0.0,Darat
+2013-09-01,Jayapura,0.0,Darat
+2013-10-01,Jayapura,0.0,Darat
+2013-11-01,Jayapura,0.0,Darat
+2013-12-01,Jayapura,0.0,Darat
+2014-01-01,Jayapura,0.0,Darat
+2014-02-01,Jayapura,0.0,Darat
+2014-03-01,Jayapura,0.0,Darat
+2014-04-01,Jayapura,0.0,Darat
+2014-05-01,Jayapura,0.0,Darat
+2014-06-01,Jayapura,0.0,Darat
+2014-07-01,Jayapura,0.0,Darat
+2014-08-01,Jayapura,0.0,Darat
+2014-09-01,Jayapura,0.0,Darat
+2014-10-01,Jayapura,0.0,Darat
+2014-11-01,Jayapura,0.0,Darat
+2014-12-01,Jayapura,0.0,Darat
+2015-01-01,Jayapura,0.0,Darat
+2015-02-01,Jayapura,0.0,Darat
+2015-03-01,Jayapura,0.0,Darat
+2015-04-01,Jayapura,0.0,Darat
+2015-05-01,Jayapura,0.0,Darat
+2015-06-01,Jayapura,0.0,Darat
+2015-07-01,Jayapura,0.0,Darat
+2015-08-01,Jayapura,0.0,Darat
+2015-09-01,Jayapura,0.0,Darat
+2015-10-01,Jayapura,0.0,Darat
+2015-11-01,Jayapura,0.0,Darat
+2015-12-01,Jayapura,0.0,Darat
+2016-01-01,Jayapura,0.0,Darat
+2016-02-01,Jayapura,0.0,Darat
+2016-03-01,Jayapura,0.0,Darat
+2016-04-01,Jayapura,0.0,Darat
+2016-05-01,Jayapura,0.0,Darat
+2016-06-01,Jayapura,0.0,Darat
+2016-07-01,Jayapura,0.0,Darat
+2016-08-01,Jayapura,0.0,Darat
+2016-09-01,Jayapura,0.0,Darat
+2016-10-01,Jayapura,0.0,Darat
+2016-11-01,Jayapura,0.0,Darat
+2016-12-01,Jayapura,0.0,Darat
+2017-01-01,Jayapura,12417.0,Darat
+2017-02-01,Jayapura,7176.0,Darat
+2017-03-01,Jayapura,6523.0,Darat
+2017-04-01,Jayapura,10078.0,Darat
+2017-05-01,Jayapura,10042.0,Darat
+2017-06-01,Jayapura,10488.0,Darat
+2017-07-01,Jayapura,9053.0,Darat
+2017-08-01,Jayapura,9043.0,Darat
+2017-09-01,Jayapura,9981.0,Darat
+2017-10-01,Jayapura,10359.0,Darat
+2017-11-01,Jayapura,13651.0,Darat
+2017-12-01,Jayapura,16246.0,Darat
+2018-01-01,Jayapura,12616.0,Darat
+2018-02-01,Jayapura,11696.0,Darat
+2018-03-01,Jayapura,10331.0,Darat
+2018-04-01,Jayapura,10641.0,Darat
+2018-05-01,Jayapura,7542.0,Darat
+2018-06-01,Jayapura,5864.0,Darat
+2018-07-01,Jayapura,6643.0,Darat
+2018-08-01,Jayapura,7706.0,Darat
+2018-09-01,Jayapura,11220.0,Darat
+2018-10-01,Jayapura,14147.0,Darat
+2018-11-01,Jayapura,2467.0,Darat
+2018-12-01,Jayapura,3202.0,Darat
+2019-01-01,Jayapura,4418.0,Darat
+2019-02-01,Jayapura,3889.0,Darat
+2019-03-01,Jayapura,3871.0,Darat
+2019-04-01,Jayapura,4702.0,Darat
+2019-05-01,Jayapura,4743.0,Darat
+2019-06-01,Jayapura,4326.0,Darat
+2019-07-01,Jayapura,5557.0,Darat
+2019-08-01,Jayapura,5694.0,Darat
+2019-09-01,Jayapura,4052.0,Darat
+2019-10-01,Jayapura,3874.0,Darat
+2019-11-01,Jayapura,5006.0,Darat
+2019-12-01,Jayapura,6155.0,Darat
+2023-01-01,Jayapura,132.0,Darat
+2023-02-01,Jayapura,86.0,Darat
+2023-03-01,Jayapura,106.0,Darat
+2023-04-01,Jayapura,91.0,Darat
+2023-05-01,Jayapura,8251.0,Darat
+2023-06-01,Jayapura,9933.0,Darat
+2023-07-01,Jayapura,7723.0,Darat
+2023-08-01,Jayapura,8335.0,Darat
+2023-09-01,Jayapura,8408.0,Darat
+2023-10-01,Jayapura,9174.0,Darat
+2023-11-01,Jayapura,3729.0,Darat
+2023-12-01,Jayapura,11445.0,Darat
+2024-01-01,Jayapura,8254.0,Darat
+2024-02-01,Jayapura,6903.0,Darat
+2024-03-01,Jayapura,6515.0,Darat
+2024-04-01,Jayapura,7129.0,Darat
+2024-05-01,Jayapura,7305.0,Darat
+2024-06-01,Jayapura,8577.0,Darat
+2024-07-01,Jayapura,8544.0,Darat
+2024-08-01,Jayapura,9481.0,Darat
+2024-09-01,Jayapura,11649.0,Darat
+2024-10-01,Jayapura,10715.0,Darat
+2024-11-01,Jayapura,11188.0,Darat
+2024-12-01,Jayapura,14613.0,Darat
+2010-01-01,Juanda,13889.0,Udara
+2010-02-01,Juanda,12241.0,Udara
+2010-03-01,Juanda,14455.0,Udara
+2010-04-01,Juanda,12561.0,Udara
+2010-05-01,Juanda,13459.0,Udara
+2010-06-01,Juanda,15008.0,Udara
+2010-07-01,Juanda,15941.0,Udara
+2010-08-01,Juanda,14420.0,Udara
+2010-09-01,Juanda,13171.0,Udara
+2010-10-01,Juanda,12297.0,Udara
+2010-11-01,Juanda,17255.0,Udara
+2010-12-01,Juanda,14191.0,Udara
+2011-01-01,Juanda,13580.0,Udara
+2011-02-01,Juanda,13086.0,Udara
+2011-03-01,Juanda,15317.0,Udara
+2011-04-01,Juanda,14179.0,Udara
+2011-05-01,Juanda,14894.0,Udara
+2011-06-01,Juanda,16215.0,Udara
+2011-07-01,Juanda,16788.0,Udara
+2011-08-01,Juanda,16553.0,Udara
+2011-09-01,Juanda,14264.0,Udara
+2011-10-01,Juanda,15406.0,Udara
+2011-11-01,Juanda,18650.0,Udara
+2011-12-01,Juanda,16883.0,Udara
+2012-01-01,Juanda,14200.0,Udara
+2012-02-01,Juanda,14290.0,Udara
+2012-03-01,Juanda,16257.0,Udara
+2012-04-01,Juanda,16061.0,Udara
+2012-05-01,Juanda,17017.0,Udara
+2012-06-01,Juanda,17503.0,Udara
+2012-07-01,Juanda,16036.0,Udara
+2012-08-01,Juanda,16003.0,Udara
+2012-09-01,Juanda,16065.0,Udara
+2012-10-01,Juanda,17394.0,Udara
+2012-11-01,Juanda,19995.0,Udara
+2012-12-01,Juanda,16955.0,Udara
+2013-01-01,Juanda,16869.0,Udara
+2013-02-01,Juanda,16718.0,Udara
+2013-03-01,Juanda,19113.0,Udara
+2013-04-01,Juanda,17674.0,Udara
+2013-05-01,Juanda,18128.0,Udara
+2013-06-01,Juanda,19898.0,Udara
+2013-07-01,Juanda,16897.0,Udara
+2013-08-01,Juanda,18974.0,Udara
+2013-09-01,Juanda,17250.0,Udara
+2013-10-01,Juanda,19487.0,Udara
+2013-11-01,Juanda,22986.0,Udara
+2013-12-01,Juanda,21047.0,Udara
+2014-01-01,Juanda,16870.0,Udara
+2014-02-01,Juanda,16476.0,Udara
+2014-03-01,Juanda,18776.0,Udara
+2014-04-01,Juanda,19145.0,Udara
+2014-05-01,Juanda,20299.0,Udara
+2014-06-01,Juanda,18685.0,Udara
+2014-07-01,Juanda,16174.0,Udara
+2014-08-01,Juanda,18239.0,Udara
+2014-09-01,Juanda,17124.0,Udara
+2014-10-01,Juanda,17997.0,Udara
+2014-11-01,Juanda,18324.0,Udara
+2014-12-01,Juanda,19084.0,Udara
+2015-01-01,Juanda,15366.0,Udara
+2015-02-01,Juanda,14003.0,Udara
+2015-03-01,Juanda,16338.0,Udara
+2015-04-01,Juanda,16063.0,Udara
+2015-05-01,Juanda,17355.0,Udara
+2015-06-01,Juanda,15004.0,Udara
+2015-07-01,Juanda,17134.0,Udara
+2015-08-01,Juanda,18311.0,Udara
+2015-09-01,Juanda,18167.0,Udara
+2015-10-01,Juanda,15798.0,Udara
+2015-11-01,Juanda,20449.0,Udara
+2015-12-01,Juanda,16863.0,Udara
+2016-01-01,Juanda,11674.0,Udara
+2016-02-01,Juanda,14955.0,Udara
+2016-03-01,Juanda,17894.0,Udara
+2016-04-01,Juanda,18186.0,Udara
+2016-05-01,Juanda,18386.0,Udara
+2016-06-01,Juanda,14755.0,Udara
+2016-07-01,Juanda,20424.0,Udara
+2016-08-01,Juanda,19029.0,Udara
+2016-09-01,Juanda,19907.0,Udara
+2016-10-01,Juanda,20819.0,Udara
+2016-11-01,Juanda,23126.0,Udara
+2016-12-01,Juanda,21415.0,Udara
+2017-01-01,Juanda,17279.0,Udara
+2017-02-01,Juanda,11998.0,Udara
+2017-03-01,Juanda,15844.0,Udara
+2017-04-01,Juanda,21461.0,Udara
+2017-05-01,Juanda,20447.0,Udara
+2017-06-01,Juanda,19658.0,Udara
+2017-07-01,Juanda,25252.0,Udara
+2017-08-01,Juanda,25330.0,Udara
+2017-09-01,Juanda,21890.0,Udara
+2017-10-01,Juanda,20439.0,Udara
+2017-11-01,Juanda,24360.0,Udara
+2017-12-01,Juanda,23208.0,Udara
+2018-01-01,Juanda,21532.0,Udara
+2018-02-01,Juanda,19621.0,Udara
+2018-03-01,Juanda,26391.0,Udara
+2018-04-01,Juanda,26306.0,Udara
+2018-05-01,Juanda,24420.0,Udara
+2018-06-01,Juanda,27329.0,Udara
+2018-07-01,Juanda,33390.0,Udara
+2018-08-01,Juanda,34166.0,Udara
+2018-09-01,Juanda,24835.0,Udara
+2018-10-01,Juanda,25938.0,Udara
+2018-11-01,Juanda,29992.0,Udara
+2018-12-01,Juanda,26609.0,Udara
+2019-01-01,Juanda,13792.0,Udara
+2019-02-01,Juanda,17389.0,Udara
+2019-03-01,Juanda,20497.0,Udara
+2019-04-01,Juanda,18431.0,Udara
+2019-05-01,Juanda,14529.0,Udara
+2019-06-01,Juanda,22485.0,Udara
+2019-07-01,Juanda,24913.0,Udara
+2019-08-01,Juanda,29180.0,Udara
+2019-09-01,Juanda,20462.0,Udara
+2019-10-01,Juanda,20895.0,Udara
+2019-11-01,Juanda,20780.0,Udara
+2019-12-01,Juanda,20546.0,Udara
+2023-01-01,Juanda,10777.0,Udara
+2023-02-01,Juanda,11882.0,Udara
+2023-03-01,Juanda,10606.0,Udara
+2023-04-01,Juanda,12361.0,Udara
+2023-05-01,Juanda,15734.0,Udara
+2023-06-01,Juanda,18025.0,Udara
+2023-07-01,Juanda,20303.0,Udara
+2023-08-01,Juanda,25548.0,Udara
+2023-09-01,Juanda,25593.0,Udara
+2023-10-01,Juanda,21996.0,Udara
+2023-11-01,Juanda,22389.0,Udara
+2023-12-01,Juanda,23244.0,Udara
+2024-01-01,Juanda,17196.0,Udara
+2024-02-01,Juanda,28026.0,Udara
+2024-03-01,Juanda,18543.0,Udara
+2024-04-01,Juanda,29043.0,Udara
+2024-05-01,Juanda,31222.0,Udara
+2024-06-01,Juanda,25015.0,Udara
+2024-07-01,Juanda,34446.0,Udara
+2024-08-01,Juanda,38587.0,Udara
+2024-09-01,Juanda,31700.0,Udara
+2024-10-01,Juanda,28182.0,Udara
+2024-11-01,Juanda,20820.0,Udara
+2024-12-01,Juanda,19265.0,Udara
+2010-01-01,Kualanamu,11365.0,Udara
+2010-02-01,Kualanamu,12625.0,Udara
+2010-03-01,Kualanamu,14000.0,Udara
+2010-04-01,Kualanamu,12326.0,Udara
+2010-05-01,Kualanamu,13298.0,Udara
+2010-06-01,Kualanamu,15499.0,Udara
+2010-07-01,Kualanamu,15244.0,Udara
+2010-08-01,Kualanamu,11447.0,Udara
+2010-09-01,Kualanamu,12127.0,Udara
+2010-10-01,Kualanamu,13520.0,Udara
+2010-11-01,Kualanamu,14102.0,Udara
+2010-12-01,Kualanamu,16857.0,Udara
+2011-01-01,Kualanamu,12172.0,Udara
+2011-02-01,Kualanamu,14270.0,Udara
+2011-03-01,Kualanamu,15600.0,Udara
+2011-04-01,Kualanamu,14998.0,Udara
+2011-05-01,Kualanamu,16648.0,Udara
+2011-06-01,Kualanamu,15979.0,Udara
+2011-07-01,Kualanamu,17646.0,Udara
+2011-08-01,Kualanamu,13225.0,Udara
+2011-09-01,Kualanamu,14517.0,Udara
+2011-10-01,Kualanamu,15392.0,Udara
+2011-11-01,Kualanamu,19907.0,Udara
+2011-12-01,Kualanamu,22296.0,Udara
+2012-01-01,Kualanamu,15384.0,Udara
+2012-02-01,Kualanamu,14843.0,Udara
+2012-03-01,Kualanamu,19228.0,Udara
+2012-04-01,Kualanamu,16383.0,Udara
+2012-05-01,Kualanamu,18074.0,Udara
+2012-06-01,Kualanamu,16634.0,Udara
+2012-07-01,Kualanamu,15851.0,Udara
+2012-08-01,Kualanamu,14767.0,Udara
+2012-09-01,Kualanamu,16585.0,Udara
+2012-10-01,Kualanamu,15285.0,Udara
+2012-11-01,Kualanamu,21112.0,Udara
+2012-12-01,Kualanamu,21699.0,Udara
+2013-01-01,Kualanamu,14405.0,Udara
+2013-02-01,Kualanamu,16419.0,Udara
+2013-03-01,Kualanamu,17932.0,Udara
+2013-04-01,Kualanamu,15011.0,Udara
+2013-05-01,Kualanamu,20659.0,Udara
+2013-06-01,Kualanamu,20729.0,Udara
+2013-07-01,Kualanamu,15677.0,Udara
+2013-08-01,Kualanamu,16275.0,Udara
+2013-09-01,Kualanamu,18307.0,Udara
+2013-10-01,Kualanamu,17404.0,Udara
+2013-11-01,Kualanamu,24784.0,Udara
+2013-12-01,Kualanamu,27948.0,Udara
+2014-01-01,Kualanamu,19029.0,Udara
+2014-02-01,Kualanamu,17780.0,Udara
+2014-03-01,Kualanamu,18493.0,Udara
+2014-04-01,Kualanamu,15956.0,Udara
+2014-05-01,Kualanamu,19781.0,Udara
+2014-06-01,Kualanamu,19376.0,Udara
+2014-07-01,Kualanamu,16579.0,Udara
+2014-08-01,Kualanamu,16901.0,Udara
+2014-09-01,Kualanamu,17792.0,Udara
+2014-10-01,Kualanamu,20946.0,Udara
+2014-11-01,Kualanamu,22848.0,Udara
+2014-12-01,Kualanamu,29243.0,Udara
+2015-01-01,Kualanamu,17286.0,Udara
+2015-02-01,Kualanamu,18082.0,Udara
+2015-03-01,Kualanamu,17491.0,Udara
+2015-04-01,Kualanamu,15167.0,Udara
+2015-05-01,Kualanamu,17558.0,Udara
+2015-06-01,Kualanamu,15479.0,Udara
+2015-07-01,Kualanamu,15879.0,Udara
+2015-08-01,Kualanamu,16490.0,Udara
+2015-09-01,Kualanamu,14857.0,Udara
+2015-10-01,Kualanamu,14160.0,Udara
+2015-11-01,Kualanamu,16203.0,Udara
+2015-12-01,Kualanamu,19166.0,Udara
+2016-01-01,Kualanamu,10080.0,Udara
+2016-02-01,Kualanamu,14851.0,Udara
+2016-03-01,Kualanamu,15730.0,Udara
+2016-04-01,Kualanamu,13280.0,Udara
+2016-05-01,Kualanamu,15515.0,Udara
+2016-06-01,Kualanamu,12746.0,Udara
+2016-07-01,Kualanamu,17999.0,Udara
+2016-08-01,Kualanamu,15890.0,Udara
+2016-09-01,Kualanamu,19221.0,Udara
+2016-10-01,Kualanamu,21300.0,Udara
+2016-11-01,Kualanamu,21083.0,Udara
+2016-12-01,Kualanamu,26252.0,Udara
+2017-01-01,Kualanamu,18457.0,Udara
+2017-02-01,Kualanamu,15680.0,Udara
+2017-03-01,Kualanamu,20767.0,Udara
+2017-04-01,Kualanamu,19273.0,Udara
+2017-05-01,Kualanamu,19013.0,Udara
+2017-06-01,Kualanamu,18464.0,Udara
+2017-07-01,Kualanamu,20437.0,Udara
+2017-08-01,Kualanamu,25201.0,Udara
+2017-09-01,Kualanamu,19150.0,Udara
+2017-10-01,Kualanamu,20738.0,Udara
+2017-11-01,Kualanamu,23356.0,Udara
+2017-12-01,Kualanamu,26015.0,Udara
+2018-01-01,Kualanamu,15656.0,Udara
+2018-02-01,Kualanamu,17740.0,Udara
+2018-03-01,Kualanamu,21693.0,Udara
+2018-04-01,Kualanamu,18538.0,Udara
+2018-05-01,Kualanamu,14624.0,Udara
+2018-06-01,Kualanamu,18153.0,Udara
+2018-07-01,Kualanamu,22330.0,Udara
+2018-08-01,Kualanamu,23753.0,Udara
+2018-09-01,Kualanamu,19851.0,Udara
+2018-10-01,Kualanamu,15744.0,Udara
+2018-11-01,Kualanamu,21538.0,Udara
+2018-12-01,Kualanamu,19966.0,Udara
+2019-01-01,Kualanamu,16253.0,Udara
+2019-02-01,Kualanamu,21815.0,Udara
+2019-03-01,Kualanamu,21129.0,Udara
+2019-04-01,Kualanamu,21613.0,Udara
+2019-05-01,Kualanamu,15573.0,Udara
+2019-06-01,Kualanamu,18935.0,Udara
+2019-07-01,Kualanamu,20929.0,Udara
+2019-08-01,Kualanamu,24623.0,Udara
+2019-09-01,Kualanamu,18913.0,Udara
+2019-10-01,Kualanamu,21518.0,Udara
+2019-11-01,Kualanamu,20798.0,Udara
+2019-12-01,Kualanamu,22431.0,Udara
+2023-01-01,Kualanamu,14146.0,Udara
+2023-02-01,Kualanamu,15072.0,Udara
+2023-03-01,Kualanamu,16106.0,Udara
+2023-04-01,Kualanamu,15497.0,Udara
+2023-05-01,Kualanamu,16262.0,Udara
+2023-06-01,Kualanamu,16527.0,Udara
+2023-07-01,Kualanamu,17478.0,Udara
+2023-08-01,Kualanamu,20843.0,Udara
+2023-09-01,Kualanamu,15783.0,Udara
+2023-10-01,Kualanamu,14161.0,Udara
+2023-11-01,Kualanamu,16363.0,Udara
+2023-12-01,Kualanamu,18237.0,Udara
+2024-01-01,Kualanamu,14751.0,Udara
+2024-02-01,Kualanamu,24628.0,Udara
+2024-03-01,Kualanamu,15068.0,Udara
+2024-04-01,Kualanamu,25178.0,Udara
+2024-05-01,Kualanamu,20469.0,Udara
+2024-06-01,Kualanamu,16949.0,Udara
+2024-07-01,Kualanamu,22693.0,Udara
+2024-08-01,Kualanamu,21930.0,Udara
+2024-09-01,Kualanamu,24956.0,Udara
+2024-10-01,Kualanamu,20129.0,Udara
+2024-11-01,Kualanamu,19145.0,Udara
+2024-12-01,Kualanamu,21142.0,Udara
+2010-01-01,Minangkabau,1714.0,Udara
+2010-02-01,Minangkabau,2005.0,Udara
+2010-03-01,Minangkabau,2350.0,Udara
+2010-04-01,Minangkabau,1906.0,Udara
+2010-05-01,Minangkabau,2092.0,Udara
+2010-06-01,Minangkabau,2972.0,Udara
+2010-07-01,Minangkabau,2434.0,Udara
+2010-08-01,Minangkabau,1180.0,Udara
+2010-09-01,Minangkabau,2279.0,Udara
+2010-10-01,Minangkabau,1864.0,Udara
+2010-11-01,Minangkabau,3342.0,Udara
+2010-12-01,Minangkabau,3344.0,Udara
+2011-01-01,Minangkabau,2183.0,Udara
+2011-02-01,Minangkabau,2646.0,Udara
+2011-03-01,Minangkabau,3215.0,Udara
+2011-04-01,Minangkabau,2107.0,Udara
+2011-05-01,Minangkabau,2669.0,Udara
+2011-06-01,Minangkabau,2707.0,Udara
+2011-07-01,Minangkabau,2734.0,Udara
+2011-08-01,Minangkabau,1628.0,Udara
+2011-09-01,Minangkabau,1903.0,Udara
+2011-10-01,Minangkabau,1799.0,Udara
+2011-11-01,Minangkabau,3740.0,Udara
+2011-12-01,Minangkabau,3254.0,Udara
+2012-01-01,Minangkabau,2502.0,Udara
+2012-02-01,Minangkabau,2561.0,Udara
+2012-03-01,Minangkabau,3147.0,Udara
+2012-04-01,Minangkabau,2665.0,Udara
+2012-05-01,Minangkabau,2615.0,Udara
+2012-06-01,Minangkabau,2760.0,Udara
+2012-07-01,Minangkabau,2346.0,Udara
+2012-08-01,Minangkabau,1979.0,Udara
+2012-09-01,Minangkabau,2169.0,Udara
+2012-10-01,Minangkabau,2224.0,Udara
+2012-11-01,Minangkabau,3637.0,Udara
+2012-12-01,Minangkabau,4163.0,Udara
+2013-01-01,Minangkabau,2307.0,Udara
+2013-02-01,Minangkabau,4295.0,Udara
+2013-03-01,Minangkabau,4005.0,Udara
+2013-04-01,Minangkabau,2912.0,Udara
+2013-05-01,Minangkabau,4142.0,Udara
+2013-06-01,Minangkabau,3771.0,Udara
+2013-07-01,Minangkabau,1985.0,Udara
+2013-08-01,Minangkabau,3152.0,Udara
+2013-09-01,Minangkabau,3096.0,Udara
+2013-10-01,Minangkabau,3520.0,Udara
+2013-11-01,Minangkabau,5404.0,Udara
+2013-12-01,Minangkabau,5546.0,Udara
+2014-01-01,Minangkabau,5497.0,Udara
+2014-02-01,Minangkabau,2889.0,Udara
+2014-03-01,Minangkabau,4327.0,Udara
+2014-04-01,Minangkabau,3916.0,Udara
+2014-05-01,Minangkabau,4573.0,Udara
+2014-06-01,Minangkabau,3779.0,Udara
+2014-07-01,Minangkabau,3926.0,Udara
+2014-08-01,Minangkabau,3364.0,Udara
+2014-09-01,Minangkabau,3857.0,Udara
+2014-10-01,Minangkabau,3515.0,Udara
+2014-11-01,Minangkabau,3990.0,Udara
+2014-12-01,Minangkabau,6563.0,Udara
+2015-01-01,Minangkabau,2744.0,Udara
+2015-02-01,Minangkabau,2876.0,Udara
+2015-03-01,Minangkabau,3690.0,Udara
+2015-04-01,Minangkabau,3106.0,Udara
+2015-05-01,Minangkabau,3975.0,Udara
+2015-06-01,Minangkabau,3008.0,Udara
+2015-07-01,Minangkabau,2962.0,Udara
+2015-08-01,Minangkabau,3685.0,Udara
+2015-09-01,Minangkabau,3767.0,Udara
+2015-10-01,Minangkabau,3349.0,Udara
+2015-11-01,Minangkabau,4353.0,Udara
+2015-12-01,Minangkabau,4815.0,Udara
+2016-01-01,Minangkabau,3378.0,Udara
+2016-02-01,Minangkabau,3892.0,Udara
+2016-03-01,Minangkabau,4428.0,Udara
+2016-04-01,Minangkabau,4063.0,Udara
+2016-05-01,Minangkabau,4854.0,Udara
+2016-06-01,Minangkabau,2104.0,Udara
+2016-07-01,Minangkabau,4094.0,Udara
+2016-08-01,Minangkabau,4224.0,Udara
+2016-09-01,Minangkabau,3329.0,Udara
+2016-10-01,Minangkabau,4980.0,Udara
+2016-11-01,Minangkabau,5115.0,Udara
+2016-12-01,Minangkabau,5225.0,Udara
+2017-01-01,Minangkabau,4042.0,Udara
+2017-02-01,Minangkabau,4066.0,Udara
+2017-03-01,Minangkabau,4992.0,Udara
+2017-04-01,Minangkabau,4621.0,Udara
+2017-05-01,Minangkabau,4167.0,Udara
+2017-06-01,Minangkabau,3022.0,Udara
+2017-07-01,Minangkabau,4157.0,Udara
+2017-08-01,Minangkabau,5215.0,Udara
+2017-09-01,Minangkabau,4397.0,Udara
+2017-10-01,Minangkabau,4885.0,Udara
+2017-11-01,Minangkabau,4682.0,Udara
+2017-12-01,Minangkabau,8630.0,Udara
+2018-01-01,Minangkabau,3253.0,Udara
+2018-02-01,Minangkabau,4459.0,Udara
+2018-03-01,Minangkabau,5057.0,Udara
+2018-04-01,Minangkabau,4293.0,Udara
+2018-05-01,Minangkabau,3002.0,Udara
+2018-06-01,Minangkabau,4549.0,Udara
+2018-07-01,Minangkabau,5100.0,Udara
+2018-08-01,Minangkabau,5602.0,Udara
+2018-09-01,Minangkabau,5094.0,Udara
+2018-10-01,Minangkabau,4055.0,Udara
+2018-11-01,Minangkabau,5118.0,Udara
+2018-12-01,Minangkabau,4801.0,Udara
+2019-01-01,Minangkabau,4528.0,Udara
+2019-02-01,Minangkabau,5144.0,Udara
+2019-03-01,Minangkabau,6196.0,Udara
+2019-04-01,Minangkabau,5434.0,Udara
+2019-05-01,Minangkabau,3576.0,Udara
+2019-06-01,Minangkabau,5212.0,Udara
+2019-07-01,Minangkabau,5183.0,Udara
+2019-08-01,Minangkabau,5967.0,Udara
+2019-09-01,Minangkabau,4427.0,Udara
+2019-10-01,Minangkabau,5271.0,Udara
+2019-11-01,Minangkabau,5013.0,Udara
+2019-12-01,Minangkabau,5180.0,Udara
+2023-01-01,Minangkabau,2878.0,Udara
+2023-02-01,Minangkabau,3590.0,Udara
+2023-03-01,Minangkabau,2765.0,Udara
+2023-04-01,Minangkabau,4100.0,Udara
+2023-05-01,Minangkabau,4624.0,Udara
+2023-06-01,Minangkabau,5226.0,Udara
+2023-07-01,Minangkabau,4946.0,Udara
+2023-08-01,Minangkabau,5577.0,Udara
+2023-09-01,Minangkabau,5453.0,Udara
+2023-10-01,Minangkabau,4925.0,Udara
+2023-11-01,Minangkabau,5898.0,Udara
+2023-12-01,Minangkabau,6710.0,Udara
+2024-01-01,Minangkabau,4689.0,Udara
+2024-02-01,Minangkabau,8229.0,Udara
+2024-03-01,Minangkabau,2976.0,Udara
+2024-04-01,Minangkabau,7166.0,Udara
+2024-05-01,Minangkabau,7107.0,Udara
+2024-06-01,Minangkabau,4561.0,Udara
+2024-07-01,Minangkabau,5936.0,Udara
+2024-08-01,Minangkabau,6685.0,Udara
+2024-09-01,Minangkabau,8232.0,Udara
+2024-10-01,Minangkabau,7511.0,Udara
+2024-11-01,Minangkabau,6041.0,Udara
+2024-12-01,Minangkabau,7550.0,Udara
+2010-01-01,Nanga Badau,0.0,Darat
+2010-02-01,Nanga Badau,0.0,Darat
+2010-03-01,Nanga Badau,0.0,Darat
+2010-04-01,Nanga Badau,0.0,Darat
+2010-05-01,Nanga Badau,0.0,Darat
+2010-06-01,Nanga Badau,0.0,Darat
+2010-07-01,Nanga Badau,0.0,Darat
+2010-08-01,Nanga Badau,0.0,Darat
+2010-09-01,Nanga Badau,0.0,Darat
+2010-10-01,Nanga Badau,0.0,Darat
+2010-11-01,Nanga Badau,0.0,Darat
+2010-12-01,Nanga Badau,0.0,Darat
+2011-01-01,Nanga Badau,0.0,Darat
+2011-02-01,Nanga Badau,0.0,Darat
+2011-03-01,Nanga Badau,0.0,Darat
+2011-04-01,Nanga Badau,0.0,Darat
+2011-05-01,Nanga Badau,0.0,Darat
+2011-06-01,Nanga Badau,0.0,Darat
+2011-07-01,Nanga Badau,0.0,Darat
+2011-08-01,Nanga Badau,0.0,Darat
+2011-09-01,Nanga Badau,0.0,Darat
+2011-10-01,Nanga Badau,0.0,Darat
+2011-11-01,Nanga Badau,0.0,Darat
+2011-12-01,Nanga Badau,0.0,Darat
+2012-01-01,Nanga Badau,0.0,Darat
+2012-02-01,Nanga Badau,0.0,Darat
+2012-03-01,Nanga Badau,0.0,Darat
+2012-04-01,Nanga Badau,0.0,Darat
+2012-05-01,Nanga Badau,0.0,Darat
+2012-06-01,Nanga Badau,0.0,Darat
+2012-07-01,Nanga Badau,0.0,Darat
+2012-08-01,Nanga Badau,0.0,Darat
+2012-09-01,Nanga Badau,0.0,Darat
+2012-10-01,Nanga Badau,0.0,Darat
+2012-11-01,Nanga Badau,0.0,Darat
+2012-12-01,Nanga Badau,0.0,Darat
+2013-01-01,Nanga Badau,0.0,Darat
+2013-02-01,Nanga Badau,0.0,Darat
+2013-03-01,Nanga Badau,0.0,Darat
+2013-04-01,Nanga Badau,0.0,Darat
+2013-05-01,Nanga Badau,0.0,Darat
+2013-06-01,Nanga Badau,0.0,Darat
+2013-07-01,Nanga Badau,0.0,Darat
+2013-08-01,Nanga Badau,0.0,Darat
+2013-09-01,Nanga Badau,0.0,Darat
+2013-10-01,Nanga Badau,0.0,Darat
+2013-11-01,Nanga Badau,0.0,Darat
+2013-12-01,Nanga Badau,0.0,Darat
+2014-01-01,Nanga Badau,0.0,Darat
+2014-02-01,Nanga Badau,0.0,Darat
+2014-03-01,Nanga Badau,0.0,Darat
+2014-04-01,Nanga Badau,0.0,Darat
+2014-05-01,Nanga Badau,0.0,Darat
+2014-06-01,Nanga Badau,0.0,Darat
+2014-07-01,Nanga Badau,0.0,Darat
+2014-08-01,Nanga Badau,0.0,Darat
+2014-09-01,Nanga Badau,0.0,Darat
+2014-10-01,Nanga Badau,0.0,Darat
+2014-11-01,Nanga Badau,0.0,Darat
+2014-12-01,Nanga Badau,0.0,Darat
+2015-01-01,Nanga Badau,0.0,Darat
+2015-02-01,Nanga Badau,0.0,Darat
+2015-03-01,Nanga Badau,0.0,Darat
+2015-04-01,Nanga Badau,0.0,Darat
+2015-05-01,Nanga Badau,0.0,Darat
+2015-06-01,Nanga Badau,0.0,Darat
+2015-07-01,Nanga Badau,0.0,Darat
+2015-08-01,Nanga Badau,0.0,Darat
+2015-09-01,Nanga Badau,0.0,Darat
+2015-10-01,Nanga Badau,0.0,Darat
+2015-11-01,Nanga Badau,0.0,Darat
+2015-12-01,Nanga Badau,0.0,Darat
+2016-01-01,Nanga Badau,0.0,Darat
+2016-02-01,Nanga Badau,0.0,Darat
+2016-03-01,Nanga Badau,0.0,Darat
+2016-04-01,Nanga Badau,0.0,Darat
+2016-05-01,Nanga Badau,0.0,Darat
+2016-06-01,Nanga Badau,0.0,Darat
+2016-07-01,Nanga Badau,0.0,Darat
+2016-08-01,Nanga Badau,0.0,Darat
+2016-09-01,Nanga Badau,0.0,Darat
+2016-10-01,Nanga Badau,0.0,Darat
+2016-11-01,Nanga Badau,0.0,Darat
+2016-12-01,Nanga Badau,0.0,Darat
+2017-01-01,Nanga Badau,810.0,Darat
+2017-02-01,Nanga Badau,551.0,Darat
+2017-03-01,Nanga Badau,549.0,Darat
+2017-04-01,Nanga Badau,528.0,Darat
+2017-05-01,Nanga Badau,808.0,Darat
+2017-06-01,Nanga Badau,858.0,Darat
+2017-07-01,Nanga Badau,610.0,Darat
+2017-08-01,Nanga Badau,933.0,Darat
+2017-09-01,Nanga Badau,673.0,Darat
+2017-10-01,Nanga Badau,760.0,Darat
+2017-11-01,Nanga Badau,704.0,Darat
+2017-12-01,Nanga Badau,1199.0,Darat
+2018-01-01,Nanga Badau,662.0,Darat
+2018-02-01,Nanga Badau,694.0,Darat
+2018-03-01,Nanga Badau,661.0,Darat
+2018-04-01,Nanga Badau,661.0,Darat
+2018-05-01,Nanga Badau,1114.0,Darat
+2018-06-01,Nanga Badau,1331.0,Darat
+2018-07-01,Nanga Badau,849.0,Darat
+2018-08-01,Nanga Badau,1121.0,Darat
+2018-09-01,Nanga Badau,1097.0,Darat
+2018-10-01,Nanga Badau,1098.0,Darat
+2018-11-01,Nanga Badau,1034.0,Darat
+2018-12-01,Nanga Badau,1826.0,Darat
+2019-01-01,Nanga Badau,1187.0,Darat
+2019-02-01,Nanga Badau,1128.0,Darat
+2019-03-01,Nanga Badau,1185.0,Darat
+2019-04-01,Nanga Badau,937.0,Darat
+2019-05-01,Nanga Badau,1705.0,Darat
+2019-06-01,Nanga Badau,1495.0,Darat
+2019-07-01,Nanga Badau,1178.0,Darat
+2019-08-01,Nanga Badau,1226.0,Darat
+2019-09-01,Nanga Badau,981.0,Darat
+2019-10-01,Nanga Badau,911.0,Darat
+2019-11-01,Nanga Badau,954.0,Darat
+2019-12-01,Nanga Badau,1585.0,Darat
+2023-01-01,Nanga Badau,718.0,Darat
+2023-02-01,Nanga Badau,615.0,Darat
+2023-03-01,Nanga Badau,669.0,Darat
+2023-04-01,Nanga Badau,735.0,Darat
+2023-05-01,Nanga Badau,1324.0,Darat
+2023-06-01,Nanga Badau,1045.0,Darat
+2023-07-01,Nanga Badau,727.0,Darat
+2023-08-01,Nanga Badau,628.0,Darat
+2023-09-01,Nanga Badau,680.0,Darat
+2023-10-01,Nanga Badau,674.0,Darat
+2023-11-01,Nanga Badau,724.0,Darat
+2023-12-01,Nanga Badau,1363.0,Darat
+2024-01-01,Nanga Badau,687.0,Darat
+2024-02-01,Nanga Badau,950.0,Darat
+2024-03-01,Nanga Badau,965.0,Darat
+2024-04-01,Nanga Badau,486.0,Darat
+2024-05-01,Nanga Badau,833.0,Darat
+2024-06-01,Nanga Badau,1028.0,Darat
+2024-07-01,Nanga Badau,940.0,Darat
+2024-08-01,Nanga Badau,892.0,Darat
+2024-09-01,Nanga Badau,1116.0,Darat
+2024-10-01,Nanga Badau,742.0,Darat
+2024-11-01,Nanga Badau,732.0,Darat
+2024-12-01,Nanga Badau,1493.0,Darat
+2010-01-01,Ngurah Rai,178358.0,Udara
+2010-02-01,Ngurah Rai,191362.0,Udara
+2010-03-01,Ngurah Rai,191125.0,Udara
+2010-04-01,Ngurah Rai,184230.0,Udara
+2010-05-01,Ngurah Rai,199401.0,Udara
+2010-06-01,Ngurah Rai,224695.0,Udara
+2010-07-01,Ngurah Rai,252110.0,Udara
+2010-08-01,Ngurah Rai,243222.0,Udara
+2010-09-01,Ngurah Rai,232516.0,Udara
+2010-10-01,Ngurah Rai,229651.0,Udara
+2010-11-01,Ngurah Rai,196856.0,Udara
+2010-12-01,Ngurah Rai,222497.0,Udara
+2011-01-01,Ngurah Rai,208337.0,Udara
+2011-02-01,Ngurah Rai,201457.0,Udara
+2011-03-01,Ngurah Rai,202539.0,Udara
+2011-04-01,Ngurah Rai,224423.0,Udara
+2011-05-01,Ngurah Rai,208832.0,Udara
+2011-06-01,Ngurah Rai,245248.0,Udara
+2011-07-01,Ngurah Rai,279219.0,Udara
+2011-08-01,Ngurah Rai,252698.0,Udara
+2011-09-01,Ngurah Rai,252855.0,Udara
+2011-10-01,Ngurah Rai,244421.0,Udara
+2011-11-01,Ngurah Rai,220341.0,Udara
+2011-12-01,Ngurah Rai,248336.0,Udara
+2012-01-01,Ngurah Rai,249728.0,Udara
+2012-02-01,Ngurah Rai,209160.0,Udara
+2012-03-01,Ngurah Rai,222950.0,Udara
+2012-04-01,Ngurah Rai,222657.0,Udara
+2012-05-01,Ngurah Rai,220508.0,Udara
+2012-06-01,Ngurah Rai,241108.0,Udara
+2012-07-01,Ngurah Rai,271371.0,Udara
+2012-08-01,Ngurah Rai,253970.0,Udara
+2012-09-01,Ngurah Rai,255717.0,Udara
+2012-10-01,Ngurah Rai,252716.0,Udara
+2012-11-01,Ngurah Rai,237874.0,Udara
+2012-12-01,Ngurah Rai,264366.0,Udara
+2013-01-01,Ngurah Rai,229561.0,Udara
+2013-02-01,Ngurah Rai,236971.0,Udara
+2013-03-01,Ngurah Rai,247024.0,Udara
+2013-04-01,Ngurah Rai,239400.0,Udara
+2013-05-01,Ngurah Rai,244874.0,Udara
+2013-06-01,Ngurah Rai,275452.0,Udara
+2013-07-01,Ngurah Rai,297723.0,Udara
+2013-08-01,Ngurah Rai,309051.0,Udara
+2013-09-01,Ngurah Rai,305429.0,Udara
+2013-10-01,Ngurah Rai,266453.0,Udara
+2013-11-01,Ngurah Rai,296990.0,Udara
+2013-12-01,Ngurah Rai,292961.0,Udara
+2014-01-01,Ngurah Rai,278685.0,Udara
+2014-02-01,Ngurah Rai,269367.0,Udara
+2014-03-01,Ngurah Rai,268418.0,Udara
+2014-04-01,Ngurah Rai,277925.0,Udara
+2014-05-01,Ngurah Rai,285965.0,Udara
+2014-06-01,Ngurah Rai,329654.0,Udara
+2014-07-01,Ngurah Rai,358907.0,Udara
+2014-08-01,Ngurah Rai,336628.0,Udara
+2014-09-01,Ngurah Rai,352017.0,Udara
+2014-10-01,Ngurah Rai,339200.0,Udara
+2014-11-01,Ngurah Rai,293858.0,Udara
+2014-12-01,Ngurah Rai,341111.0,Udara
+2015-01-01,Ngurah Rai,288755.0,Udara
+2015-02-01,Ngurah Rai,333072.0,Udara
+2015-03-01,Ngurah Rai,294758.0,Udara
+2015-04-01,Ngurah Rai,309888.0,Udara
+2015-05-01,Ngurah Rai,287141.0,Udara
+2015-06-01,Ngurah Rai,357712.0,Udara
+2015-07-01,Ngurah Rai,381890.0,Udara
+2015-08-01,Ngurah Rai,298638.0,Udara
+2015-09-01,Ngurah Rai,379397.0,Udara
+2015-10-01,Ngurah Rai,366759.0,Udara
+2015-11-01,Ngurah Rai,262180.0,Udara
+2015-12-01,Ngurah Rai,363780.0,Udara
+2016-01-01,Ngurah Rai,343663.0,Udara
+2016-02-01,Ngurah Rai,367024.0,Udara
+2016-03-01,Ngurah Rai,354778.0,Udara
+2016-04-01,Ngurah Rai,367370.0,Udara
+2016-05-01,Ngurah Rai,394443.0,Udara
+2016-06-01,Ngurah Rai,405686.0,Udara
+2016-07-01,Ngurah Rai,482201.0,Udara
+2016-08-01,Ngurah Rai,437929.0,Udara
+2016-09-01,Ngurah Rai,442304.0,Udara
+2016-10-01,Ngurah Rai,423140.0,Udara
+2016-11-01,Ngurah Rai,396150.0,Udara
+2016-12-01,Ngurah Rai,437946.0,Udara
+2017-01-01,Ngurah Rai,455930.0,Udara
+2017-02-01,Ngurah Rai,448157.0,Udara
+2017-03-01,Ngurah Rai,424134.0,Udara
+2017-04-01,Ngurah Rai,477408.0,Udara
+2017-05-01,Ngurah Rai,488698.0,Udara
+2017-06-01,Ngurah Rai,505976.0,Udara
+2017-07-01,Ngurah Rai,594238.0,Udara
+2017-08-01,Ngurah Rai,601553.0,Udara
+2017-09-01,Ngurah Rai,551968.0,Udara
+2017-10-01,Ngurah Rai,464703.0,Udara
+2017-11-01,Ngurah Rai,360043.0,Udara
+2017-12-01,Ngurah Rai,309440.0,Udara
+2018-01-01,Ngurah Rai,345191.0,Udara
+2018-02-01,Ngurah Rai,443805.0,Udara
+2018-03-01,Ngurah Rai,484846.0,Udara
+2018-04-01,Ngurah Rai,516143.0,Udara
+2018-05-01,Ngurah Rai,526281.0,Udara
+2018-06-01,Ngurah Rai,540462.0,Udara
+2018-07-01,Ngurah Rai,624263.0,Udara
+2018-08-01,Ngurah Rai,571380.0,Udara
+2018-09-01,Ngurah Rai,555888.0,Udara
+2018-10-01,Ngurah Rai,515181.0,Udara
+2018-11-01,Ngurah Rai,406679.0,Udara
+2018-12-01,Ngurah Rai,495641.0,Udara
+2019-01-01,Ngurah Rai,451708.0,Udara
+2019-02-01,Ngurah Rai,436266.0,Udara
+2019-03-01,Ngurah Rai,441707.0,Udara
+2019-04-01,Ngurah Rai,476104.0,Udara
+2019-05-01,Ngurah Rai,483928.0,Udara
+2019-06-01,Ngurah Rai,549483.0,Udara
+2019-07-01,Ngurah Rai,604310.0,Udara
+2019-08-01,Ngurah Rai,602457.0,Udara
+2019-09-01,Ngurah Rai,589984.0,Udara
+2019-10-01,Ngurah Rai,565966.0,Udara
+2019-11-01,Ngurah Rai,492904.0,Udara
+2019-12-01,Ngurah Rai,544726.0,Udara
+2023-01-01,Ngurah Rai,329909.0,Udara
+2023-02-01,Ngurah Rai,317005.0,Udara
+2023-03-01,Ngurah Rai,366956.0,Udara
+2023-04-01,Ngurah Rai,410281.0,Udara
+2023-05-01,Ngurah Rai,439454.0,Udara
+2023-06-01,Ngurah Rai,478127.0,Udara
+2023-07-01,Ngurah Rai,541272.0,Udara
+2023-08-01,Ngurah Rai,522063.0,Udara
+2023-09-01,Ngurah Rai,508297.0,Udara
+2023-10-01,Ngurah Rai,458845.0,Udara
+2023-11-01,Ngurah Rai,397522.0,Udara
+2023-12-01,Ngurah Rai,478382.0,Udara
+2024-01-01,Ngurah Rai,414937.0,Udara
+2024-02-01,Ngurah Rai,454398.0,Udara
+2024-03-01,Ngurah Rai,463804.0,Udara
+2024-04-01,Ngurah Rai,502870.0,Udara
+2024-05-01,Ngurah Rai,544492.0,Udara
+2024-06-01,Ngurah Rai,520792.0,Udara
+2024-07-01,Ngurah Rai,625569.0,Udara
+2024-08-01,Ngurah Rai,613540.0,Udara
+2024-09-01,Ngurah Rai,591848.0,Udara
+2024-10-01,Ngurah Rai,554892.0,Udara
+2024-11-01,Ngurah Rai,472714.0,Udara
+2024-12-01,Ngurah Rai,548685.0,Udara
+2010-01-01,Pintu Darat Lainnya,0.0,Darat
+2010-02-01,Pintu Darat Lainnya,0.0,Darat
+2010-03-01,Pintu Darat Lainnya,0.0,Darat
+2010-04-01,Pintu Darat Lainnya,0.0,Darat
+2010-05-01,Pintu Darat Lainnya,0.0,Darat
+2010-06-01,Pintu Darat Lainnya,0.0,Darat
+2010-07-01,Pintu Darat Lainnya,0.0,Darat
+2010-08-01,Pintu Darat Lainnya,0.0,Darat
+2010-09-01,Pintu Darat Lainnya,0.0,Darat
+2010-10-01,Pintu Darat Lainnya,0.0,Darat
+2010-11-01,Pintu Darat Lainnya,0.0,Darat
+2010-12-01,Pintu Darat Lainnya,0.0,Darat
+2011-01-01,Pintu Darat Lainnya,0.0,Darat
+2011-02-01,Pintu Darat Lainnya,0.0,Darat
+2011-03-01,Pintu Darat Lainnya,0.0,Darat
+2011-04-01,Pintu Darat Lainnya,0.0,Darat
+2011-05-01,Pintu Darat Lainnya,0.0,Darat
+2011-06-01,Pintu Darat Lainnya,0.0,Darat
+2011-07-01,Pintu Darat Lainnya,0.0,Darat
+2011-08-01,Pintu Darat Lainnya,0.0,Darat
+2011-09-01,Pintu Darat Lainnya,0.0,Darat
+2011-10-01,Pintu Darat Lainnya,0.0,Darat
+2011-11-01,Pintu Darat Lainnya,0.0,Darat
+2011-12-01,Pintu Darat Lainnya,0.0,Darat
+2012-01-01,Pintu Darat Lainnya,0.0,Darat
+2012-02-01,Pintu Darat Lainnya,0.0,Darat
+2012-03-01,Pintu Darat Lainnya,0.0,Darat
+2012-04-01,Pintu Darat Lainnya,0.0,Darat
+2012-05-01,Pintu Darat Lainnya,0.0,Darat
+2012-06-01,Pintu Darat Lainnya,0.0,Darat
+2012-07-01,Pintu Darat Lainnya,0.0,Darat
+2012-08-01,Pintu Darat Lainnya,0.0,Darat
+2012-09-01,Pintu Darat Lainnya,0.0,Darat
+2012-10-01,Pintu Darat Lainnya,0.0,Darat
+2012-11-01,Pintu Darat Lainnya,0.0,Darat
+2012-12-01,Pintu Darat Lainnya,0.0,Darat
+2013-01-01,Pintu Darat Lainnya,0.0,Darat
+2013-02-01,Pintu Darat Lainnya,0.0,Darat
+2013-03-01,Pintu Darat Lainnya,0.0,Darat
+2013-04-01,Pintu Darat Lainnya,0.0,Darat
+2013-05-01,Pintu Darat Lainnya,0.0,Darat
+2013-06-01,Pintu Darat Lainnya,0.0,Darat
+2013-07-01,Pintu Darat Lainnya,0.0,Darat
+2013-08-01,Pintu Darat Lainnya,0.0,Darat
+2013-09-01,Pintu Darat Lainnya,0.0,Darat
+2013-10-01,Pintu Darat Lainnya,0.0,Darat
+2013-11-01,Pintu Darat Lainnya,0.0,Darat
+2013-12-01,Pintu Darat Lainnya,0.0,Darat
+2014-01-01,Pintu Darat Lainnya,0.0,Darat
+2014-02-01,Pintu Darat Lainnya,0.0,Darat
+2014-03-01,Pintu Darat Lainnya,0.0,Darat
+2014-04-01,Pintu Darat Lainnya,0.0,Darat
+2014-05-01,Pintu Darat Lainnya,0.0,Darat
+2014-06-01,Pintu Darat Lainnya,0.0,Darat
+2014-07-01,Pintu Darat Lainnya,0.0,Darat
+2014-08-01,Pintu Darat Lainnya,0.0,Darat
+2014-09-01,Pintu Darat Lainnya,0.0,Darat
+2014-10-01,Pintu Darat Lainnya,0.0,Darat
+2014-11-01,Pintu Darat Lainnya,0.0,Darat
+2014-12-01,Pintu Darat Lainnya,0.0,Darat
+2015-01-01,Pintu Darat Lainnya,0.0,Darat
+2015-02-01,Pintu Darat Lainnya,0.0,Darat
+2015-03-01,Pintu Darat Lainnya,0.0,Darat
+2015-04-01,Pintu Darat Lainnya,0.0,Darat
+2015-05-01,Pintu Darat Lainnya,0.0,Darat
+2015-06-01,Pintu Darat Lainnya,0.0,Darat
+2015-07-01,Pintu Darat Lainnya,0.0,Darat
+2015-08-01,Pintu Darat Lainnya,0.0,Darat
+2015-09-01,Pintu Darat Lainnya,0.0,Darat
+2015-10-01,Pintu Darat Lainnya,0.0,Darat
+2015-11-01,Pintu Darat Lainnya,0.0,Darat
+2015-12-01,Pintu Darat Lainnya,0.0,Darat
+2016-01-01,Pintu Darat Lainnya,35741.0,Darat
+2016-02-01,Pintu Darat Lainnya,36433.0,Darat
+2016-03-01,Pintu Darat Lainnya,28767.0,Darat
+2016-04-01,Pintu Darat Lainnya,22151.0,Darat
+2016-05-01,Pintu Darat Lainnya,18976.0,Darat
+2016-06-01,Pintu Darat Lainnya,21094.0,Darat
+2016-07-01,Pintu Darat Lainnya,25735.0,Darat
+2016-08-01,Pintu Darat Lainnya,24087.0,Darat
+2016-09-01,Pintu Darat Lainnya,21752.0,Darat
+2016-10-01,Pintu Darat Lainnya,33591.0,Darat
+2016-11-01,Pintu Darat Lainnya,47658.0,Darat
+2016-12-01,Pintu Darat Lainnya,56845.0,Darat
+2017-01-01,Pintu Darat Lainnya,110656.0,Darat
+2017-02-01,Pintu Darat Lainnya,102682.0,Darat
+2017-03-01,Pintu Darat Lainnya,76819.0,Darat
+2017-04-01,Pintu Darat Lainnya,106213.0,Darat
+2017-05-01,Pintu Darat Lainnya,114135.0,Darat
+2017-06-01,Pintu Darat Lainnya,125565.0,Darat
+2017-07-01,Pintu Darat Lainnya,123658.0,Darat
+2017-08-01,Pintu Darat Lainnya,125292.0,Darat
+2017-09-01,Pintu Darat Lainnya,116701.0,Darat
+2017-10-01,Pintu Darat Lainnya,117564.0,Darat
+2017-11-01,Pintu Darat Lainnya,108421.0,Darat
+2017-12-01,Pintu Darat Lainnya,129785.0,Darat
+2018-01-01,Pintu Darat Lainnya,214828.0,Darat
+2018-02-01,Pintu Darat Lainnya,176802.0,Darat
+2018-03-01,Pintu Darat Lainnya,193548.0,Darat
+2018-04-01,Pintu Darat Lainnya,198017.0,Darat
+2018-05-01,Pintu Darat Lainnya,189318.0,Darat
+2018-06-01,Pintu Darat Lainnya,196759.0,Darat
+2018-07-01,Pintu Darat Lainnya,205110.0,Darat
+2018-08-01,Pintu Darat Lainnya,204023.0,Darat
+2018-09-01,Pintu Darat Lainnya,171452.0,Darat
+2018-10-01,Pintu Darat Lainnya,166993.0,Darat
+2018-11-01,Pintu Darat Lainnya,166994.0,Darat
+2018-12-01,Pintu Darat Lainnya,185581.0,Darat
+2019-01-01,Pintu Darat Lainnya,174745.0,Darat
+2019-02-01,Pintu Darat Lainnya,156591.0,Darat
+2019-03-01,Pintu Darat Lainnya,158058.0,Darat
+2019-04-01,Pintu Darat Lainnya,155883.0,Darat
+2019-05-01,Pintu Darat Lainnya,187062.0,Darat
+2019-06-01,Pintu Darat Lainnya,199952.0,Darat
+2019-07-01,Pintu Darat Lainnya,162397.0,Darat
+2019-08-01,Pintu Darat Lainnya,164069.0,Darat
+2019-09-01,Pintu Darat Lainnya,145134.0,Darat
+2019-10-01,Pintu Darat Lainnya,142072.0,Darat
+2019-11-01,Pintu Darat Lainnya,126789.0,Darat
+2019-12-01,Pintu Darat Lainnya,124408.0,Darat
+2023-01-01,Pintu Darat Lainnya,80707.0,Darat
+2023-02-01,Pintu Darat Lainnya,60783.0,Darat
+2023-03-01,Pintu Darat Lainnya,65533.0,Darat
+2023-04-01,Pintu Darat Lainnya,55048.0,Darat
+2023-05-01,Pintu Darat Lainnya,59184.0,Darat
+2023-06-01,Pintu Darat Lainnya,54457.0,Darat
+2023-07-01,Pintu Darat Lainnya,55468.0,Darat
+2023-08-01,Pintu Darat Lainnya,58994.0,Darat
+2023-09-01,Pintu Darat Lainnya,57612.0,Darat
+2023-10-01,Pintu Darat Lainnya,61231.0,Darat
+2023-11-01,Pintu Darat Lainnya,66815.0,Darat
+2023-12-01,Pintu Darat Lainnya,87873.0,Darat
+2024-01-01,Pintu Darat Lainnya,76247.0,Darat
+2024-02-01,Pintu Darat Lainnya,63270.0,Darat
+2024-03-01,Pintu Darat Lainnya,86031.0,Darat
+2024-04-01,Pintu Darat Lainnya,80770.0,Darat
+2024-05-01,Pintu Darat Lainnya,73289.0,Darat
+2024-06-01,Pintu Darat Lainnya,88679.0,Darat
+2024-07-01,Pintu Darat Lainnya,76279.0,Darat
+2024-08-01,Pintu Darat Lainnya,77229.0,Darat
+2024-09-01,Pintu Darat Lainnya,76522.0,Darat
+2024-10-01,Pintu Darat Lainnya,85311.0,Darat
+2024-11-01,Pintu Darat Lainnya,78517.0,Darat
+2024-12-01,Pintu Darat Lainnya,87412.0,Darat
+2010-01-01,Pintu Laut Lainnya,5535.0,Laut
+2010-02-01,Pintu Laut Lainnya,5260.0,Laut
+2010-03-01,Pintu Laut Lainnya,5271.0,Laut
+2010-04-01,Pintu Laut Lainnya,4945.0,Laut
+2010-05-01,Pintu Laut Lainnya,4720.0,Laut
+2010-06-01,Pintu Laut Lainnya,5035.0,Laut
+2010-07-01,Pintu Laut Lainnya,5088.0,Laut
+2010-08-01,Pintu Laut Lainnya,5943.0,Laut
+2010-09-01,Pintu Laut Lainnya,4776.0,Laut
+2010-10-01,Pintu Laut Lainnya,5690.0,Laut
+2010-11-01,Pintu Laut Lainnya,6044.0,Laut
+2010-12-01,Pintu Laut Lainnya,5552.0,Laut
+2011-01-01,Pintu Laut Lainnya,5903.0,Laut
+2011-02-01,Pintu Laut Lainnya,5089.0,Laut
+2011-03-01,Pintu Laut Lainnya,5593.0,Laut
+2011-04-01,Pintu Laut Lainnya,5278.0,Laut
+2011-05-01,Pintu Laut Lainnya,5452.0,Laut
+2011-06-01,Pintu Laut Lainnya,5270.0,Laut
+2011-07-01,Pintu Laut Lainnya,5273.0,Laut
+2011-08-01,Pintu Laut Lainnya,4864.0,Laut
+2011-09-01,Pintu Laut Lainnya,4972.0,Laut
+2011-10-01,Pintu Laut Lainnya,5180.0,Laut
+2011-11-01,Pintu Laut Lainnya,6980.0,Laut
+2011-12-01,Pintu Laut Lainnya,5317.0,Laut
+2012-01-01,Pintu Laut Lainnya,5449.0,Laut
+2012-02-01,Pintu Laut Lainnya,4409.0,Laut
+2012-03-01,Pintu Laut Lainnya,5763.0,Laut
+2012-04-01,Pintu Laut Lainnya,5760.0,Laut
+2012-05-01,Pintu Laut Lainnya,4995.0,Laut
+2012-06-01,Pintu Laut Lainnya,5351.0,Laut
+2012-07-01,Pintu Laut Lainnya,5819.0,Laut
+2012-08-01,Pintu Laut Lainnya,4857.0,Laut
+2012-09-01,Pintu Laut Lainnya,5876.0,Laut
+2012-10-01,Pintu Laut Lainnya,5507.0,Laut
+2012-11-01,Pintu Laut Lainnya,5972.0,Laut
+2012-12-01,Pintu Laut Lainnya,6410.0,Laut
+2013-01-01,Pintu Laut Lainnya,5880.0,Laut
+2013-02-01,Pintu Laut Lainnya,6619.0,Laut
+2013-03-01,Pintu Laut Lainnya,4992.0,Laut
+2013-04-01,Pintu Laut Lainnya,5758.0,Laut
+2013-05-01,Pintu Laut Lainnya,5256.0,Laut
+2013-06-01,Pintu Laut Lainnya,5331.0,Laut
+2013-07-01,Pintu Laut Lainnya,5705.0,Laut
+2013-08-01,Pintu Laut Lainnya,4733.0,Laut
+2013-09-01,Pintu Laut Lainnya,5364.0,Laut
+2013-10-01,Pintu Laut Lainnya,5407.0,Laut
+2013-11-01,Pintu Laut Lainnya,5069.0,Laut
+2013-12-01,Pintu Laut Lainnya,5113.0,Laut
+2014-01-01,Pintu Laut Lainnya,5496.0,Laut
+2014-02-01,Pintu Laut Lainnya,4867.0,Laut
+2014-03-01,Pintu Laut Lainnya,8767.0,Laut
+2014-04-01,Pintu Laut Lainnya,5182.0,Laut
+2014-05-01,Pintu Laut Lainnya,5594.0,Laut
+2014-06-01,Pintu Laut Lainnya,4892.0,Laut
+2014-07-01,Pintu Laut Lainnya,4458.0,Laut
+2014-08-01,Pintu Laut Lainnya,4902.0,Laut
+2014-09-01,Pintu Laut Lainnya,4248.0,Laut
+2014-10-01,Pintu Laut Lainnya,5287.0,Laut
+2014-11-01,Pintu Laut Lainnya,5915.0,Laut
+2014-12-01,Pintu Laut Lainnya,5333.0,Laut
+2015-01-01,Pintu Laut Lainnya,8340.0,Laut
+2015-02-01,Pintu Laut Lainnya,6982.0,Laut
+2015-03-01,Pintu Laut Lainnya,4456.0,Laut
+2015-04-01,Pintu Laut Lainnya,5527.0,Laut
+2015-05-01,Pintu Laut Lainnya,5342.0,Laut
+2015-06-01,Pintu Laut Lainnya,4877.0,Laut
+2015-07-01,Pintu Laut Lainnya,3951.0,Laut
+2015-08-01,Pintu Laut Lainnya,5174.0,Laut
+2015-09-01,Pintu Laut Lainnya,4515.0,Laut
+2015-10-01,Pintu Laut Lainnya,4854.0,Laut
+2015-11-01,Pintu Laut Lainnya,5763.0,Laut
+2015-12-01,Pintu Laut Lainnya,4830.0,Laut
+2016-01-01,Pintu Laut Lainnya,5066.0,Laut
+2016-02-01,Pintu Laut Lainnya,6824.0,Laut
+2016-03-01,Pintu Laut Lainnya,5393.0,Laut
+2016-04-01,Pintu Laut Lainnya,4897.0,Laut
+2016-05-01,Pintu Laut Lainnya,5205.0,Laut
+2016-06-01,Pintu Laut Lainnya,5061.0,Laut
+2016-07-01,Pintu Laut Lainnya,4253.0,Laut
+2016-08-01,Pintu Laut Lainnya,4862.0,Laut
+2016-09-01,Pintu Laut Lainnya,4102.0,Laut
+2016-10-01,Pintu Laut Lainnya,4356.0,Laut
+2016-11-01,Pintu Laut Lainnya,5584.0,Laut
+2016-12-01,Pintu Laut Lainnya,4719.0,Laut
+2017-01-01,Pintu Laut Lainnya,39428.0,Laut
+2017-02-01,Pintu Laut Lainnya,41216.0,Laut
+2017-03-01,Pintu Laut Lainnya,43069.0,Laut
+2017-04-01,Pintu Laut Lainnya,42959.0,Laut
+2017-05-01,Pintu Laut Lainnya,47890.0,Laut
+2017-06-01,Pintu Laut Lainnya,51902.0,Laut
+2017-07-01,Pintu Laut Lainnya,54724.0,Laut
+2017-08-01,Pintu Laut Lainnya,52681.0,Laut
+2017-09-01,Pintu Laut Lainnya,53446.0,Laut
+2017-10-01,Pintu Laut Lainnya,50700.0,Laut
+2017-11-01,Pintu Laut Lainnya,49685.0,Laut
+2017-12-01,Pintu Laut Lainnya,55922.0,Laut
+2018-01-01,Pintu Laut Lainnya,56373.0,Laut
+2018-02-01,Pintu Laut Lainnya,43272.0,Laut
+2018-03-01,Pintu Laut Lainnya,59461.0,Laut
+2018-04-01,Pintu Laut Lainnya,41644.0,Laut
+2018-05-01,Pintu Laut Lainnya,35197.0,Laut
+2018-06-01,Pintu Laut Lainnya,56830.0,Laut
+2018-07-01,Pintu Laut Lainnya,38908.0,Laut
+2018-08-01,Pintu Laut Lainnya,43469.0,Laut
+2018-09-01,Pintu Laut Lainnya,37527.0,Laut
+2018-10-01,Pintu Laut Lainnya,35919.0,Laut
+2018-11-01,Pintu Laut Lainnya,34162.0,Laut
+2018-12-01,Pintu Laut Lainnya,45685.0,Laut
+2019-01-01,Pintu Laut Lainnya,106115.0,Laut
+2019-02-01,Pintu Laut Lainnya,104039.0,Laut
+2019-03-01,Pintu Laut Lainnya,105548.0,Laut
+2019-04-01,Pintu Laut Lainnya,98566.0,Laut
+2019-05-01,Pintu Laut Lainnya,109903.0,Laut
+2019-06-01,Pintu Laut Lainnya,120142.0,Laut
+2019-07-01,Pintu Laut Lainnya,94006.0,Laut
+2019-08-01,Pintu Laut Lainnya,101796.0,Laut
+2019-09-01,Pintu Laut Lainnya,96772.0,Laut
+2019-10-01,Pintu Laut Lainnya,103172.0,Laut
+2019-11-01,Pintu Laut Lainnya,109792.0,Laut
+2019-12-01,Pintu Laut Lainnya,98769.0,Laut
+2023-01-01,Pintu Laut Lainnya,103450.0,Laut
+2023-02-01,Pintu Laut Lainnya,92745.0,Laut
+2023-03-01,Pintu Laut Lainnya,107507.0,Laut
+2023-04-01,Pintu Laut Lainnya,115983.0,Laut
+2023-05-01,Pintu Laut Lainnya,115746.0,Laut
+2023-06-01,Pintu Laut Lainnya,105187.0,Laut
+2023-07-01,Pintu Laut Lainnya,104632.0,Laut
+2023-08-01,Pintu Laut Lainnya,97888.0,Laut
+2023-09-01,Pintu Laut Lainnya,81533.0,Laut
+2023-10-01,Pintu Laut Lainnya,77718.0,Laut
+2023-11-01,Pintu Laut Lainnya,53990.0,Laut
+2023-12-01,Pintu Laut Lainnya,101883.0,Laut
+2024-01-01,Pintu Laut Lainnya,101088.0,Laut
+2024-02-01,Pintu Laut Lainnya,94981.0,Laut
+2024-03-01,Pintu Laut Lainnya,111751.0,Laut
+2024-04-01,Pintu Laut Lainnya,109003.0,Laut
+2024-05-01,Pintu Laut Lainnya,89035.0,Laut
+2024-06-01,Pintu Laut Lainnya,94945.0,Laut
+2024-07-01,Pintu Laut Lainnya,86784.0,Laut
+2024-08-01,Pintu Laut Lainnya,92950.0,Laut
+2024-09-01,Pintu Laut Lainnya,87235.0,Laut
+2024-10-01,Pintu Laut Lainnya,76419.0,Laut
+2024-11-01,Pintu Laut Lainnya,85004.0,Laut
+2024-12-01,Pintu Laut Lainnya,69742.0,Laut
+2010-01-01,Pintu Udara Lainnya,1648.0,Udara
+2010-02-01,Pintu Udara Lainnya,1648.0,Udara
+2010-03-01,Pintu Udara Lainnya,1648.0,Udara
+2010-04-01,Pintu Udara Lainnya,1648.0,Udara
+2010-05-01,Pintu Udara Lainnya,1648.0,Udara
+2010-06-01,Pintu Udara Lainnya,1648.0,Udara
+2010-07-01,Pintu Udara Lainnya,1648.0,Udara
+2010-08-01,Pintu Udara Lainnya,1648.0,Udara
+2010-09-01,Pintu Udara Lainnya,1648.0,Udara
+2010-10-01,Pintu Udara Lainnya,1648.0,Udara
+2010-11-01,Pintu Udara Lainnya,1648.0,Udara
+2010-12-01,Pintu Udara Lainnya,1648.0,Udara
+2011-01-01,Pintu Udara Lainnya,2729.0,Udara
+2011-02-01,Pintu Udara Lainnya,2729.0,Udara
+2011-03-01,Pintu Udara Lainnya,2729.0,Udara
+2011-04-01,Pintu Udara Lainnya,2729.0,Udara
+2011-05-01,Pintu Udara Lainnya,2729.0,Udara
+2011-06-01,Pintu Udara Lainnya,2729.0,Udara
+2011-07-01,Pintu Udara Lainnya,2729.0,Udara
+2011-08-01,Pintu Udara Lainnya,2729.0,Udara
+2011-09-01,Pintu Udara Lainnya,2729.0,Udara
+2011-10-01,Pintu Udara Lainnya,2729.0,Udara
+2011-11-01,Pintu Udara Lainnya,2729.0,Udara
+2011-12-01,Pintu Udara Lainnya,2729.0,Udara
+2012-01-01,Pintu Udara Lainnya,2639.0,Udara
+2012-02-01,Pintu Udara Lainnya,2639.0,Udara
+2012-03-01,Pintu Udara Lainnya,2639.0,Udara
+2012-04-01,Pintu Udara Lainnya,2639.0,Udara
+2012-05-01,Pintu Udara Lainnya,2639.0,Udara
+2012-06-01,Pintu Udara Lainnya,2639.0,Udara
+2012-07-01,Pintu Udara Lainnya,2639.0,Udara
+2012-08-01,Pintu Udara Lainnya,2639.0,Udara
+2012-09-01,Pintu Udara Lainnya,2639.0,Udara
+2012-10-01,Pintu Udara Lainnya,2639.0,Udara
+2012-11-01,Pintu Udara Lainnya,2639.0,Udara
+2012-12-01,Pintu Udara Lainnya,2639.0,Udara
+2013-01-01,Pintu Udara Lainnya,2581.0,Udara
+2013-02-01,Pintu Udara Lainnya,2581.0,Udara
+2013-03-01,Pintu Udara Lainnya,2581.0,Udara
+2013-04-01,Pintu Udara Lainnya,2581.0,Udara
+2013-05-01,Pintu Udara Lainnya,2581.0,Udara
+2013-06-01,Pintu Udara Lainnya,2581.0,Udara
+2013-07-01,Pintu Udara Lainnya,2581.0,Udara
+2013-08-01,Pintu Udara Lainnya,2581.0,Udara
+2013-09-01,Pintu Udara Lainnya,2581.0,Udara
+2013-10-01,Pintu Udara Lainnya,2581.0,Udara
+2013-11-01,Pintu Udara Lainnya,2581.0,Udara
+2013-12-01,Pintu Udara Lainnya,2581.0,Udara
+2014-01-01,Pintu Udara Lainnya,1737.0,Udara
+2014-02-01,Pintu Udara Lainnya,1737.0,Udara
+2014-03-01,Pintu Udara Lainnya,1737.0,Udara
+2014-04-01,Pintu Udara Lainnya,1737.0,Udara
+2014-05-01,Pintu Udara Lainnya,1737.0,Udara
+2014-06-01,Pintu Udara Lainnya,1737.0,Udara
+2014-07-01,Pintu Udara Lainnya,1737.0,Udara
+2014-08-01,Pintu Udara Lainnya,1737.0,Udara
+2014-09-01,Pintu Udara Lainnya,1737.0,Udara
+2014-10-01,Pintu Udara Lainnya,1737.0,Udara
+2014-11-01,Pintu Udara Lainnya,1737.0,Udara
+2014-12-01,Pintu Udara Lainnya,1737.0,Udara
+2015-01-01,Pintu Udara Lainnya,1256.0,Udara
+2015-02-01,Pintu Udara Lainnya,1256.0,Udara
+2015-03-01,Pintu Udara Lainnya,1256.0,Udara
+2015-04-01,Pintu Udara Lainnya,1256.0,Udara
+2015-05-01,Pintu Udara Lainnya,1256.0,Udara
+2015-06-01,Pintu Udara Lainnya,1256.0,Udara
+2015-07-01,Pintu Udara Lainnya,1256.0,Udara
+2015-08-01,Pintu Udara Lainnya,1256.0,Udara
+2015-09-01,Pintu Udara Lainnya,1256.0,Udara
+2015-10-01,Pintu Udara Lainnya,1256.0,Udara
+2015-11-01,Pintu Udara Lainnya,1256.0,Udara
+2015-12-01,Pintu Udara Lainnya,1256.0,Udara
+2016-01-01,Pintu Udara Lainnya,1121.0,Udara
+2016-02-01,Pintu Udara Lainnya,1121.0,Udara
+2016-03-01,Pintu Udara Lainnya,1121.0,Udara
+2016-04-01,Pintu Udara Lainnya,1121.0,Udara
+2016-05-01,Pintu Udara Lainnya,1121.0,Udara
+2016-06-01,Pintu Udara Lainnya,1121.0,Udara
+2016-07-01,Pintu Udara Lainnya,1121.0,Udara
+2016-08-01,Pintu Udara Lainnya,1121.0,Udara
+2016-09-01,Pintu Udara Lainnya,1121.0,Udara
+2016-10-01,Pintu Udara Lainnya,1121.0,Udara
+2016-11-01,Pintu Udara Lainnya,1121.0,Udara
+2016-12-01,Pintu Udara Lainnya,1121.0,Udara
+2017-01-01,Pintu Udara Lainnya,1686.0,Udara
+2017-02-01,Pintu Udara Lainnya,1888.0,Udara
+2017-03-01,Pintu Udara Lainnya,2681.0,Udara
+2017-04-01,Pintu Udara Lainnya,2033.0,Udara
+2017-05-01,Pintu Udara Lainnya,1640.0,Udara
+2017-06-01,Pintu Udara Lainnya,1448.0,Udara
+2017-07-01,Pintu Udara Lainnya,2004.0,Udara
+2017-08-01,Pintu Udara Lainnya,1904.0,Udara
+2017-09-01,Pintu Udara Lainnya,1901.0,Udara
+2017-10-01,Pintu Udara Lainnya,2107.0,Udara
+2017-11-01,Pintu Udara Lainnya,2760.0,Udara
+2017-12-01,Pintu Udara Lainnya,2347.0,Udara
+2018-01-01,Pintu Udara Lainnya,792.0,Udara
+2018-02-01,Pintu Udara Lainnya,697.0,Udara
+2018-03-01,Pintu Udara Lainnya,1013.0,Udara
+2018-04-01,Pintu Udara Lainnya,976.0,Udara
+2018-05-01,Pintu Udara Lainnya,695.0,Udara
+2018-06-01,Pintu Udara Lainnya,979.0,Udara
+2018-07-01,Pintu Udara Lainnya,1028.0,Udara
+2018-08-01,Pintu Udara Lainnya,939.0,Udara
+2018-09-01,Pintu Udara Lainnya,916.0,Udara
+2018-10-01,Pintu Udara Lainnya,1441.0,Udara
+2018-11-01,Pintu Udara Lainnya,2162.0,Udara
+2018-12-01,Pintu Udara Lainnya,2381.0,Udara
+2019-01-01,Pintu Udara Lainnya,1972.0,Udara
+2019-02-01,Pintu Udara Lainnya,2742.0,Udara
+2019-03-01,Pintu Udara Lainnya,849.0,Udara
+2019-04-01,Pintu Udara Lainnya,890.0,Udara
+2019-05-01,Pintu Udara Lainnya,889.0,Udara
+2019-06-01,Pintu Udara Lainnya,1649.0,Udara
+2019-07-01,Pintu Udara Lainnya,2063.0,Udara
+2019-08-01,Pintu Udara Lainnya,2506.0,Udara
+2019-09-01,Pintu Udara Lainnya,1351.0,Udara
+2019-10-01,Pintu Udara Lainnya,2172.0,Udara
+2019-11-01,Pintu Udara Lainnya,4006.0,Udara
+2019-12-01,Pintu Udara Lainnya,3593.0,Udara
+2023-01-01,Pintu Udara Lainnya,672.0,Udara
+2023-02-01,Pintu Udara Lainnya,645.0,Udara
+2023-03-01,Pintu Udara Lainnya,953.0,Udara
+2023-04-01,Pintu Udara Lainnya,889.0,Udara
+2023-05-01,Pintu Udara Lainnya,1543.0,Udara
+2023-06-01,Pintu Udara Lainnya,1341.0,Udara
+2023-07-01,Pintu Udara Lainnya,2376.0,Udara
+2023-08-01,Pintu Udara Lainnya,1796.0,Udara
+2023-09-01,Pintu Udara Lainnya,1840.0,Udara
+2023-10-01,Pintu Udara Lainnya,1518.0,Udara
+2023-11-01,Pintu Udara Lainnya,1585.0,Udara
+2023-12-01,Pintu Udara Lainnya,1831.0,Udara
+2024-01-01,Pintu Udara Lainnya,1941.0,Udara
+2024-02-01,Pintu Udara Lainnya,2432.0,Udara
+2024-03-01,Pintu Udara Lainnya,1376.0,Udara
+2024-04-01,Pintu Udara Lainnya,1711.0,Udara
+2024-05-01,Pintu Udara Lainnya,2396.0,Udara
+2024-06-01,Pintu Udara Lainnya,2092.0,Udara
+2024-07-01,Pintu Udara Lainnya,3170.0,Udara
+2024-08-01,Pintu Udara Lainnya,2842.0,Udara
+2024-09-01,Pintu Udara Lainnya,3882.0,Udara
+2024-10-01,Pintu Udara Lainnya,4224.0,Udara
+2024-11-01,Pintu Udara Lainnya,3901.0,Udara
+2024-12-01,Pintu Udara Lainnya,4347.0,Udara
+2010-01-01,Sam Ratulangi,1841.0,Udara
+2010-02-01,Sam Ratulangi,2308.0,Udara
+2010-03-01,Sam Ratulangi,1602.0,Udara
+2010-04-01,Sam Ratulangi,1445.0,Udara
+2010-05-01,Sam Ratulangi,1602.0,Udara
+2010-06-01,Sam Ratulangi,1590.0,Udara
+2010-07-01,Sam Ratulangi,1776.0,Udara
+2010-08-01,Sam Ratulangi,1689.0,Udara
+2010-09-01,Sam Ratulangi,1561.0,Udara
+2010-10-01,Sam Ratulangi,1847.0,Udara
+2010-11-01,Sam Ratulangi,1477.0,Udara
+2010-12-01,Sam Ratulangi,1482.0,Udara
+2011-01-01,Sam Ratulangi,1050.0,Udara
+2011-02-01,Sam Ratulangi,1264.0,Udara
+2011-03-01,Sam Ratulangi,1778.0,Udara
+2011-04-01,Sam Ratulangi,1764.0,Udara
+2011-05-01,Sam Ratulangi,1436.0,Udara
+2011-06-01,Sam Ratulangi,1513.0,Udara
+2011-07-01,Sam Ratulangi,2011.0,Udara
+2011-08-01,Sam Ratulangi,2199.0,Udara
+2011-09-01,Sam Ratulangi,1927.0,Udara
+2011-10-01,Sam Ratulangi,2100.0,Udara
+2011-11-01,Sam Ratulangi,1425.0,Udara
+2011-12-01,Sam Ratulangi,1607.0,Udara
+2012-01-01,Sam Ratulangi,1827.0,Udara
+2012-02-01,Sam Ratulangi,1171.0,Udara
+2012-03-01,Sam Ratulangi,1579.0,Udara
+2012-04-01,Sam Ratulangi,1669.0,Udara
+2012-05-01,Sam Ratulangi,1442.0,Udara
+2012-06-01,Sam Ratulangi,1636.0,Udara
+2012-07-01,Sam Ratulangi,1763.0,Udara
+2012-08-01,Sam Ratulangi,1503.0,Udara
+2012-09-01,Sam Ratulangi,1679.0,Udara
+2012-10-01,Sam Ratulangi,1867.0,Udara
+2012-11-01,Sam Ratulangi,1364.0,Udara
+2012-12-01,Sam Ratulangi,1611.0,Udara
+2013-01-01,Sam Ratulangi,1108.0,Udara
+2013-02-01,Sam Ratulangi,1552.0,Udara
+2013-03-01,Sam Ratulangi,1695.0,Udara
+2013-04-01,Sam Ratulangi,1763.0,Udara
+2013-05-01,Sam Ratulangi,1693.0,Udara
+2013-06-01,Sam Ratulangi,1740.0,Udara
+2013-07-01,Sam Ratulangi,1803.0,Udara
+2013-08-01,Sam Ratulangi,1622.0,Udara
+2013-09-01,Sam Ratulangi,1891.0,Udara
+2013-10-01,Sam Ratulangi,1923.0,Udara
+2013-11-01,Sam Ratulangi,1627.0,Udara
+2013-12-01,Sam Ratulangi,1500.0,Udara
+2014-01-01,Sam Ratulangi,1694.0,Udara
+2014-02-01,Sam Ratulangi,1079.0,Udara
+2014-03-01,Sam Ratulangi,1340.0,Udara
+2014-04-01,Sam Ratulangi,1079.0,Udara
+2014-05-01,Sam Ratulangi,1365.0,Udara
+2014-06-01,Sam Ratulangi,1487.0,Udara
+2014-07-01,Sam Ratulangi,1652.0,Udara
+2014-08-01,Sam Ratulangi,1854.0,Udara
+2014-09-01,Sam Ratulangi,1652.0,Udara
+2014-10-01,Sam Ratulangi,1642.0,Udara
+2014-11-01,Sam Ratulangi,943.0,Udara
+2014-12-01,Sam Ratulangi,1492.0,Udara
+2015-01-01,Sam Ratulangi,2248.0,Udara
+2015-02-01,Sam Ratulangi,3374.0,Udara
+2015-03-01,Sam Ratulangi,1171.0,Udara
+2015-04-01,Sam Ratulangi,1044.0,Udara
+2015-05-01,Sam Ratulangi,1011.0,Udara
+2015-06-01,Sam Ratulangi,1007.0,Udara
+2015-07-01,Sam Ratulangi,2089.0,Udara
+2015-08-01,Sam Ratulangi,2247.0,Udara
+2015-09-01,Sam Ratulangi,1410.0,Udara
+2015-10-01,Sam Ratulangi,1297.0,Udara
+2015-11-01,Sam Ratulangi,1428.0,Udara
+2015-12-01,Sam Ratulangi,1139.0,Udara
+2016-01-01,Sam Ratulangi,625.0,Udara
+2016-02-01,Sam Ratulangi,1535.0,Udara
+2016-03-01,Sam Ratulangi,1297.0,Udara
+2016-04-01,Sam Ratulangi,1427.0,Udara
+2016-05-01,Sam Ratulangi,1018.0,Udara
+2016-06-01,Sam Ratulangi,1295.0,Udara
+2016-07-01,Sam Ratulangi,7677.0,Udara
+2016-08-01,Sam Ratulangi,7904.0,Udara
+2016-09-01,Sam Ratulangi,5965.0,Udara
+2016-10-01,Sam Ratulangi,3791.0,Udara
+2016-11-01,Sam Ratulangi,4270.0,Udara
+2016-12-01,Sam Ratulangi,3820.0,Udara
+2017-01-01,Sam Ratulangi,7697.0,Udara
+2017-02-01,Sam Ratulangi,5149.0,Udara
+2017-03-01,Sam Ratulangi,5168.0,Udara
+2017-04-01,Sam Ratulangi,5927.0,Udara
+2017-05-01,Sam Ratulangi,5632.0,Udara
+2017-06-01,Sam Ratulangi,4708.0,Udara
+2017-07-01,Sam Ratulangi,7330.0,Udara
+2017-08-01,Sam Ratulangi,8906.0,Udara
+2017-09-01,Sam Ratulangi,6335.0,Udara
+2017-10-01,Sam Ratulangi,7714.0,Udara
+2017-11-01,Sam Ratulangi,6493.0,Udara
+2017-12-01,Sam Ratulangi,8616.0,Udara
+2018-01-01,Sam Ratulangi,8507.0,Udara
+2018-02-01,Sam Ratulangi,10794.0,Udara
+2018-03-01,Sam Ratulangi,10114.0,Udara
+2018-04-01,Sam Ratulangi,10201.0,Udara
+2018-05-01,Sam Ratulangi,9405.0,Udara
+2018-06-01,Sam Ratulangi,10107.0,Udara
+2018-07-01,Sam Ratulangi,11875.0,Udara
+2018-08-01,Sam Ratulangi,15448.0,Udara
+2018-09-01,Sam Ratulangi,12730.0,Udara
+2018-10-01,Sam Ratulangi,8343.0,Udara
+2018-11-01,Sam Ratulangi,5735.0,Udara
+2018-12-01,Sam Ratulangi,8845.0,Udara
+2019-01-01,Sam Ratulangi,10905.0,Udara
+2019-02-01,Sam Ratulangi,11305.0,Udara
+2019-03-01,Sam Ratulangi,10761.0,Udara
+2019-04-01,Sam Ratulangi,11574.0,Udara
+2019-05-01,Sam Ratulangi,9755.0,Udara
+2019-06-01,Sam Ratulangi,8339.0,Udara
+2019-07-01,Sam Ratulangi,11203.0,Udara
+2019-08-01,Sam Ratulangi,14171.0,Udara
+2019-09-01,Sam Ratulangi,11874.0,Udara
+2019-10-01,Sam Ratulangi,10394.0,Udara
+2019-11-01,Sam Ratulangi,9261.0,Udara
+2019-12-01,Sam Ratulangi,10743.0,Udara
+2023-01-01,Sam Ratulangi,803.0,Udara
+2023-02-01,Sam Ratulangi,1848.0,Udara
+2023-03-01,Sam Ratulangi,4793.0,Udara
+2023-04-01,Sam Ratulangi,4156.0,Udara
+2023-05-01,Sam Ratulangi,3798.0,Udara
+2023-06-01,Sam Ratulangi,3691.0,Udara
+2023-07-01,Sam Ratulangi,3782.0,Udara
+2023-08-01,Sam Ratulangi,5397.0,Udara
+2023-09-01,Sam Ratulangi,5922.0,Udara
+2023-10-01,Sam Ratulangi,4645.0,Udara
+2023-11-01,Sam Ratulangi,4611.0,Udara
+2023-12-01,Sam Ratulangi,3917.0,Udara
+2024-01-01,Sam Ratulangi,3384.0,Udara
+2024-02-01,Sam Ratulangi,2615.0,Udara
+2024-03-01,Sam Ratulangi,4045.0,Udara
+2024-04-01,Sam Ratulangi,3451.0,Udara
+2024-05-01,Sam Ratulangi,3427.0,Udara
+2024-06-01,Sam Ratulangi,3424.0,Udara
+2024-07-01,Sam Ratulangi,4743.0,Udara
+2024-08-01,Sam Ratulangi,4436.0,Udara
+2024-09-01,Sam Ratulangi,4791.0,Udara
+2024-10-01,Sam Ratulangi,4674.0,Udara
+2024-11-01,Sam Ratulangi,4532.0,Udara
+2024-12-01,Sam Ratulangi,4097.0,Udara
+2010-01-01,Soekarno-Hatta,117422.0,Udara
+2010-02-01,Soekarno-Hatta,121727.0,Udara
+2010-03-01,Soekarno-Hatta,183449.0,Udara
+2010-04-01,Soekarno-Hatta,173906.0,Udara
+2010-05-01,Soekarno-Hatta,183218.0,Udara
+2010-06-01,Soekarno-Hatta,155951.0,Udara
+2010-07-01,Soekarno-Hatta,180353.0,Udara
+2010-08-01,Soekarno-Hatta,142050.0,Udara
+2010-09-01,Soekarno-Hatta,125439.0,Udara
+2010-10-01,Soekarno-Hatta,153300.0,Udara
+2010-11-01,Soekarno-Hatta,147579.0,Udara
+2010-12-01,Soekarno-Hatta,139242.0,Udara
+2011-01-01,Soekarno-Hatta,138987.0,Udara
+2011-02-01,Soekarno-Hatta,144299.0,Udara
+2011-03-01,Soekarno-Hatta,160650.0,Udara
+2011-04-01,Soekarno-Hatta,151989.0,Udara
+2011-05-01,Soekarno-Hatta,150407.0,Udara
+2011-06-01,Soekarno-Hatta,164689.0,Udara
+2011-07-01,Soekarno-Hatta,200180.0,Udara
+2011-08-01,Soekarno-Hatta,142974.0,Udara
+2011-09-01,Soekarno-Hatta,169777.0,Udara
+2011-10-01,Soekarno-Hatta,175068.0,Udara
+2011-11-01,Soekarno-Hatta,171215.0,Udara
+2011-12-01,Soekarno-Hatta,162787.0,Udara
+2012-01-01,Soekarno-Hatta,156654.0,Udara
+2012-02-01,Soekarno-Hatta,154698.0,Udara
+2012-03-01,Soekarno-Hatta,165927.0,Udara
+2012-04-01,Soekarno-Hatta,161005.0,Udara
+2012-05-01,Soekarno-Hatta,185932.0,Udara
+2012-06-01,Soekarno-Hatta,169682.0,Udara
+2012-07-01,Soekarno-Hatta,190320.0,Udara
+2012-08-01,Soekarno-Hatta,140077.0,Udara
+2012-09-01,Soekarno-Hatta,182214.0,Udara
+2012-10-01,Soekarno-Hatta,184894.0,Udara
+2012-11-01,Soekarno-Hatta,185112.0,Udara
+2012-12-01,Soekarno-Hatta,177335.0,Udara
+2013-01-01,Soekarno-Hatta,160998.0,Udara
+2013-02-01,Soekarno-Hatta,180453.0,Udara
+2013-03-01,Soekarno-Hatta,186548.0,Udara
+2013-04-01,Soekarno-Hatta,162682.0,Udara
+2013-05-01,Soekarno-Hatta,179737.0,Udara
+2013-06-01,Soekarno-Hatta,211118.0,Udara
+2013-07-01,Soekarno-Hatta,188800.0,Udara
+2013-08-01,Soekarno-Hatta,188854.0,Udara
+2013-09-01,Soekarno-Hatta,201336.0,Udara
+2013-10-01,Soekarno-Hatta,191460.0,Udara
+2013-11-01,Soekarno-Hatta,199511.0,Udara
+2013-12-01,Soekarno-Hatta,189005.0,Udara
+2014-01-01,Soekarno-Hatta,187123.0,Udara
+2014-02-01,Soekarno-Hatta,180362.0,Udara
+2014-03-01,Soekarno-Hatta,194720.0,Udara
+2014-04-01,Soekarno-Hatta,180787.0,Udara
+2014-05-01,Soekarno-Hatta,184534.0,Udara
+2014-06-01,Soekarno-Hatta,208624.0,Udara
+2014-07-01,Soekarno-Hatta,169135.0,Udara
+2014-08-01,Soekarno-Hatta,218903.0,Udara
+2014-09-01,Soekarno-Hatta,174169.0,Udara
+2014-10-01,Soekarno-Hatta,177274.0,Udara
+2014-11-01,Soekarno-Hatta,180208.0,Udara
+2014-12-01,Soekarno-Hatta,190598.0,Udara
+2015-01-01,Soekarno-Hatta,165746.0,Udara
+2015-02-01,Soekarno-Hatta,170741.0,Udara
+2015-03-01,Soekarno-Hatta,203019.0,Udara
+2015-04-01,Soekarno-Hatta,159873.0,Udara
+2015-05-01,Soekarno-Hatta,189307.0,Udara
+2015-06-01,Soekarno-Hatta,174319.0,Udara
+2015-07-01,Soekarno-Hatta,175347.0,Udara
+2015-08-01,Soekarno-Hatta,252914.0,Udara
+2015-09-01,Soekarno-Hatta,212706.0,Udara
+2015-10-01,Soekarno-Hatta,197487.0,Udara
+2015-11-01,Soekarno-Hatta,216517.0,Udara
+2015-12-01,Soekarno-Hatta,186299.0,Udara
+2016-01-01,Soekarno-Hatta,153503.0,Udara
+2016-02-01,Soekarno-Hatta,164317.0,Udara
+2016-03-01,Soekarno-Hatta,202669.0,Udara
+2016-04-01,Soekarno-Hatta,188369.0,Udara
+2016-05-01,Soekarno-Hatta,187545.0,Udara
+2016-06-01,Soekarno-Hatta,150956.0,Udara
+2016-07-01,Soekarno-Hatta,217452.0,Udara
+2016-08-01,Soekarno-Hatta,270496.0,Udara
+2016-09-01,Soekarno-Hatta,229964.0,Udara
+2016-10-01,Soekarno-Hatta,237914.0,Udara
+2016-11-01,Soekarno-Hatta,219246.0,Udara
+2016-12-01,Soekarno-Hatta,193629.0,Udara
+2017-01-01,Soekarno-Hatta,203067.0,Udara
+2017-02-01,Soekarno-Hatta,191933.0,Udara
+2017-03-01,Soekarno-Hatta,222497.0,Udara
+2017-04-01,Soekarno-Hatta,228611.0,Udara
+2017-05-01,Soekarno-Hatta,220817.0,Udara
+2017-06-01,Soekarno-Hatta,174669.0,Udara
+2017-07-01,Soekarno-Hatta,297360.0,Udara
+2017-08-01,Soekarno-Hatta,289000.0,Udara
+2017-09-01,Soekarno-Hatta,227687.0,Udara
+2017-10-01,Soekarno-Hatta,232014.0,Udara
+2017-11-01,Soekarno-Hatta,231183.0,Udara
+2017-12-01,Soekarno-Hatta,230483.0,Udara
+2018-01-01,Soekarno-Hatta,210494.0,Udara
+2018-02-01,Soekarno-Hatta,201981.0,Udara
+2018-03-01,Soekarno-Hatta,244467.0,Udara
+2018-04-01,Soekarno-Hatta,224978.0,Udara
+2018-05-01,Soekarno-Hatta,191631.0,Udara
+2018-06-01,Soekarno-Hatta,182887.0,Udara
+2018-07-01,Soekarno-Hatta,322808.0,Udara
+2018-08-01,Soekarno-Hatta,308698.0,Udara
+2018-09-01,Soekarno-Hatta,250058.0,Udara
+2018-10-01,Soekarno-Hatta,244775.0,Udara
+2018-11-01,Soekarno-Hatta,206820.0,Udara
+2018-12-01,Soekarno-Hatta,224989.0,Udara
+2019-01-01,Soekarno-Hatta,174963.0,Udara
+2019-02-01,Soekarno-Hatta,196183.0,Udara
+2019-03-01,Soekarno-Hatta,214161.0,Udara
+2019-04-01,Soekarno-Hatta,196977.0,Udara
+2019-05-01,Soekarno-Hatta,156654.0,Udara
+2019-06-01,Soekarno-Hatta,190031.0,Udara
+2019-07-01,Soekarno-Hatta,267143.0,Udara
+2019-08-01,Soekarno-Hatta,251596.0,Udara
+2019-09-01,Soekarno-Hatta,211775.0,Udara
+2019-10-01,Soekarno-Hatta,189231.0,Udara
+2019-11-01,Soekarno-Hatta,183759.0,Udara
+2019-12-01,Soekarno-Hatta,186723.0,Udara
+2023-01-01,Soekarno-Hatta,115101.0,Udara
+2023-02-01,Soekarno-Hatta,124803.0,Udara
+2023-03-01,Soekarno-Hatta,140859.0,Udara
+2023-04-01,Soekarno-Hatta,99289.0,Udara
+2023-05-01,Soekarno-Hatta,158550.0,Udara
+2023-06-01,Soekarno-Hatta,161114.0,Udara
+2023-07-01,Soekarno-Hatta,204000.0,Udara
+2023-08-01,Soekarno-Hatta,218512.0,Udara
+2023-09-01,Soekarno-Hatta,190058.0,Udara
+2023-10-01,Soekarno-Hatta,181627.0,Udara
+2023-11-01,Soekarno-Hatta,186695.0,Udara
+2023-12-01,Soekarno-Hatta,172397.0,Udara
+2024-01-01,Soekarno-Hatta,157979.0,Udara
+2024-02-01,Soekarno-Hatta,187641.0,Udara
+2024-03-01,Soekarno-Hatta,160917.0,Udara
+2024-04-01,Soekarno-Hatta,157409.0,Udara
+2024-05-01,Soekarno-Hatta,201574.0,Udara
+2024-06-01,Soekarno-Hatta,225985.0,Udara
+2024-07-01,Soekarno-Hatta,271680.0,Udara
+2024-08-01,Soekarno-Hatta,272849.0,Udara
+2024-09-01,Soekarno-Hatta,250852.0,Udara
+2024-10-01,Soekarno-Hatta,218170.0,Udara
+2024-11-01,Soekarno-Hatta,212178.0,Udara
+2024-12-01,Soekarno-Hatta,207019.0,Udara
+2010-01-01,Sultan Badaruddin II,0.0,Udara
+2010-02-01,Sultan Badaruddin II,0.0,Udara
+2010-03-01,Sultan Badaruddin II,0.0,Udara
+2010-04-01,Sultan Badaruddin II,0.0,Udara
+2010-05-01,Sultan Badaruddin II,0.0,Udara
+2010-06-01,Sultan Badaruddin II,0.0,Udara
+2010-07-01,Sultan Badaruddin II,0.0,Udara
+2010-08-01,Sultan Badaruddin II,0.0,Udara
+2010-09-01,Sultan Badaruddin II,0.0,Udara
+2010-10-01,Sultan Badaruddin II,0.0,Udara
+2010-11-01,Sultan Badaruddin II,0.0,Udara
+2010-12-01,Sultan Badaruddin II,0.0,Udara
+2011-01-01,Sultan Badaruddin II,0.0,Udara
+2011-02-01,Sultan Badaruddin II,0.0,Udara
+2011-03-01,Sultan Badaruddin II,0.0,Udara
+2011-04-01,Sultan Badaruddin II,0.0,Udara
+2011-05-01,Sultan Badaruddin II,0.0,Udara
+2011-06-01,Sultan Badaruddin II,0.0,Udara
+2011-07-01,Sultan Badaruddin II,0.0,Udara
+2011-08-01,Sultan Badaruddin II,0.0,Udara
+2011-09-01,Sultan Badaruddin II,0.0,Udara
+2011-10-01,Sultan Badaruddin II,0.0,Udara
+2011-11-01,Sultan Badaruddin II,0.0,Udara
+2011-12-01,Sultan Badaruddin II,0.0,Udara
+2012-01-01,Sultan Badaruddin II,0.0,Udara
+2012-02-01,Sultan Badaruddin II,0.0,Udara
+2012-03-01,Sultan Badaruddin II,0.0,Udara
+2012-04-01,Sultan Badaruddin II,0.0,Udara
+2012-05-01,Sultan Badaruddin II,0.0,Udara
+2012-06-01,Sultan Badaruddin II,0.0,Udara
+2012-07-01,Sultan Badaruddin II,0.0,Udara
+2012-08-01,Sultan Badaruddin II,0.0,Udara
+2012-09-01,Sultan Badaruddin II,0.0,Udara
+2012-10-01,Sultan Badaruddin II,0.0,Udara
+2012-11-01,Sultan Badaruddin II,0.0,Udara
+2012-12-01,Sultan Badaruddin II,0.0,Udara
+2013-01-01,Sultan Badaruddin II,0.0,Udara
+2013-02-01,Sultan Badaruddin II,0.0,Udara
+2013-03-01,Sultan Badaruddin II,0.0,Udara
+2013-04-01,Sultan Badaruddin II,0.0,Udara
+2013-05-01,Sultan Badaruddin II,0.0,Udara
+2013-06-01,Sultan Badaruddin II,0.0,Udara
+2013-07-01,Sultan Badaruddin II,0.0,Udara
+2013-08-01,Sultan Badaruddin II,0.0,Udara
+2013-09-01,Sultan Badaruddin II,0.0,Udara
+2013-10-01,Sultan Badaruddin II,0.0,Udara
+2013-11-01,Sultan Badaruddin II,0.0,Udara
+2013-12-01,Sultan Badaruddin II,0.0,Udara
+2014-01-01,Sultan Badaruddin II,0.0,Udara
+2014-02-01,Sultan Badaruddin II,0.0,Udara
+2014-03-01,Sultan Badaruddin II,0.0,Udara
+2014-04-01,Sultan Badaruddin II,0.0,Udara
+2014-05-01,Sultan Badaruddin II,0.0,Udara
+2014-06-01,Sultan Badaruddin II,0.0,Udara
+2014-07-01,Sultan Badaruddin II,0.0,Udara
+2014-08-01,Sultan Badaruddin II,0.0,Udara
+2014-09-01,Sultan Badaruddin II,0.0,Udara
+2014-10-01,Sultan Badaruddin II,0.0,Udara
+2014-11-01,Sultan Badaruddin II,0.0,Udara
+2014-12-01,Sultan Badaruddin II,0.0,Udara
+2015-01-01,Sultan Badaruddin II,0.0,Udara
+2015-02-01,Sultan Badaruddin II,0.0,Udara
+2015-03-01,Sultan Badaruddin II,0.0,Udara
+2015-04-01,Sultan Badaruddin II,0.0,Udara
+2015-05-01,Sultan Badaruddin II,0.0,Udara
+2015-06-01,Sultan Badaruddin II,0.0,Udara
+2015-07-01,Sultan Badaruddin II,0.0,Udara
+2015-08-01,Sultan Badaruddin II,0.0,Udara
+2015-09-01,Sultan Badaruddin II,0.0,Udara
+2015-10-01,Sultan Badaruddin II,0.0,Udara
+2015-11-01,Sultan Badaruddin II,0.0,Udara
+2015-12-01,Sultan Badaruddin II,0.0,Udara
+2016-01-01,Sultan Badaruddin II,0.0,Udara
+2016-02-01,Sultan Badaruddin II,0.0,Udara
+2016-03-01,Sultan Badaruddin II,0.0,Udara
+2016-04-01,Sultan Badaruddin II,0.0,Udara
+2016-05-01,Sultan Badaruddin II,0.0,Udara
+2016-06-01,Sultan Badaruddin II,0.0,Udara
+2016-07-01,Sultan Badaruddin II,0.0,Udara
+2016-08-01,Sultan Badaruddin II,0.0,Udara
+2016-09-01,Sultan Badaruddin II,0.0,Udara
+2016-10-01,Sultan Badaruddin II,0.0,Udara
+2016-11-01,Sultan Badaruddin II,0.0,Udara
+2016-12-01,Sultan Badaruddin II,0.0,Udara
+2017-01-01,Sultan Badaruddin II,1060.0,Udara
+2017-02-01,Sultan Badaruddin II,1156.0,Udara
+2017-03-01,Sultan Badaruddin II,1468.0,Udara
+2017-04-01,Sultan Badaruddin II,1154.0,Udara
+2017-05-01,Sultan Badaruddin II,1010.0,Udara
+2017-06-01,Sultan Badaruddin II,1136.0,Udara
+2017-07-01,Sultan Badaruddin II,1220.0,Udara
+2017-08-01,Sultan Badaruddin II,1418.0,Udara
+2017-09-01,Sultan Badaruddin II,1256.0,Udara
+2017-10-01,Sultan Badaruddin II,977.0,Udara
+2017-11-01,Sultan Badaruddin II,1266.0,Udara
+2017-12-01,Sultan Badaruddin II,1580.0,Udara
+2018-01-01,Sultan Badaruddin II,727.0,Udara
+2018-02-01,Sultan Badaruddin II,788.0,Udara
+2018-03-01,Sultan Badaruddin II,1015.0,Udara
+2018-04-01,Sultan Badaruddin II,861.0,Udara
+2018-05-01,Sultan Badaruddin II,716.0,Udara
+2018-06-01,Sultan Badaruddin II,1311.0,Udara
+2018-07-01,Sultan Badaruddin II,1185.0,Udara
+2018-08-01,Sultan Badaruddin II,2263.0,Udara
+2018-09-01,Sultan Badaruddin II,1160.0,Udara
+2018-10-01,Sultan Badaruddin II,1167.0,Udara
+2018-11-01,Sultan Badaruddin II,1238.0,Udara
+2018-12-01,Sultan Badaruddin II,1431.0,Udara
+2019-01-01,Sultan Badaruddin II,1038.0,Udara
+2019-02-01,Sultan Badaruddin II,1573.0,Udara
+2019-03-01,Sultan Badaruddin II,1419.0,Udara
+2019-04-01,Sultan Badaruddin II,1409.0,Udara
+2019-05-01,Sultan Badaruddin II,1396.0,Udara
+2019-06-01,Sultan Badaruddin II,1725.0,Udara
+2019-07-01,Sultan Badaruddin II,1231.0,Udara
+2019-08-01,Sultan Badaruddin II,1605.0,Udara
+2019-09-01,Sultan Badaruddin II,1287.0,Udara
+2019-10-01,Sultan Badaruddin II,1183.0,Udara
+2019-11-01,Sultan Badaruddin II,1218.0,Udara
+2019-12-01,Sultan Badaruddin II,762.0,Udara
+2023-01-01,Sultan Badaruddin II,0.0,Udara
+2023-02-01,Sultan Badaruddin II,1.0,Udara
+2023-03-01,Sultan Badaruddin II,1.0,Udara
+2023-04-01,Sultan Badaruddin II,0.0,Udara
+2023-05-01,Sultan Badaruddin II,0.0,Udara
+2023-06-01,Sultan Badaruddin II,0.0,Udara
+2023-07-01,Sultan Badaruddin II,11.0,Udara
+2023-08-01,Sultan Badaruddin II,4.0,Udara
+2023-09-01,Sultan Badaruddin II,0.0,Udara
+2023-10-01,Sultan Badaruddin II,0.0,Udara
+2023-11-01,Sultan Badaruddin II,1.0,Udara
+2023-12-01,Sultan Badaruddin II,6.0,Udara
+2024-01-01,Sultan Badaruddin II,0.0,Udara
+2024-02-01,Sultan Badaruddin II,2.0,Udara
+2024-03-01,Sultan Badaruddin II,2.0,Udara
+2024-04-01,Sultan Badaruddin II,0.0,Udara
+2024-05-01,Sultan Badaruddin II,5.0,Udara
+2024-06-01,Sultan Badaruddin II,0.0,Udara
+2024-07-01,Sultan Badaruddin II,15.0,Udara
+2024-08-01,Sultan Badaruddin II,11.0,Udara
+2024-09-01,Sultan Badaruddin II,0.0,Udara
+2024-10-01,Sultan Badaruddin II,0.0,Udara
+2024-11-01,Sultan Badaruddin II,0.0,Udara
+2024-12-01,Sultan Badaruddin II,2.0,Udara
+2010-01-01,Sultan Iskandar Muda,0.0,Udara
+2010-02-01,Sultan Iskandar Muda,0.0,Udara
+2010-03-01,Sultan Iskandar Muda,0.0,Udara
+2010-04-01,Sultan Iskandar Muda,0.0,Udara
+2010-05-01,Sultan Iskandar Muda,0.0,Udara
+2010-06-01,Sultan Iskandar Muda,0.0,Udara
+2010-07-01,Sultan Iskandar Muda,0.0,Udara
+2010-08-01,Sultan Iskandar Muda,0.0,Udara
+2010-09-01,Sultan Iskandar Muda,0.0,Udara
+2010-10-01,Sultan Iskandar Muda,0.0,Udara
+2010-11-01,Sultan Iskandar Muda,0.0,Udara
+2010-12-01,Sultan Iskandar Muda,0.0,Udara
+2011-01-01,Sultan Iskandar Muda,0.0,Udara
+2011-02-01,Sultan Iskandar Muda,0.0,Udara
+2011-03-01,Sultan Iskandar Muda,0.0,Udara
+2011-04-01,Sultan Iskandar Muda,0.0,Udara
+2011-05-01,Sultan Iskandar Muda,0.0,Udara
+2011-06-01,Sultan Iskandar Muda,0.0,Udara
+2011-07-01,Sultan Iskandar Muda,0.0,Udara
+2011-08-01,Sultan Iskandar Muda,0.0,Udara
+2011-09-01,Sultan Iskandar Muda,0.0,Udara
+2011-10-01,Sultan Iskandar Muda,0.0,Udara
+2011-11-01,Sultan Iskandar Muda,0.0,Udara
+2011-12-01,Sultan Iskandar Muda,0.0,Udara
+2012-01-01,Sultan Iskandar Muda,0.0,Udara
+2012-02-01,Sultan Iskandar Muda,0.0,Udara
+2012-03-01,Sultan Iskandar Muda,0.0,Udara
+2012-04-01,Sultan Iskandar Muda,0.0,Udara
+2012-05-01,Sultan Iskandar Muda,0.0,Udara
+2012-06-01,Sultan Iskandar Muda,0.0,Udara
+2012-07-01,Sultan Iskandar Muda,0.0,Udara
+2012-08-01,Sultan Iskandar Muda,0.0,Udara
+2012-09-01,Sultan Iskandar Muda,0.0,Udara
+2012-10-01,Sultan Iskandar Muda,0.0,Udara
+2012-11-01,Sultan Iskandar Muda,0.0,Udara
+2012-12-01,Sultan Iskandar Muda,0.0,Udara
+2013-01-01,Sultan Iskandar Muda,0.0,Udara
+2013-02-01,Sultan Iskandar Muda,0.0,Udara
+2013-03-01,Sultan Iskandar Muda,0.0,Udara
+2013-04-01,Sultan Iskandar Muda,0.0,Udara
+2013-05-01,Sultan Iskandar Muda,0.0,Udara
+2013-06-01,Sultan Iskandar Muda,0.0,Udara
+2013-07-01,Sultan Iskandar Muda,0.0,Udara
+2013-08-01,Sultan Iskandar Muda,0.0,Udara
+2013-09-01,Sultan Iskandar Muda,0.0,Udara
+2013-10-01,Sultan Iskandar Muda,0.0,Udara
+2013-11-01,Sultan Iskandar Muda,0.0,Udara
+2013-12-01,Sultan Iskandar Muda,0.0,Udara
+2014-01-01,Sultan Iskandar Muda,0.0,Udara
+2014-02-01,Sultan Iskandar Muda,0.0,Udara
+2014-03-01,Sultan Iskandar Muda,0.0,Udara
+2014-04-01,Sultan Iskandar Muda,0.0,Udara
+2014-05-01,Sultan Iskandar Muda,0.0,Udara
+2014-06-01,Sultan Iskandar Muda,0.0,Udara
+2014-07-01,Sultan Iskandar Muda,0.0,Udara
+2014-08-01,Sultan Iskandar Muda,0.0,Udara
+2014-09-01,Sultan Iskandar Muda,0.0,Udara
+2014-10-01,Sultan Iskandar Muda,0.0,Udara
+2014-11-01,Sultan Iskandar Muda,0.0,Udara
+2014-12-01,Sultan Iskandar Muda,0.0,Udara
+2015-01-01,Sultan Iskandar Muda,0.0,Udara
+2015-02-01,Sultan Iskandar Muda,0.0,Udara
+2015-03-01,Sultan Iskandar Muda,0.0,Udara
+2015-04-01,Sultan Iskandar Muda,0.0,Udara
+2015-05-01,Sultan Iskandar Muda,0.0,Udara
+2015-06-01,Sultan Iskandar Muda,0.0,Udara
+2015-07-01,Sultan Iskandar Muda,0.0,Udara
+2015-08-01,Sultan Iskandar Muda,0.0,Udara
+2015-09-01,Sultan Iskandar Muda,0.0,Udara
+2015-10-01,Sultan Iskandar Muda,0.0,Udara
+2015-11-01,Sultan Iskandar Muda,0.0,Udara
+2015-12-01,Sultan Iskandar Muda,0.0,Udara
+2016-01-01,Sultan Iskandar Muda,0.0,Udara
+2016-02-01,Sultan Iskandar Muda,0.0,Udara
+2016-03-01,Sultan Iskandar Muda,0.0,Udara
+2016-04-01,Sultan Iskandar Muda,0.0,Udara
+2016-05-01,Sultan Iskandar Muda,0.0,Udara
+2016-06-01,Sultan Iskandar Muda,0.0,Udara
+2016-07-01,Sultan Iskandar Muda,0.0,Udara
+2016-08-01,Sultan Iskandar Muda,0.0,Udara
+2016-09-01,Sultan Iskandar Muda,0.0,Udara
+2016-10-01,Sultan Iskandar Muda,0.0,Udara
+2016-11-01,Sultan Iskandar Muda,0.0,Udara
+2016-12-01,Sultan Iskandar Muda,0.0,Udara
+2017-01-01,Sultan Iskandar Muda,2852.0,Udara
+2017-02-01,Sultan Iskandar Muda,3254.0,Udara
+2017-03-01,Sultan Iskandar Muda,3375.0,Udara
+2017-04-01,Sultan Iskandar Muda,2947.0,Udara
+2017-05-01,Sultan Iskandar Muda,2430.0,Udara
+2017-06-01,Sultan Iskandar Muda,1528.0,Udara
+2017-07-01,Sultan Iskandar Muda,2297.0,Udara
+2017-08-01,Sultan Iskandar Muda,2627.0,Udara
+2017-09-01,Sultan Iskandar Muda,2559.0,Udara
+2017-10-01,Sultan Iskandar Muda,2763.0,Udara
+2017-11-01,Sultan Iskandar Muda,2905.0,Udara
+2017-12-01,Sultan Iskandar Muda,3698.0,Udara
+2018-01-01,Sultan Iskandar Muda,2802.0,Udara
+2018-02-01,Sultan Iskandar Muda,2915.0,Udara
+2018-03-01,Sultan Iskandar Muda,3402.0,Udara
+2018-04-01,Sultan Iskandar Muda,2941.0,Udara
+2018-05-01,Sultan Iskandar Muda,1717.0,Udara
+2018-06-01,Sultan Iskandar Muda,1468.0,Udara
+2018-07-01,Sultan Iskandar Muda,3297.0,Udara
+2018-08-01,Sultan Iskandar Muda,3087.0,Udara
+2018-09-01,Sultan Iskandar Muda,3074.0,Udara
+2018-10-01,Sultan Iskandar Muda,2058.0,Udara
+2018-11-01,Sultan Iskandar Muda,1137.0,Udara
+2018-12-01,Sultan Iskandar Muda,1315.0,Udara
+2019-01-01,Sultan Iskandar Muda,1676.0,Udara
+2019-02-01,Sultan Iskandar Muda,1739.0,Udara
+2019-03-01,Sultan Iskandar Muda,2134.0,Udara
+2019-04-01,Sultan Iskandar Muda,2225.0,Udara
+2019-05-01,Sultan Iskandar Muda,1360.0,Udara
+2019-06-01,Sultan Iskandar Muda,2051.0,Udara
+2019-07-01,Sultan Iskandar Muda,2823.0,Udara
+2019-08-01,Sultan Iskandar Muda,2935.0,Udara
+2019-09-01,Sultan Iskandar Muda,2371.0,Udara
+2019-10-01,Sultan Iskandar Muda,2560.0,Udara
+2019-11-01,Sultan Iskandar Muda,2417.0,Udara
+2019-12-01,Sultan Iskandar Muda,4012.0,Udara
+2023-01-01,Sultan Iskandar Muda,1440.0,Udara
+2023-02-01,Sultan Iskandar Muda,2024.0,Udara
+2023-03-01,Sultan Iskandar Muda,1901.0,Udara
+2023-04-01,Sultan Iskandar Muda,1349.0,Udara
+2023-05-01,Sultan Iskandar Muda,2350.0,Udara
+2023-06-01,Sultan Iskandar Muda,2157.0,Udara
+2023-07-01,Sultan Iskandar Muda,2582.0,Udara
+2023-08-01,Sultan Iskandar Muda,3108.0,Udara
+2023-09-01,Sultan Iskandar Muda,2481.0,Udara
+2023-10-01,Sultan Iskandar Muda,1875.0,Udara
+2023-11-01,Sultan Iskandar Muda,2577.0,Udara
+2023-12-01,Sultan Iskandar Muda,3461.0,Udara
+2024-01-01,Sultan Iskandar Muda,2379.0,Udara
+2024-02-01,Sultan Iskandar Muda,4421.0,Udara
+2024-03-01,Sultan Iskandar Muda,1582.0,Udara
+2024-04-01,Sultan Iskandar Muda,2533.0,Udara
+2024-05-01,Sultan Iskandar Muda,2050.0,Udara
+2024-06-01,Sultan Iskandar Muda,2080.0,Udara
+2024-07-01,Sultan Iskandar Muda,2489.0,Udara
+2024-08-01,Sultan Iskandar Muda,3042.0,Udara
+2024-09-01,Sultan Iskandar Muda,3909.0,Udara
+2024-10-01,Sultan Iskandar Muda,3237.0,Udara
+2024-11-01,Sultan Iskandar Muda,2534.0,Udara
+2024-12-01,Sultan Iskandar Muda,3598.0,Udara
+2010-01-01,Sultan Syarif Kasim II,1056.0,Udara
+2010-02-01,Sultan Syarif Kasim II,1268.0,Udara
+2010-03-01,Sultan Syarif Kasim II,1319.0,Udara
+2010-04-01,Sultan Syarif Kasim II,1234.0,Udara
+2010-05-01,Sultan Syarif Kasim II,1131.0,Udara
+2010-06-01,Sultan Syarif Kasim II,1642.0,Udara
+2010-07-01,Sultan Syarif Kasim II,1223.0,Udara
+2010-08-01,Sultan Syarif Kasim II,905.0,Udara
+2010-09-01,Sultan Syarif Kasim II,1508.0,Udara
+2010-10-01,Sultan Syarif Kasim II,1089.0,Udara
+2010-11-01,Sultan Syarif Kasim II,2070.0,Udara
+2010-12-01,Sultan Syarif Kasim II,833.0,Udara
+2011-01-01,Sultan Syarif Kasim II,1412.0,Udara
+2011-02-01,Sultan Syarif Kasim II,1468.0,Udara
+2011-03-01,Sultan Syarif Kasim II,1852.0,Udara
+2011-04-01,Sultan Syarif Kasim II,1982.0,Udara
+2011-05-01,Sultan Syarif Kasim II,2131.0,Udara
+2011-06-01,Sultan Syarif Kasim II,1982.0,Udara
+2011-07-01,Sultan Syarif Kasim II,2079.0,Udara
+2011-08-01,Sultan Syarif Kasim II,1731.0,Udara
+2011-09-01,Sultan Syarif Kasim II,1482.0,Udara
+2011-10-01,Sultan Syarif Kasim II,1485.0,Udara
+2011-11-01,Sultan Syarif Kasim II,2214.0,Udara
+2011-12-01,Sultan Syarif Kasim II,2164.0,Udara
+2012-01-01,Sultan Syarif Kasim II,1408.0,Udara
+2012-02-01,Sultan Syarif Kasim II,1720.0,Udara
+2012-03-01,Sultan Syarif Kasim II,2099.0,Udara
+2012-04-01,Sultan Syarif Kasim II,1701.0,Udara
+2012-05-01,Sultan Syarif Kasim II,1289.0,Udara
+2012-06-01,Sultan Syarif Kasim II,1680.0,Udara
+2012-07-01,Sultan Syarif Kasim II,1629.0,Udara
+2012-08-01,Sultan Syarif Kasim II,1510.0,Udara
+2012-09-01,Sultan Syarif Kasim II,1999.0,Udara
+2012-10-01,Sultan Syarif Kasim II,1846.0,Udara
+2012-11-01,Sultan Syarif Kasim II,2421.0,Udara
+2012-12-01,Sultan Syarif Kasim II,2085.0,Udara
+2013-01-01,Sultan Syarif Kasim II,1550.0,Udara
+2013-02-01,Sultan Syarif Kasim II,1962.0,Udara
+2013-03-01,Sultan Syarif Kasim II,2039.0,Udara
+2013-04-01,Sultan Syarif Kasim II,1683.0,Udara
+2013-05-01,Sultan Syarif Kasim II,2124.0,Udara
+2013-06-01,Sultan Syarif Kasim II,1952.0,Udara
+2013-07-01,Sultan Syarif Kasim II,1147.0,Udara
+2013-08-01,Sultan Syarif Kasim II,2489.0,Udara
+2013-09-01,Sultan Syarif Kasim II,1924.0,Udara
+2013-10-01,Sultan Syarif Kasim II,2113.0,Udara
+2013-11-01,Sultan Syarif Kasim II,3559.0,Udara
+2013-12-01,Sultan Syarif Kasim II,3404.0,Udara
+2014-01-01,Sultan Syarif Kasim II,2399.0,Udara
+2014-02-01,Sultan Syarif Kasim II,2117.0,Udara
+2014-03-01,Sultan Syarif Kasim II,2130.0,Udara
+2014-04-01,Sultan Syarif Kasim II,1907.0,Udara
+2014-05-01,Sultan Syarif Kasim II,2502.0,Udara
+2014-06-01,Sultan Syarif Kasim II,2247.0,Udara
+2014-07-01,Sultan Syarif Kasim II,1713.0,Udara
+2014-08-01,Sultan Syarif Kasim II,1823.0,Udara
+2014-09-01,Sultan Syarif Kasim II,1912.0,Udara
+2014-10-01,Sultan Syarif Kasim II,2334.0,Udara
+2014-11-01,Sultan Syarif Kasim II,2776.0,Udara
+2014-12-01,Sultan Syarif Kasim II,3522.0,Udara
+2015-01-01,Sultan Syarif Kasim II,2606.0,Udara
+2015-02-01,Sultan Syarif Kasim II,2043.0,Udara
+2015-03-01,Sultan Syarif Kasim II,2300.0,Udara
+2015-04-01,Sultan Syarif Kasim II,2112.0,Udara
+2015-05-01,Sultan Syarif Kasim II,2503.0,Udara
+2015-06-01,Sultan Syarif Kasim II,1954.0,Udara
+2015-07-01,Sultan Syarif Kasim II,2660.0,Udara
+2015-08-01,Sultan Syarif Kasim II,2488.0,Udara
+2015-09-01,Sultan Syarif Kasim II,1752.0,Udara
+2015-10-01,Sultan Syarif Kasim II,462.0,Udara
+2015-11-01,Sultan Syarif Kasim II,2211.0,Udara
+2015-12-01,Sultan Syarif Kasim II,2286.0,Udara
+2016-01-01,Sultan Syarif Kasim II,1523.0,Udara
+2016-02-01,Sultan Syarif Kasim II,1912.0,Udara
+2016-03-01,Sultan Syarif Kasim II,2090.0,Udara
+2016-04-01,Sultan Syarif Kasim II,1786.0,Udara
+2016-05-01,Sultan Syarif Kasim II,2494.0,Udara
+2016-06-01,Sultan Syarif Kasim II,1751.0,Udara
+2016-07-01,Sultan Syarif Kasim II,2654.0,Udara
+2016-08-01,Sultan Syarif Kasim II,2362.0,Udara
+2016-09-01,Sultan Syarif Kasim II,2822.0,Udara
+2016-10-01,Sultan Syarif Kasim II,3279.0,Udara
+2016-11-01,Sultan Syarif Kasim II,3280.0,Udara
+2016-12-01,Sultan Syarif Kasim II,3973.0,Udara
+2017-01-01,Sultan Syarif Kasim II,3274.0,Udara
+2017-02-01,Sultan Syarif Kasim II,2909.0,Udara
+2017-03-01,Sultan Syarif Kasim II,3612.0,Udara
+2017-04-01,Sultan Syarif Kasim II,3554.0,Udara
+2017-05-01,Sultan Syarif Kasim II,3578.0,Udara
+2017-06-01,Sultan Syarif Kasim II,3504.0,Udara
+2017-07-01,Sultan Syarif Kasim II,3543.0,Udara
+2017-08-01,Sultan Syarif Kasim II,3590.0,Udara
+2017-09-01,Sultan Syarif Kasim II,3066.0,Udara
+2017-10-01,Sultan Syarif Kasim II,3026.0,Udara
+2017-11-01,Sultan Syarif Kasim II,3225.0,Udara
+2017-12-01,Sultan Syarif Kasim II,3224.0,Udara
+2018-01-01,Sultan Syarif Kasim II,2129.0,Udara
+2018-02-01,Sultan Syarif Kasim II,1942.0,Udara
+2018-03-01,Sultan Syarif Kasim II,2510.0,Udara
+2018-04-01,Sultan Syarif Kasim II,2044.0,Udara
+2018-05-01,Sultan Syarif Kasim II,1666.0,Udara
+2018-06-01,Sultan Syarif Kasim II,2838.0,Udara
+2018-07-01,Sultan Syarif Kasim II,2417.0,Udara
+2018-08-01,Sultan Syarif Kasim II,2977.0,Udara
+2018-09-01,Sultan Syarif Kasim II,2321.0,Udara
+2018-10-01,Sultan Syarif Kasim II,2654.0,Udara
+2018-11-01,Sultan Syarif Kasim II,3265.0,Udara
+2018-12-01,Sultan Syarif Kasim II,3013.0,Udara
+2019-01-01,Sultan Syarif Kasim II,2450.0,Udara
+2019-02-01,Sultan Syarif Kasim II,2989.0,Udara
+2019-03-01,Sultan Syarif Kasim II,3071.0,Udara
+2019-04-01,Sultan Syarif Kasim II,2745.0,Udara
+2019-05-01,Sultan Syarif Kasim II,2364.0,Udara
+2019-06-01,Sultan Syarif Kasim II,2971.0,Udara
+2019-07-01,Sultan Syarif Kasim II,2555.0,Udara
+2019-08-01,Sultan Syarif Kasim II,3229.0,Udara
+2019-09-01,Sultan Syarif Kasim II,2409.0,Udara
+2019-10-01,Sultan Syarif Kasim II,2677.0,Udara
+2019-11-01,Sultan Syarif Kasim II,2917.0,Udara
+2019-12-01,Sultan Syarif Kasim II,4042.0,Udara
+2023-01-01,Sultan Syarif Kasim II,1624.0,Udara
+2023-02-01,Sultan Syarif Kasim II,1914.0,Udara
+2023-03-01,Sultan Syarif Kasim II,1697.0,Udara
+2023-04-01,Sultan Syarif Kasim II,2453.0,Udara
+2023-05-01,Sultan Syarif Kasim II,2293.0,Udara
+2023-06-01,Sultan Syarif Kasim II,2447.0,Udara
+2023-07-01,Sultan Syarif Kasim II,2111.0,Udara
+2023-08-01,Sultan Syarif Kasim II,2770.0,Udara
+2023-09-01,Sultan Syarif Kasim II,2166.0,Udara
+2023-10-01,Sultan Syarif Kasim II,2377.0,Udara
+2023-11-01,Sultan Syarif Kasim II,2921.0,Udara
+2023-12-01,Sultan Syarif Kasim II,2964.0,Udara
+2024-01-01,Sultan Syarif Kasim II,2126.0,Udara
+2024-02-01,Sultan Syarif Kasim II,3709.0,Udara
+2024-03-01,Sultan Syarif Kasim II,2081.0,Udara
+2024-04-01,Sultan Syarif Kasim II,3996.0,Udara
+2024-05-01,Sultan Syarif Kasim II,2849.0,Udara
+2024-06-01,Sultan Syarif Kasim II,4637.0,Udara
+2024-07-01,Sultan Syarif Kasim II,2516.0,Udara
+2024-08-01,Sultan Syarif Kasim II,3940.0,Udara
+2024-09-01,Sultan Syarif Kasim II,3320.0,Udara
+2024-10-01,Sultan Syarif Kasim II,2637.0,Udara
+2024-11-01,Sultan Syarif Kasim II,2485.0,Udara
+2024-12-01,Sultan Syarif Kasim II,2800.0,Udara
+2010-01-01,Supadio,0.0,Udara
+2010-02-01,Supadio,0.0,Udara
+2010-03-01,Supadio,0.0,Udara
+2010-04-01,Supadio,0.0,Udara
+2010-05-01,Supadio,0.0,Udara
+2010-06-01,Supadio,0.0,Udara
+2010-07-01,Supadio,0.0,Udara
+2010-08-01,Supadio,0.0,Udara
+2010-09-01,Supadio,0.0,Udara
+2010-10-01,Supadio,0.0,Udara
+2010-11-01,Supadio,0.0,Udara
+2010-12-01,Supadio,0.0,Udara
+2011-01-01,Supadio,0.0,Udara
+2011-02-01,Supadio,0.0,Udara
+2011-03-01,Supadio,0.0,Udara
+2011-04-01,Supadio,0.0,Udara
+2011-05-01,Supadio,0.0,Udara
+2011-06-01,Supadio,0.0,Udara
+2011-07-01,Supadio,0.0,Udara
+2011-08-01,Supadio,0.0,Udara
+2011-09-01,Supadio,0.0,Udara
+2011-10-01,Supadio,0.0,Udara
+2011-11-01,Supadio,0.0,Udara
+2011-12-01,Supadio,0.0,Udara
+2012-01-01,Supadio,0.0,Udara
+2012-02-01,Supadio,0.0,Udara
+2012-03-01,Supadio,0.0,Udara
+2012-04-01,Supadio,0.0,Udara
+2012-05-01,Supadio,0.0,Udara
+2012-06-01,Supadio,0.0,Udara
+2012-07-01,Supadio,0.0,Udara
+2012-08-01,Supadio,0.0,Udara
+2012-09-01,Supadio,0.0,Udara
+2012-10-01,Supadio,0.0,Udara
+2012-11-01,Supadio,0.0,Udara
+2012-12-01,Supadio,0.0,Udara
+2013-01-01,Supadio,0.0,Udara
+2013-02-01,Supadio,0.0,Udara
+2013-03-01,Supadio,0.0,Udara
+2013-04-01,Supadio,0.0,Udara
+2013-05-01,Supadio,0.0,Udara
+2013-06-01,Supadio,0.0,Udara
+2013-07-01,Supadio,0.0,Udara
+2013-08-01,Supadio,0.0,Udara
+2013-09-01,Supadio,0.0,Udara
+2013-10-01,Supadio,0.0,Udara
+2013-11-01,Supadio,0.0,Udara
+2013-12-01,Supadio,0.0,Udara
+2014-01-01,Supadio,0.0,Udara
+2014-02-01,Supadio,0.0,Udara
+2014-03-01,Supadio,0.0,Udara
+2014-04-01,Supadio,0.0,Udara
+2014-05-01,Supadio,0.0,Udara
+2014-06-01,Supadio,0.0,Udara
+2014-07-01,Supadio,0.0,Udara
+2014-08-01,Supadio,0.0,Udara
+2014-09-01,Supadio,0.0,Udara
+2014-10-01,Supadio,0.0,Udara
+2014-11-01,Supadio,0.0,Udara
+2014-12-01,Supadio,0.0,Udara
+2015-01-01,Supadio,0.0,Udara
+2015-02-01,Supadio,0.0,Udara
+2015-03-01,Supadio,0.0,Udara
+2015-04-01,Supadio,0.0,Udara
+2015-05-01,Supadio,0.0,Udara
+2015-06-01,Supadio,0.0,Udara
+2015-07-01,Supadio,0.0,Udara
+2015-08-01,Supadio,0.0,Udara
+2015-09-01,Supadio,0.0,Udara
+2015-10-01,Supadio,0.0,Udara
+2015-11-01,Supadio,0.0,Udara
+2015-12-01,Supadio,0.0,Udara
+2016-01-01,Supadio,0.0,Udara
+2016-02-01,Supadio,0.0,Udara
+2016-03-01,Supadio,0.0,Udara
+2016-04-01,Supadio,0.0,Udara
+2016-05-01,Supadio,0.0,Udara
+2016-06-01,Supadio,0.0,Udara
+2016-07-01,Supadio,0.0,Udara
+2016-08-01,Supadio,0.0,Udara
+2016-09-01,Supadio,0.0,Udara
+2016-10-01,Supadio,0.0,Udara
+2016-11-01,Supadio,0.0,Udara
+2016-12-01,Supadio,0.0,Udara
+2017-01-01,Supadio,858.0,Udara
+2017-02-01,Supadio,626.0,Udara
+2017-03-01,Supadio,899.0,Udara
+2017-04-01,Supadio,655.0,Udara
+2017-05-01,Supadio,812.0,Udara
+2017-06-01,Supadio,1642.0,Udara
+2017-07-01,Supadio,1731.0,Udara
+2017-08-01,Supadio,2307.0,Udara
+2017-09-01,Supadio,2104.0,Udara
+2017-10-01,Supadio,1979.0,Udara
+2017-11-01,Supadio,2263.0,Udara
+2017-12-01,Supadio,2652.0,Udara
+2018-01-01,Supadio,1284.0,Udara
+2018-02-01,Supadio,2356.0,Udara
+2018-03-01,Supadio,2416.0,Udara
+2018-04-01,Supadio,1902.0,Udara
+2018-05-01,Supadio,1473.0,Udara
+2018-06-01,Supadio,1652.0,Udara
+2018-07-01,Supadio,1639.0,Udara
+2018-08-01,Supadio,1992.0,Udara
+2018-09-01,Supadio,2254.0,Udara
+2018-10-01,Supadio,1697.0,Udara
+2018-11-01,Supadio,2352.0,Udara
+2018-12-01,Supadio,2033.0,Udara
+2019-01-01,Supadio,1598.0,Udara
+2019-02-01,Supadio,2639.0,Udara
+2019-03-01,Supadio,2316.0,Udara
+2019-04-01,Supadio,1886.0,Udara
+2019-05-01,Supadio,1527.0,Udara
+2019-06-01,Supadio,1567.0,Udara
+2019-07-01,Supadio,1826.0,Udara
+2019-08-01,Supadio,2127.0,Udara
+2019-09-01,Supadio,2077.0,Udara
+2019-10-01,Supadio,1599.0,Udara
+2019-11-01,Supadio,1811.0,Udara
+2019-12-01,Supadio,1527.0,Udara
+2023-01-01,Supadio,0.0,Udara
+2023-02-01,Supadio,1.0,Udara
+2023-03-01,Supadio,0.0,Udara
+2023-04-01,Supadio,0.0,Udara
+2023-05-01,Supadio,0.0,Udara
+2023-06-01,Supadio,0.0,Udara
+2023-07-01,Supadio,0.0,Udara
+2023-08-01,Supadio,0.0,Udara
+2023-09-01,Supadio,0.0,Udara
+2023-10-01,Supadio,0.0,Udara
+2023-11-01,Supadio,0.0,Udara
+2023-12-01,Supadio,2.0,Udara
+2024-01-01,Supadio,0.0,Udara
+2024-02-01,Supadio,0.0,Udara
+2024-03-01,Supadio,0.0,Udara
+2024-04-01,Supadio,0.0,Udara
+2024-05-01,Supadio,0.0,Udara
+2024-06-01,Supadio,0.0,Udara
+2024-07-01,Supadio,0.0,Udara
+2024-08-01,Supadio,0.0,Udara
+2024-09-01,Supadio,5.0,Udara
+2024-10-01,Supadio,3.0,Udara
+2024-11-01,Supadio,0.0,Udara
+2024-12-01,Supadio,0.0,Udara
+2010-01-01,Tanjung Balai Karimun,6912.0,Laut
+2010-02-01,Tanjung Balai Karimun,9100.0,Laut
+2010-03-01,Tanjung Balai Karimun,9446.0,Laut
+2010-04-01,Tanjung Balai Karimun,8180.0,Laut
+2010-05-01,Tanjung Balai Karimun,8543.0,Laut
+2010-06-01,Tanjung Balai Karimun,9413.0,Laut
+2010-07-01,Tanjung Balai Karimun,9237.0,Laut
+2010-08-01,Tanjung Balai Karimun,6126.0,Laut
+2010-09-01,Tanjung Balai Karimun,7119.0,Laut
+2010-10-01,Tanjung Balai Karimun,7707.0,Laut
+2010-11-01,Tanjung Balai Karimun,8605.0,Laut
+2010-12-01,Tanjung Balai Karimun,10520.0,Laut
+2011-01-01,Tanjung Balai Karimun,7193.0,Laut
+2011-02-01,Tanjung Balai Karimun,9903.0,Laut
+2011-03-01,Tanjung Balai Karimun,8933.0,Laut
+2011-04-01,Tanjung Balai Karimun,9284.0,Laut
+2011-05-01,Tanjung Balai Karimun,8680.0,Laut
+2011-06-01,Tanjung Balai Karimun,9325.0,Laut
+2011-07-01,Tanjung Balai Karimun,9907.0,Laut
+2011-08-01,Tanjung Balai Karimun,5587.0,Laut
+2011-09-01,Tanjung Balai Karimun,8355.0,Laut
+2011-10-01,Tanjung Balai Karimun,8090.0,Laut
+2011-11-01,Tanjung Balai Karimun,8628.0,Laut
+2011-12-01,Tanjung Balai Karimun,10512.0,Laut
+2012-01-01,Tanjung Balai Karimun,9455.0,Laut
+2012-02-01,Tanjung Balai Karimun,8123.0,Laut
+2012-03-01,Tanjung Balai Karimun,10107.0,Laut
+2012-04-01,Tanjung Balai Karimun,8545.0,Laut
+2012-05-01,Tanjung Balai Karimun,9399.0,Laut
+2012-06-01,Tanjung Balai Karimun,10521.0,Laut
+2012-07-01,Tanjung Balai Karimun,7994.0,Laut
+2012-08-01,Tanjung Balai Karimun,7200.0,Laut
+2012-09-01,Tanjung Balai Karimun,8402.0,Laut
+2012-10-01,Tanjung Balai Karimun,7659.0,Laut
+2012-11-01,Tanjung Balai Karimun,8989.0,Laut
+2012-12-01,Tanjung Balai Karimun,11105.0,Laut
+2013-01-01,Tanjung Balai Karimun,7599.0,Laut
+2013-02-01,Tanjung Balai Karimun,10330.0,Laut
+2013-03-01,Tanjung Balai Karimun,9854.0,Laut
+2013-04-01,Tanjung Balai Karimun,7591.0,Laut
+2013-05-01,Tanjung Balai Karimun,8604.0,Laut
+2013-06-01,Tanjung Balai Karimun,11074.0,Laut
+2013-07-01,Tanjung Balai Karimun,5694.0,Laut
+2013-08-01,Tanjung Balai Karimun,8690.0,Laut
+2013-09-01,Tanjung Balai Karimun,7996.0,Laut
+2013-10-01,Tanjung Balai Karimun,7795.0,Laut
+2013-11-01,Tanjung Balai Karimun,8969.0,Laut
+2013-12-01,Tanjung Balai Karimun,10693.0,Laut
+2014-01-01,Tanjung Balai Karimun,8329.0,Laut
+2014-02-01,Tanjung Balai Karimun,8388.0,Laut
+2014-03-01,Tanjung Balai Karimun,8945.0,Laut
+2014-04-01,Tanjung Balai Karimun,7621.0,Laut
+2014-05-01,Tanjung Balai Karimun,8731.0,Laut
+2014-06-01,Tanjung Balai Karimun,10074.0,Laut
+2014-07-01,Tanjung Balai Karimun,6343.0,Laut
+2014-08-01,Tanjung Balai Karimun,7545.0,Laut
+2014-09-01,Tanjung Balai Karimun,7777.0,Laut
+2014-10-01,Tanjung Balai Karimun,8164.0,Laut
+2014-11-01,Tanjung Balai Karimun,7938.0,Laut
+2014-12-01,Tanjung Balai Karimun,10927.0,Laut
+2015-01-01,Tanjung Balai Karimun,6636.0,Laut
+2015-02-01,Tanjung Balai Karimun,8866.0,Laut
+2015-03-01,Tanjung Balai Karimun,8747.0,Laut
+2015-04-01,Tanjung Balai Karimun,8343.0,Laut
+2015-05-01,Tanjung Balai Karimun,9468.0,Laut
+2015-06-01,Tanjung Balai Karimun,7797.0,Laut
+2015-07-01,Tanjung Balai Karimun,7339.0,Laut
+2015-08-01,Tanjung Balai Karimun,7511.0,Laut
+2015-09-01,Tanjung Balai Karimun,6876.0,Laut
+2015-10-01,Tanjung Balai Karimun,7674.0,Laut
+2015-11-01,Tanjung Balai Karimun,7515.0,Laut
+2015-12-01,Tanjung Balai Karimun,9894.0,Laut
+2016-01-01,Tanjung Balai Karimun,6735.0,Laut
+2016-02-01,Tanjung Balai Karimun,8985.0,Laut
+2016-03-01,Tanjung Balai Karimun,7820.0,Laut
+2016-04-01,Tanjung Balai Karimun,8201.0,Laut
+2016-05-01,Tanjung Balai Karimun,8466.0,Laut
+2016-06-01,Tanjung Balai Karimun,5201.0,Laut
+2016-07-01,Tanjung Balai Karimun,7599.0,Laut
+2016-08-01,Tanjung Balai Karimun,6674.0,Laut
+2016-09-01,Tanjung Balai Karimun,7668.0,Laut
+2016-10-01,Tanjung Balai Karimun,6724.0,Laut
+2016-11-01,Tanjung Balai Karimun,6254.0,Laut
+2016-12-01,Tanjung Balai Karimun,8780.0,Laut
+2017-01-01,Tanjung Balai Karimun,8175.0,Laut
+2017-02-01,Tanjung Balai Karimun,6022.0,Laut
+2017-03-01,Tanjung Balai Karimun,7526.0,Laut
+2017-04-01,Tanjung Balai Karimun,7902.0,Laut
+2017-05-01,Tanjung Balai Karimun,6627.0,Laut
+2017-06-01,Tanjung Balai Karimun,6433.0,Laut
+2017-07-01,Tanjung Balai Karimun,6136.0,Laut
+2017-08-01,Tanjung Balai Karimun,6620.0,Laut
+2017-09-01,Tanjung Balai Karimun,7093.0,Laut
+2017-10-01,Tanjung Balai Karimun,6368.0,Laut
+2017-11-01,Tanjung Balai Karimun,6969.0,Laut
+2017-12-01,Tanjung Balai Karimun,9900.0,Laut
+2018-01-01,Tanjung Balai Karimun,5689.0,Laut
+2018-02-01,Tanjung Balai Karimun,7832.0,Laut
+2018-03-01,Tanjung Balai Karimun,8337.0,Laut
+2018-04-01,Tanjung Balai Karimun,7328.0,Laut
+2018-05-01,Tanjung Balai Karimun,5295.0,Laut
+2018-06-01,Tanjung Balai Karimun,7885.0,Laut
+2018-07-01,Tanjung Balai Karimun,6397.0,Laut
+2018-08-01,Tanjung Balai Karimun,6913.0,Laut
+2018-09-01,Tanjung Balai Karimun,7292.0,Laut
+2018-10-01,Tanjung Balai Karimun,5981.0,Laut
+2018-11-01,Tanjung Balai Karimun,6749.0,Laut
+2018-12-01,Tanjung Balai Karimun,9020.0,Laut
+2019-01-01,Tanjung Balai Karimun,8572.0,Laut
+2019-02-01,Tanjung Balai Karimun,11411.0,Laut
+2019-03-01,Tanjung Balai Karimun,10859.0,Laut
+2019-04-01,Tanjung Balai Karimun,10039.0,Laut
+2019-05-01,Tanjung Balai Karimun,6235.0,Laut
+2019-06-01,Tanjung Balai Karimun,10118.0,Laut
+2019-07-01,Tanjung Balai Karimun,8425.0,Laut
+2019-08-01,Tanjung Balai Karimun,10273.0,Laut
+2019-09-01,Tanjung Balai Karimun,8245.0,Laut
+2019-10-01,Tanjung Balai Karimun,8451.0,Laut
+2019-11-01,Tanjung Balai Karimun,9209.0,Laut
+2019-12-01,Tanjung Balai Karimun,10916.0,Laut
+2023-01-01,Tanjung Balai Karimun,5814.0,Laut
+2023-02-01,Tanjung Balai Karimun,4795.0,Laut
+2023-03-01,Tanjung Balai Karimun,4835.0,Laut
+2023-04-01,Tanjung Balai Karimun,5801.0,Laut
+2023-05-01,Tanjung Balai Karimun,3590.0,Laut
+2023-06-01,Tanjung Balai Karimun,4734.0,Laut
+2023-07-01,Tanjung Balai Karimun,4391.0,Laut
+2023-08-01,Tanjung Balai Karimun,4173.0,Laut
+2023-09-01,Tanjung Balai Karimun,4345.0,Laut
+2023-10-01,Tanjung Balai Karimun,4298.0,Laut
+2023-11-01,Tanjung Balai Karimun,4683.0,Laut
+2023-12-01,Tanjung Balai Karimun,6634.0,Laut
+2024-01-01,Tanjung Balai Karimun,4050.0,Laut
+2024-02-01,Tanjung Balai Karimun,7747.0,Laut
+2024-03-01,Tanjung Balai Karimun,5039.0,Laut
+2024-04-01,Tanjung Balai Karimun,6899.0,Laut
+2024-05-01,Tanjung Balai Karimun,5292.0,Laut
+2024-06-01,Tanjung Balai Karimun,6436.0,Laut
+2024-07-01,Tanjung Balai Karimun,5476.0,Laut
+2024-08-01,Tanjung Balai Karimun,6555.0,Laut
+2024-09-01,Tanjung Balai Karimun,6814.0,Laut
+2024-10-01,Tanjung Balai Karimun,6770.0,Laut
+2024-11-01,Tanjung Balai Karimun,6911.0,Laut
+2024-12-01,Tanjung Balai Karimun,7649.0,Laut
+2010-01-01,Tanjung Benoa,0.0,Laut
+2010-02-01,Tanjung Benoa,0.0,Laut
+2010-03-01,Tanjung Benoa,0.0,Laut
+2010-04-01,Tanjung Benoa,0.0,Laut
+2010-05-01,Tanjung Benoa,0.0,Laut
+2010-06-01,Tanjung Benoa,0.0,Laut
+2010-07-01,Tanjung Benoa,0.0,Laut
+2010-08-01,Tanjung Benoa,0.0,Laut
+2010-09-01,Tanjung Benoa,0.0,Laut
+2010-10-01,Tanjung Benoa,0.0,Laut
+2010-11-01,Tanjung Benoa,0.0,Laut
+2010-12-01,Tanjung Benoa,0.0,Laut
+2011-01-01,Tanjung Benoa,0.0,Laut
+2011-02-01,Tanjung Benoa,0.0,Laut
+2011-03-01,Tanjung Benoa,0.0,Laut
+2011-04-01,Tanjung Benoa,0.0,Laut
+2011-05-01,Tanjung Benoa,0.0,Laut
+2011-06-01,Tanjung Benoa,0.0,Laut
+2011-07-01,Tanjung Benoa,0.0,Laut
+2011-08-01,Tanjung Benoa,0.0,Laut
+2011-09-01,Tanjung Benoa,0.0,Laut
+2011-10-01,Tanjung Benoa,0.0,Laut
+2011-11-01,Tanjung Benoa,0.0,Laut
+2011-12-01,Tanjung Benoa,0.0,Laut
+2012-01-01,Tanjung Benoa,0.0,Laut
+2012-02-01,Tanjung Benoa,0.0,Laut
+2012-03-01,Tanjung Benoa,0.0,Laut
+2012-04-01,Tanjung Benoa,0.0,Laut
+2012-05-01,Tanjung Benoa,0.0,Laut
+2012-06-01,Tanjung Benoa,0.0,Laut
+2012-07-01,Tanjung Benoa,0.0,Laut
+2012-08-01,Tanjung Benoa,0.0,Laut
+2012-09-01,Tanjung Benoa,0.0,Laut
+2012-10-01,Tanjung Benoa,0.0,Laut
+2012-11-01,Tanjung Benoa,0.0,Laut
+2012-12-01,Tanjung Benoa,0.0,Laut
+2013-01-01,Tanjung Benoa,0.0,Laut
+2013-02-01,Tanjung Benoa,0.0,Laut
+2013-03-01,Tanjung Benoa,0.0,Laut
+2013-04-01,Tanjung Benoa,0.0,Laut
+2013-05-01,Tanjung Benoa,0.0,Laut
+2013-06-01,Tanjung Benoa,0.0,Laut
+2013-07-01,Tanjung Benoa,0.0,Laut
+2013-08-01,Tanjung Benoa,0.0,Laut
+2013-09-01,Tanjung Benoa,0.0,Laut
+2013-10-01,Tanjung Benoa,0.0,Laut
+2013-11-01,Tanjung Benoa,0.0,Laut
+2013-12-01,Tanjung Benoa,0.0,Laut
+2014-01-01,Tanjung Benoa,0.0,Laut
+2014-02-01,Tanjung Benoa,0.0,Laut
+2014-03-01,Tanjung Benoa,0.0,Laut
+2014-04-01,Tanjung Benoa,0.0,Laut
+2014-05-01,Tanjung Benoa,0.0,Laut
+2014-06-01,Tanjung Benoa,0.0,Laut
+2014-07-01,Tanjung Benoa,0.0,Laut
+2014-08-01,Tanjung Benoa,0.0,Laut
+2014-09-01,Tanjung Benoa,0.0,Laut
+2014-10-01,Tanjung Benoa,0.0,Laut
+2014-11-01,Tanjung Benoa,0.0,Laut
+2014-12-01,Tanjung Benoa,0.0,Laut
+2015-01-01,Tanjung Benoa,0.0,Laut
+2015-02-01,Tanjung Benoa,0.0,Laut
+2015-03-01,Tanjung Benoa,0.0,Laut
+2015-04-01,Tanjung Benoa,0.0,Laut
+2015-05-01,Tanjung Benoa,0.0,Laut
+2015-06-01,Tanjung Benoa,0.0,Laut
+2015-07-01,Tanjung Benoa,0.0,Laut
+2015-08-01,Tanjung Benoa,0.0,Laut
+2015-09-01,Tanjung Benoa,0.0,Laut
+2015-10-01,Tanjung Benoa,0.0,Laut
+2015-11-01,Tanjung Benoa,0.0,Laut
+2015-12-01,Tanjung Benoa,0.0,Laut
+2016-01-01,Tanjung Benoa,0.0,Laut
+2016-02-01,Tanjung Benoa,0.0,Laut
+2016-03-01,Tanjung Benoa,0.0,Laut
+2016-04-01,Tanjung Benoa,0.0,Laut
+2016-05-01,Tanjung Benoa,0.0,Laut
+2016-06-01,Tanjung Benoa,0.0,Laut
+2016-07-01,Tanjung Benoa,0.0,Laut
+2016-08-01,Tanjung Benoa,0.0,Laut
+2016-09-01,Tanjung Benoa,0.0,Laut
+2016-10-01,Tanjung Benoa,0.0,Laut
+2016-11-01,Tanjung Benoa,0.0,Laut
+2016-12-01,Tanjung Benoa,0.0,Laut
+2017-01-01,Tanjung Benoa,8143.0,Laut
+2017-02-01,Tanjung Benoa,5799.0,Laut
+2017-03-01,Tanjung Benoa,2489.0,Laut
+2017-04-01,Tanjung Benoa,3126.0,Laut
+2017-05-01,Tanjung Benoa,3153.0,Laut
+2017-06-01,Tanjung Benoa,497.0,Laut
+2017-07-01,Tanjung Benoa,164.0,Laut
+2017-08-01,Tanjung Benoa,1988.0,Laut
+2017-09-01,Tanjung Benoa,187.0,Laut
+2017-10-01,Tanjung Benoa,2815.0,Laut
+2017-11-01,Tanjung Benoa,2847.0,Laut
+2017-12-01,Tanjung Benoa,790.0,Laut
+2018-01-01,Tanjung Benoa,4626.0,Laut
+2018-02-01,Tanjung Benoa,8616.0,Laut
+2018-03-01,Tanjung Benoa,4254.0,Laut
+2018-04-01,Tanjung Benoa,634.0,Laut
+2018-05-01,Tanjung Benoa,2231.0,Laut
+2018-06-01,Tanjung Benoa,4088.0,Laut
+2018-07-01,Tanjung Benoa,29.0,Laut
+2018-08-01,Tanjung Benoa,1315.0,Laut
+2018-09-01,Tanjung Benoa,15.0,Laut
+2018-10-01,Tanjung Benoa,2030.0,Laut
+2018-11-01,Tanjung Benoa,46.0,Laut
+2018-12-01,Tanjung Benoa,3178.0,Laut
+2019-01-01,Tanjung Benoa,3862.0,Laut
+2019-02-01,Tanjung Benoa,1190.0,Laut
+2019-03-01,Tanjung Benoa,7862.0,Laut
+2019-04-01,Tanjung Benoa,53.0,Laut
+2019-05-01,Tanjung Benoa,37.0,Laut
+2019-06-01,Tanjung Benoa,33.0,Laut
+2019-07-01,Tanjung Benoa,13.0,Laut
+2019-08-01,Tanjung Benoa,1679.0,Laut
+2019-09-01,Tanjung Benoa,28.0,Laut
+2019-10-01,Tanjung Benoa,2001.0,Laut
+2019-11-01,Tanjung Benoa,5021.0,Laut
+2019-12-01,Tanjung Benoa,7677.0,Laut
+2023-01-01,Tanjung Benoa,1876.0,Laut
+2023-02-01,Tanjung Benoa,6505.0,Laut
+2023-03-01,Tanjung Benoa,3738.0,Laut
+2023-04-01,Tanjung Benoa,1229.0,Laut
+2023-05-01,Tanjung Benoa,21.0,Laut
+2023-06-01,Tanjung Benoa,71.0,Laut
+2023-07-01,Tanjung Benoa,81.0,Laut
+2023-08-01,Tanjung Benoa,78.0,Laut
+2023-09-01,Tanjung Benoa,53.0,Laut
+2023-10-01,Tanjung Benoa,2596.0,Laut
+2023-11-01,Tanjung Benoa,5632.0,Laut
+2023-12-01,Tanjung Benoa,801.0,Laut
+2024-01-01,Tanjung Benoa,853.0,Laut
+2024-02-01,Tanjung Benoa,879.0,Laut
+2024-03-01,Tanjung Benoa,5423.0,Laut
+2024-04-01,Tanjung Benoa,324.0,Laut
+2024-05-01,Tanjung Benoa,109.0,Laut
+2024-06-01,Tanjung Benoa,106.0,Laut
+2024-07-01,Tanjung Benoa,95.0,Laut
+2024-08-01,Tanjung Benoa,3100.0,Laut
+2024-09-01,Tanjung Benoa,2061.0,Laut
+2024-10-01,Tanjung Benoa,5019.0,Laut
+2024-11-01,Tanjung Benoa,186.0,Laut
+2024-12-01,Tanjung Benoa,53.0,Laut
+2010-01-01,Tanjung Mas,0.0,Laut
+2010-02-01,Tanjung Mas,0.0,Laut
+2010-03-01,Tanjung Mas,0.0,Laut
+2010-04-01,Tanjung Mas,0.0,Laut
+2010-05-01,Tanjung Mas,0.0,Laut
+2010-06-01,Tanjung Mas,0.0,Laut
+2010-07-01,Tanjung Mas,0.0,Laut
+2010-08-01,Tanjung Mas,0.0,Laut
+2010-09-01,Tanjung Mas,0.0,Laut
+2010-10-01,Tanjung Mas,0.0,Laut
+2010-11-01,Tanjung Mas,0.0,Laut
+2010-12-01,Tanjung Mas,0.0,Laut
+2011-01-01,Tanjung Mas,0.0,Laut
+2011-02-01,Tanjung Mas,0.0,Laut
+2011-03-01,Tanjung Mas,0.0,Laut
+2011-04-01,Tanjung Mas,0.0,Laut
+2011-05-01,Tanjung Mas,0.0,Laut
+2011-06-01,Tanjung Mas,0.0,Laut
+2011-07-01,Tanjung Mas,0.0,Laut
+2011-08-01,Tanjung Mas,0.0,Laut
+2011-09-01,Tanjung Mas,0.0,Laut
+2011-10-01,Tanjung Mas,0.0,Laut
+2011-11-01,Tanjung Mas,0.0,Laut
+2011-12-01,Tanjung Mas,0.0,Laut
+2012-01-01,Tanjung Mas,0.0,Laut
+2012-02-01,Tanjung Mas,0.0,Laut
+2012-03-01,Tanjung Mas,0.0,Laut
+2012-04-01,Tanjung Mas,0.0,Laut
+2012-05-01,Tanjung Mas,0.0,Laut
+2012-06-01,Tanjung Mas,0.0,Laut
+2012-07-01,Tanjung Mas,0.0,Laut
+2012-08-01,Tanjung Mas,0.0,Laut
+2012-09-01,Tanjung Mas,0.0,Laut
+2012-10-01,Tanjung Mas,0.0,Laut
+2012-11-01,Tanjung Mas,0.0,Laut
+2012-12-01,Tanjung Mas,0.0,Laut
+2013-01-01,Tanjung Mas,0.0,Laut
+2013-02-01,Tanjung Mas,0.0,Laut
+2013-03-01,Tanjung Mas,0.0,Laut
+2013-04-01,Tanjung Mas,0.0,Laut
+2013-05-01,Tanjung Mas,0.0,Laut
+2013-06-01,Tanjung Mas,0.0,Laut
+2013-07-01,Tanjung Mas,0.0,Laut
+2013-08-01,Tanjung Mas,0.0,Laut
+2013-09-01,Tanjung Mas,0.0,Laut
+2013-10-01,Tanjung Mas,0.0,Laut
+2013-11-01,Tanjung Mas,0.0,Laut
+2013-12-01,Tanjung Mas,0.0,Laut
+2014-01-01,Tanjung Mas,0.0,Laut
+2014-02-01,Tanjung Mas,0.0,Laut
+2014-03-01,Tanjung Mas,0.0,Laut
+2014-04-01,Tanjung Mas,0.0,Laut
+2014-05-01,Tanjung Mas,0.0,Laut
+2014-06-01,Tanjung Mas,0.0,Laut
+2014-07-01,Tanjung Mas,0.0,Laut
+2014-08-01,Tanjung Mas,0.0,Laut
+2014-09-01,Tanjung Mas,0.0,Laut
+2014-10-01,Tanjung Mas,0.0,Laut
+2014-11-01,Tanjung Mas,0.0,Laut
+2014-12-01,Tanjung Mas,0.0,Laut
+2015-01-01,Tanjung Mas,0.0,Laut
+2015-02-01,Tanjung Mas,0.0,Laut
+2015-03-01,Tanjung Mas,0.0,Laut
+2015-04-01,Tanjung Mas,0.0,Laut
+2015-05-01,Tanjung Mas,0.0,Laut
+2015-06-01,Tanjung Mas,0.0,Laut
+2015-07-01,Tanjung Mas,0.0,Laut
+2015-08-01,Tanjung Mas,0.0,Laut
+2015-09-01,Tanjung Mas,0.0,Laut
+2015-10-01,Tanjung Mas,0.0,Laut
+2015-11-01,Tanjung Mas,0.0,Laut
+2015-12-01,Tanjung Mas,0.0,Laut
+2016-01-01,Tanjung Mas,0.0,Laut
+2016-02-01,Tanjung Mas,0.0,Laut
+2016-03-01,Tanjung Mas,0.0,Laut
+2016-04-01,Tanjung Mas,0.0,Laut
+2016-05-01,Tanjung Mas,0.0,Laut
+2016-06-01,Tanjung Mas,0.0,Laut
+2016-07-01,Tanjung Mas,0.0,Laut
+2016-08-01,Tanjung Mas,0.0,Laut
+2016-09-01,Tanjung Mas,0.0,Laut
+2016-10-01,Tanjung Mas,0.0,Laut
+2016-11-01,Tanjung Mas,0.0,Laut
+2016-12-01,Tanjung Mas,0.0,Laut
+2017-01-01,Tanjung Mas,1790.0,Laut
+2017-02-01,Tanjung Mas,5166.0,Laut
+2017-03-01,Tanjung Mas,1397.0,Laut
+2017-04-01,Tanjung Mas,2587.0,Laut
+2017-05-01,Tanjung Mas,1378.0,Laut
+2017-06-01,Tanjung Mas,964.0,Laut
+2017-07-01,Tanjung Mas,1059.0,Laut
+2017-08-01,Tanjung Mas,1163.0,Laut
+2017-09-01,Tanjung Mas,3941.0,Laut
+2017-10-01,Tanjung Mas,1791.0,Laut
+2017-11-01,Tanjung Mas,4376.0,Laut
+2017-12-01,Tanjung Mas,1461.0,Laut
+2018-01-01,Tanjung Mas,2020.0,Laut
+2018-02-01,Tanjung Mas,3191.0,Laut
+2018-03-01,Tanjung Mas,6988.0,Laut
+2018-04-01,Tanjung Mas,437.0,Laut
+2018-05-01,Tanjung Mas,137.0,Laut
+2018-06-01,Tanjung Mas,0.0,Laut
+2018-07-01,Tanjung Mas,0.0,Laut
+2018-08-01,Tanjung Mas,0.0,Laut
+2018-09-01,Tanjung Mas,0.0,Laut
+2018-10-01,Tanjung Mas,133.0,Laut
+2018-11-01,Tanjung Mas,4686.0,Laut
+2018-12-01,Tanjung Mas,2315.0,Laut
+2019-01-01,Tanjung Mas,1646.0,Laut
+2019-02-01,Tanjung Mas,2328.0,Laut
+2019-03-01,Tanjung Mas,4999.0,Laut
+2019-04-01,Tanjung Mas,1015.0,Laut
+2019-05-01,Tanjung Mas,0.0,Laut
+2019-06-01,Tanjung Mas,73.0,Laut
+2019-07-01,Tanjung Mas,97.0,Laut
+2019-08-01,Tanjung Mas,0.0,Laut
+2019-09-01,Tanjung Mas,266.0,Laut
+2019-10-01,Tanjung Mas,0.0,Laut
+2019-11-01,Tanjung Mas,2202.0,Laut
+2019-12-01,Tanjung Mas,5135.0,Laut
+2023-01-01,Tanjung Mas,0.0,Laut
+2023-02-01,Tanjung Mas,0.0,Laut
+2023-03-01,Tanjung Mas,0.0,Laut
+2023-04-01,Tanjung Mas,0.0,Laut
+2023-05-01,Tanjung Mas,0.0,Laut
+2023-06-01,Tanjung Mas,0.0,Laut
+2023-07-01,Tanjung Mas,0.0,Laut
+2023-08-01,Tanjung Mas,0.0,Laut
+2023-09-01,Tanjung Mas,0.0,Laut
+2023-10-01,Tanjung Mas,0.0,Laut
+2023-11-01,Tanjung Mas,0.0,Laut
+2023-12-01,Tanjung Mas,0.0,Laut
+2024-01-01,Tanjung Mas,0.0,Laut
+2024-02-01,Tanjung Mas,0.0,Laut
+2024-03-01,Tanjung Mas,0.0,Laut
+2024-04-01,Tanjung Mas,0.0,Laut
+2024-05-01,Tanjung Mas,0.0,Laut
+2024-06-01,Tanjung Mas,0.0,Laut
+2024-07-01,Tanjung Mas,0.0,Laut
+2024-08-01,Tanjung Mas,0.0,Laut
+2024-09-01,Tanjung Mas,0.0,Laut
+2024-10-01,Tanjung Mas,0.0,Laut
+2024-11-01,Tanjung Mas,565.0,Laut
+2024-12-01,Tanjung Mas,1302.0,Laut
+2010-01-01,Tanjung Pinang,6173.0,Laut
+2010-02-01,Tanjung Pinang,8548.0,Laut
+2010-03-01,Tanjung Pinang,7731.0,Laut
+2010-04-01,Tanjung Pinang,7942.0,Laut
+2010-05-01,Tanjung Pinang,8474.0,Laut
+2010-06-01,Tanjung Pinang,10030.0,Laut
+2010-07-01,Tanjung Pinang,8091.0,Laut
+2010-08-01,Tanjung Pinang,7093.0,Laut
+2010-09-01,Tanjung Pinang,8390.0,Laut
+2010-10-01,Tanjung Pinang,7237.0,Laut
+2010-11-01,Tanjung Pinang,8167.0,Laut
+2010-12-01,Tanjung Pinang,10078.0,Laut
+2011-01-01,Tanjung Pinang,6194.0,Laut
+2011-02-01,Tanjung Pinang,8648.0,Laut
+2011-03-01,Tanjung Pinang,8388.0,Laut
+2011-04-01,Tanjung Pinang,9026.0,Laut
+2011-05-01,Tanjung Pinang,8523.0,Laut
+2011-06-01,Tanjung Pinang,11067.0,Laut
+2011-07-01,Tanjung Pinang,8987.0,Laut
+2011-08-01,Tanjung Pinang,7858.0,Laut
+2011-09-01,Tanjung Pinang,7849.0,Laut
+2011-10-01,Tanjung Pinang,7483.0,Laut
+2011-11-01,Tanjung Pinang,9969.0,Laut
+2011-12-01,Tanjung Pinang,12188.0,Laut
+2012-01-01,Tanjung Pinang,9524.0,Laut
+2012-02-01,Tanjung Pinang,6869.0,Laut
+2012-03-01,Tanjung Pinang,9841.0,Laut
+2012-04-01,Tanjung Pinang,8734.0,Laut
+2012-05-01,Tanjung Pinang,8780.0,Laut
+2012-06-01,Tanjung Pinang,11174.0,Laut
+2012-07-01,Tanjung Pinang,7199.0,Laut
+2012-08-01,Tanjung Pinang,7805.0,Laut
+2012-09-01,Tanjung Pinang,6934.0,Laut
+2012-10-01,Tanjung Pinang,8168.0,Laut
+2012-11-01,Tanjung Pinang,7985.0,Laut
+2012-12-01,Tanjung Pinang,10772.0,Laut
+2013-01-01,Tanjung Pinang,5539.0,Laut
+2013-02-01,Tanjung Pinang,8533.0,Laut
+2013-03-01,Tanjung Pinang,9823.0,Laut
+2013-04-01,Tanjung Pinang,7352.0,Laut
+2013-05-01,Tanjung Pinang,7921.0,Laut
+2013-06-01,Tanjung Pinang,10884.0,Laut
+2013-07-01,Tanjung Pinang,6799.0,Laut
+2013-08-01,Tanjung Pinang,8341.0,Laut
+2013-09-01,Tanjung Pinang,7544.0,Laut
+2013-10-01,Tanjung Pinang,7549.0,Laut
+2013-11-01,Tanjung Pinang,8980.0,Laut
+2013-12-01,Tanjung Pinang,10328.0,Laut
+2014-01-01,Tanjung Pinang,8236.0,Laut
+2014-02-01,Tanjung Pinang,6132.0,Laut
+2014-03-01,Tanjung Pinang,9057.0,Laut
+2014-04-01,Tanjung Pinang,8227.0,Laut
+2014-05-01,Tanjung Pinang,8041.0,Laut
+2014-06-01,Tanjung Pinang,9773.0,Laut
+2014-07-01,Tanjung Pinang,7149.0,Laut
+2014-08-01,Tanjung Pinang,8589.0,Laut
+2014-09-01,Tanjung Pinang,7327.0,Laut
+2014-10-01,Tanjung Pinang,6716.0,Laut
+2014-11-01,Tanjung Pinang,7818.0,Laut
+2014-12-01,Tanjung Pinang,10607.0,Laut
+2015-01-01,Tanjung Pinang,5774.0,Laut
+2015-02-01,Tanjung Pinang,8023.0,Laut
+2015-03-01,Tanjung Pinang,8053.0,Laut
+2015-04-01,Tanjung Pinang,7477.0,Laut
+2015-05-01,Tanjung Pinang,7772.0,Laut
+2015-06-01,Tanjung Pinang,7735.0,Laut
+2015-07-01,Tanjung Pinang,6521.0,Laut
+2015-08-01,Tanjung Pinang,7941.0,Laut
+2015-09-01,Tanjung Pinang,7095.0,Laut
+2015-10-01,Tanjung Pinang,6233.0,Laut
+2015-11-01,Tanjung Pinang,7589.0,Laut
+2015-12-01,Tanjung Pinang,10966.0,Laut
+2016-01-01,Tanjung Pinang,5971.0,Laut
+2016-02-01,Tanjung Pinang,8407.0,Laut
+2016-03-01,Tanjung Pinang,8656.0,Laut
+2016-04-01,Tanjung Pinang,8042.0,Laut
+2016-05-01,Tanjung Pinang,8162.0,Laut
+2016-06-01,Tanjung Pinang,7930.0,Laut
+2016-07-01,Tanjung Pinang,6932.0,Laut
+2016-08-01,Tanjung Pinang,6166.0,Laut
+2016-09-01,Tanjung Pinang,8474.0,Laut
+2016-10-01,Tanjung Pinang,6800.0,Laut
+2016-11-01,Tanjung Pinang,6854.0,Laut
+2016-12-01,Tanjung Pinang,10855.0,Laut
+2017-01-01,Tanjung Pinang,10814.0,Laut
+2017-02-01,Tanjung Pinang,6249.0,Laut
+2017-03-01,Tanjung Pinang,7849.0,Laut
+2017-04-01,Tanjung Pinang,9193.0,Laut
+2017-05-01,Tanjung Pinang,7277.0,Laut
+2017-06-01,Tanjung Pinang,8702.0,Laut
+2017-07-01,Tanjung Pinang,9793.0,Laut
+2017-08-01,Tanjung Pinang,11616.0,Laut
+2017-09-01,Tanjung Pinang,10811.0,Laut
+2017-10-01,Tanjung Pinang,10619.0,Laut
+2017-11-01,Tanjung Pinang,10538.0,Laut
+2017-12-01,Tanjung Pinang,14421.0,Laut
+2018-01-01,Tanjung Pinang,8753.0,Laut
+2018-02-01,Tanjung Pinang,10704.0,Laut
+2018-03-01,Tanjung Pinang,13261.0,Laut
+2018-04-01,Tanjung Pinang,10449.0,Laut
+2018-05-01,Tanjung Pinang,11268.0,Laut
+2018-06-01,Tanjung Pinang,12815.0,Laut
+2018-07-01,Tanjung Pinang,10661.0,Laut
+2018-08-01,Tanjung Pinang,12310.0,Laut
+2018-09-01,Tanjung Pinang,12530.0,Laut
+2018-10-01,Tanjung Pinang,10759.0,Laut
+2018-11-01,Tanjung Pinang,11073.0,Laut
+2018-12-01,Tanjung Pinang,16020.0,Laut
+2019-01-01,Tanjung Pinang,9268.0,Laut
+2019-02-01,Tanjung Pinang,13141.0,Laut
+2019-03-01,Tanjung Pinang,15813.0,Laut
+2019-04-01,Tanjung Pinang,15841.0,Laut
+2019-05-01,Tanjung Pinang,14816.0,Laut
+2019-06-01,Tanjung Pinang,18935.0,Laut
+2019-07-01,Tanjung Pinang,11951.0,Laut
+2019-08-01,Tanjung Pinang,15621.0,Laut
+2019-09-01,Tanjung Pinang,12768.0,Laut
+2019-10-01,Tanjung Pinang,12406.0,Laut
+2019-11-01,Tanjung Pinang,12378.0,Laut
+2019-12-01,Tanjung Pinang,16426.0,Laut
+2023-01-01,Tanjung Pinang,4973.0,Laut
+2023-02-01,Tanjung Pinang,2663.0,Laut
+2023-03-01,Tanjung Pinang,4043.0,Laut
+2023-04-01,Tanjung Pinang,5324.0,Laut
+2023-05-01,Tanjung Pinang,3391.0,Laut
+2023-06-01,Tanjung Pinang,6086.0,Laut
+2023-07-01,Tanjung Pinang,4010.0,Laut
+2023-08-01,Tanjung Pinang,4222.0,Laut
+2023-09-01,Tanjung Pinang,4827.0,Laut
+2023-10-01,Tanjung Pinang,5065.0,Laut
+2023-11-01,Tanjung Pinang,5912.0,Laut
+2023-12-01,Tanjung Pinang,7022.0,Laut
+2024-01-01,Tanjung Pinang,2803.0,Laut
+2024-02-01,Tanjung Pinang,5921.0,Laut
+2024-03-01,Tanjung Pinang,4868.0,Laut
+2024-04-01,Tanjung Pinang,2614.0,Laut
+2024-05-01,Tanjung Pinang,3904.0,Laut
+2024-06-01,Tanjung Pinang,6135.0,Laut
+2024-07-01,Tanjung Pinang,3573.0,Laut
+2024-08-01,Tanjung Pinang,5948.0,Laut
+2024-09-01,Tanjung Pinang,4898.0,Laut
+2024-10-01,Tanjung Pinang,4632.0,Laut
+2024-11-01,Tanjung Pinang,4388.0,Laut
+2024-12-01,Tanjung Pinang,5788.0,Laut
+2010-01-01,Tanjung Uban,21604.0,Laut
+2010-02-01,Tanjung Uban,23718.0,Laut
+2010-03-01,Tanjung Uban,27100.0,Laut
+2010-04-01,Tanjung Uban,22281.0,Laut
+2010-05-01,Tanjung Uban,26349.0,Laut
+2010-06-01,Tanjung Uban,29928.0,Laut
+2010-07-01,Tanjung Uban,27000.0,Laut
+2010-08-01,Tanjung Uban,26653.0,Laut
+2010-09-01,Tanjung Uban,23187.0,Laut
+2010-10-01,Tanjung Uban,25435.0,Laut
+2010-11-01,Tanjung Uban,26029.0,Laut
+2010-12-01,Tanjung Uban,34661.0,Laut
+2011-01-01,Tanjung Uban,22663.0,Laut
+2011-02-01,Tanjung Uban,25662.0,Laut
+2011-03-01,Tanjung Uban,28523.0,Laut
+2011-04-01,Tanjung Uban,26206.0,Laut
+2011-05-01,Tanjung Uban,25487.0,Laut
+2011-06-01,Tanjung Uban,32372.0,Laut
+2011-07-01,Tanjung Uban,31694.0,Laut
+2011-08-01,Tanjung Uban,32806.0,Laut
+2011-09-01,Tanjung Uban,25208.0,Laut
+2011-10-01,Tanjung Uban,27097.0,Laut
+2011-11-01,Tanjung Uban,25425.0,Laut
+2011-12-01,Tanjung Uban,34210.0,Laut
+2012-01-01,Tanjung Uban,30546.0,Laut
+2012-02-01,Tanjung Uban,23440.0,Laut
+2012-03-01,Tanjung Uban,28471.0,Laut
+2012-04-01,Tanjung Uban,25784.0,Laut
+2012-05-01,Tanjung Uban,24498.0,Laut
+2012-06-01,Tanjung Uban,32780.0,Laut
+2012-07-01,Tanjung Uban,28693.0,Laut
+2012-08-01,Tanjung Uban,32547.0,Laut
+2012-09-01,Tanjung Uban,25406.0,Laut
+2012-10-01,Tanjung Uban,28355.0,Laut
+2012-11-01,Tanjung Uban,25003.0,Laut
+2012-12-01,Tanjung Uban,31024.0,Laut
+2013-01-01,Tanjung Uban,22921.0,Laut
+2013-02-01,Tanjung Uban,27756.0,Laut
+2013-03-01,Tanjung Uban,29844.0,Laut
+2013-04-01,Tanjung Uban,22087.0,Laut
+2013-05-01,Tanjung Uban,23729.0,Laut
+2013-06-01,Tanjung Uban,30164.0,Laut
+2013-07-01,Tanjung Uban,25067.0,Laut
+2013-08-01,Tanjung Uban,32368.0,Laut
+2013-09-01,Tanjung Uban,23866.0,Laut
+2013-10-01,Tanjung Uban,23846.0,Laut
+2013-11-01,Tanjung Uban,24577.0,Laut
+2013-12-01,Tanjung Uban,31929.0,Laut
+2014-01-01,Tanjung Uban,28811.0,Laut
+2014-02-01,Tanjung Uban,25090.0,Laut
+2014-03-01,Tanjung Uban,27009.0,Laut
+2014-04-01,Tanjung Uban,24205.0,Laut
+2014-05-01,Tanjung Uban,22204.0,Laut
+2014-06-01,Tanjung Uban,30867.0,Laut
+2014-07-01,Tanjung Uban,31102.0,Laut
+2014-08-01,Tanjung Uban,31388.0,Laut
+2014-09-01,Tanjung Uban,23661.0,Laut
+2014-10-01,Tanjung Uban,25882.0,Laut
+2014-11-01,Tanjung Uban,22733.0,Laut
+2014-12-01,Tanjung Uban,27909.0,Laut
+2015-01-01,Tanjung Uban,20753.0,Laut
+2015-02-01,Tanjung Uban,28977.0,Laut
+2015-03-01,Tanjung Uban,23722.0,Laut
+2015-04-01,Tanjung Uban,22211.0,Laut
+2015-05-01,Tanjung Uban,24026.0,Laut
+2015-06-01,Tanjung Uban,27247.0,Laut
+2015-07-01,Tanjung Uban,28181.0,Laut
+2015-08-01,Tanjung Uban,34193.0,Laut
+2015-09-01,Tanjung Uban,24337.0,Laut
+2015-10-01,Tanjung Uban,19333.0,Laut
+2015-11-01,Tanjung Uban,20389.0,Laut
+2015-12-01,Tanjung Uban,30641.0,Laut
+2016-01-01,Tanjung Uban,21484.0,Laut
+2016-02-01,Tanjung Uban,27642.0,Laut
+2016-03-01,Tanjung Uban,25577.0,Laut
+2016-04-01,Tanjung Uban,23018.0,Laut
+2016-05-01,Tanjung Uban,23338.0,Laut
+2016-06-01,Tanjung Uban,31465.0,Laut
+2016-07-01,Tanjung Uban,20389.0,Laut
+2016-08-01,Tanjung Uban,29491.0,Laut
+2016-09-01,Tanjung Uban,25051.0,Laut
+2016-10-01,Tanjung Uban,23145.0,Laut
+2016-11-01,Tanjung Uban,21984.0,Laut
+2016-12-01,Tanjung Uban,32820.0,Laut
+2017-01-01,Tanjung Uban,26778.0,Laut
+2017-02-01,Tanjung Uban,21888.0,Laut
+2017-03-01,Tanjung Uban,25445.0,Laut
+2017-04-01,Tanjung Uban,28410.0,Laut
+2017-05-01,Tanjung Uban,25496.0,Laut
+2017-06-01,Tanjung Uban,34726.0,Laut
+2017-07-01,Tanjung Uban,32234.0,Laut
+2017-08-01,Tanjung Uban,37199.0,Laut
+2017-09-01,Tanjung Uban,31422.0,Laut
+2017-10-01,Tanjung Uban,32389.0,Laut
+2017-11-01,Tanjung Uban,30822.0,Laut
+2017-12-01,Tanjung Uban,44783.0,Laut
+2018-01-01,Tanjung Uban,26993.0,Laut
+2018-02-01,Tanjung Uban,31758.0,Laut
+2018-03-01,Tanjung Uban,37364.0,Laut
+2018-04-01,Tanjung Uban,32237.0,Laut
+2018-05-01,Tanjung Uban,33833.0,Laut
+2018-06-01,Tanjung Uban,40296.0,Laut
+2018-07-01,Tanjung Uban,52228.0,Laut
+2018-08-01,Tanjung Uban,57643.0,Laut
+2018-09-01,Tanjung Uban,53214.0,Laut
+2018-10-01,Tanjung Uban,47742.0,Laut
+2018-11-01,Tanjung Uban,47833.0,Laut
+2018-12-01,Tanjung Uban,61258.0,Laut
+2019-01-01,Tanjung Uban,40601.0,Laut
+2019-02-01,Tanjung Uban,49394.0,Laut
+2019-03-01,Tanjung Uban,61156.0,Laut
+2019-04-01,Tanjung Uban,48560.0,Laut
+2019-05-01,Tanjung Uban,58673.0,Laut
+2019-06-01,Tanjung Uban,61850.0,Laut
+2019-07-01,Tanjung Uban,49247.0,Laut
+2019-08-01,Tanjung Uban,55638.0,Laut
+2019-09-01,Tanjung Uban,50232.0,Laut
+2019-10-01,Tanjung Uban,47670.0,Laut
+2019-11-01,Tanjung Uban,52374.0,Laut
+2019-12-01,Tanjung Uban,59340.0,Laut
+2023-01-01,Tanjung Uban,14957.0,Laut
+2023-02-01,Tanjung Uban,11265.0,Laut
+2023-03-01,Tanjung Uban,19018.0,Laut
+2023-04-01,Tanjung Uban,18547.0,Laut
+2023-05-01,Tanjung Uban,15001.0,Laut
+2023-06-01,Tanjung Uban,26345.0,Laut
+2023-07-01,Tanjung Uban,17619.0,Laut
+2023-08-01,Tanjung Uban,19237.0,Laut
+2023-09-01,Tanjung Uban,20542.0,Laut
+2023-10-01,Tanjung Uban,16838.0,Laut
+2023-11-01,Tanjung Uban,16544.0,Laut
+2023-12-01,Tanjung Uban,26205.0,Laut
+2024-01-01,Tanjung Uban,11442.0,Laut
+2024-02-01,Tanjung Uban,18432.0,Laut
+2024-03-01,Tanjung Uban,20741.0,Laut
+2024-04-01,Tanjung Uban,14202.0,Laut
+2024-05-01,Tanjung Uban,14974.0,Laut
+2024-06-01,Tanjung Uban,22829.0,Laut
+2024-07-01,Tanjung Uban,16210.0,Laut
+2024-08-01,Tanjung Uban,20655.0,Laut
+2024-09-01,Tanjung Uban,16058.0,Laut
+2024-10-01,Tanjung Uban,15916.0,Laut
+2024-11-01,Tanjung Uban,14933.0,Laut
+2024-12-01,Tanjung Uban,22213.0,Laut
